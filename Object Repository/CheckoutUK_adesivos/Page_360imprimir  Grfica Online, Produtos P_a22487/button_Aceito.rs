@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Aceito</name>
    <tag></tag>
-   <elementGuidId>198ded6e-0c3c-4bdd-9dca-378d1b6dda49</elementGuidId>
+   <elementGuidId>ca502dab-5902-4cfe-818d-a9c7636e7ea6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e005ac0d-7f3c-425f-aa1f-4b376d2da5b9</webElementGuid>
+      <webElementGuid>f19e8012-f0b5-42a0-9701-686073c1834f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>align-right primary slidedown-button</value>
-      <webElementGuid>88b7ce4d-c6d2-4012-a9fd-f29dd5b409f3</webElementGuid>
+      <webElementGuid>b1ec3a43-27c9-4d45-b7a9-87e241cd708d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>onesignal-slidedown-allow-button</value>
-      <webElementGuid>02edf958-ea53-449b-b60d-671cfb69fa5c</webElementGuid>
+      <webElementGuid>ba2f06a7-0dd8-452a-b682-95833d2973f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Aceito</value>
-      <webElementGuid>7ca41267-9260-407f-94be-bd021cc4676a</webElementGuid>
+      <webElementGuid>992efde3-58a4-425f-941a-20929d514dd9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;onesignal-slidedown-allow-button&quot;)</value>
-      <webElementGuid>03fda95d-2cea-4035-8348-97154bb4c480</webElementGuid>
+      <webElementGuid>181a74a2-f3b1-48e9-be20-5b9942e11d9f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='onesignal-slidedown-allow-button']</value>
-      <webElementGuid>b61c420b-17c8-4bb8-99c5-f27f5bc9b5bd</webElementGuid>
+      <webElementGuid>36096a55-3dad-4d0f-9681-3aacccb45c3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='slidedown-footer']/button</value>
-      <webElementGuid>d94e6ccd-b3a6-4ad4-8185-2914717b8c1d</webElementGuid>
+      <webElementGuid>d1d5ef5a-eeb1-457d-aa43-5c2b4c92c215</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,15 +78,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Gostaríamos de lhe enviar notificações com as principais novidades.'])[1]/following::button[1]</value>
-      <webElementGuid>c1d10b52-f113-4df6-abbd-da8f1f6c06bf</webElementGuid>
+      <webElementGuid>25110c95-f66d-4ecd-9b43-a290a4bf72c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'onesignal-slidedown-allow-button', '&quot;', ')')])[1]/following::button[1]</value>
-      <webElementGuid>499f3c61-e16b-4b8d-9d54-037999dc3d5c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[1]/following::button[1]</value>
+      <webElementGuid>5090fab9-343d-45b1-a4f9-621c48306f63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Não, obrigado'])[1]/preceding::button[1]</value>
-      <webElementGuid>f3410d97-3162-4029-9148-b2b2d6b7d780</webElementGuid>
+      <webElementGuid>b72500c7-7440-4be7-8085-d5e995e96903</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,15 +102,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Aceito']/parent::*</value>
-      <webElementGuid>22cb5ad0-178c-4e6f-90db-7ecfe8f772d3</webElementGuid>
+      <webElementGuid>20146efe-52d1-4514-90a7-25ae3d26539f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[8]/div/div/div[2]/button</value>
-      <webElementGuid>94e31ea3-e08d-4702-9fb9-4b292e94884b</webElementGuid>
+      <value>//div[7]/div/div/div[2]/button</value>
+      <webElementGuid>1e0dac21-3192-45ce-be40-6c8ee9895c54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'onesignal-slidedown-allow-button' and (text() = 'Aceito' or . = 'Aceito')]</value>
-      <webElementGuid>c268bd34-907f-4d12-8f5c-831b5e08cdf9</webElementGuid>
+      <webElementGuid>9972c49e-d279-4104-b6a9-8c5acd4a6bc0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

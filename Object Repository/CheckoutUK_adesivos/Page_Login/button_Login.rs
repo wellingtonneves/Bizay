@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_INICIAR COMPRA</name>
+   <name>button_Login</name>
    <tag></tag>
-   <elementGuidId>7d3c2aa6-5f40-49c3-9818-23ea35334857</elementGuidId>
+   <elementGuidId>00e93555-fa6c-4ae7-a827-d5d216faf95b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='begin_purchase']</value>
+         <value>//button[@id='Login']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#begin_purchase</value>
+         <value>#Login</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,40 +21,48 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>67ee5408-d0ad-40c2-9569-eee2d68a740c</webElementGuid>
+      <value>button</value>
+      <webElementGuid>f81f9375-369a-44a3-b467-db916825846f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>2377be86-fd05-41f4-8013-18f511ff9bb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>begin_purchase</value>
-      <webElementGuid>9c466bfe-15d6-4923-b545-8b47df12d738</webElementGuid>
+      <value>Login</value>
+      <webElementGuid>dee319f2-bc4e-4ae4-bc84-56cea148fc55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>col-xs-12 begin-purchase-button</value>
-      <webElementGuid>cad92e3c-29a8-4845-b51b-1d6352570cca</webElementGuid>
+      <value>btn360 btn-blue btn</value>
+      <webElementGuid>31311718-8505-4a05-ad3d-974f0d4647ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-loading-text</name>
+      <type>Main</type>
+      <value>Please wait…</value>
+      <webElementGuid>c6b8315b-a1f3-4a4f-9302-570226d50062</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ng-click</name>
       <type>Main</type>
-      <value>beginSkuPurchase()</value>
-      <webElementGuid>97f9fb71-2673-4c06-824c-bdc15798a0dd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ng-disabled</name>
-      <type>Main</type>
-      <value>!canInteract() || freeCVLimit</value>
-      <webElementGuid>6b992d7f-4934-4f1c-b8a1-ac1ea9170918</webElementGuid>
+      <value>callDataLayer('Click','Account_Login','Login','Login')</value>
+      <webElementGuid>0641f267-7202-4ea4-aa34-e9f2e4375953</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,84 +70,84 @@
       <name>text</name>
       <type>Main</type>
       <value>
-                        INICIAR COMPRA >
-                    </value>
-      <webElementGuid>6a3eec2c-b02f-4854-8bd4-f3e4a2557b41</webElementGuid>
+                    Login
+                </value>
+      <webElementGuid>0a7d0fd2-a185-4280-8987-6bf45a88dc7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;begin_purchase&quot;)</value>
-      <webElementGuid>ff42a90d-c413-477f-87ea-b709a5739f1d</webElementGuid>
+      <value>id(&quot;Login&quot;)</value>
+      <webElementGuid>b3a55256-04e4-402b-ba2b-3c7420335a2b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//div[@id='begin_purchase']</value>
-      <webElementGuid>bb17b38c-b876-41fd-902f-0dee617a0ebb</webElementGuid>
+      <value>//button[@id='Login']</value>
+      <webElementGuid>fe75a817-7798-45b7-93c7-a234fb5533f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='calculatorController']/div/div[2]/div/div[5]</value>
-      <webElementGuid>4ea48b2f-d773-457b-8f0a-ff605e22e41b</webElementGuid>
+      <value>//div[@id='collapseLoginForm']/form/div[4]/button</value>
+      <webElementGuid>ed98caa5-c68a-4f4e-adb2-bae62b78c772</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantidade'])[3]/following::div[10]</value>
-      <webElementGuid>588b359e-9faa-40d9-9c88-257ee429b49c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recover Password'])[1]/following::button[1]</value>
+      <webElementGuid>bf8fbd47-7737-4eb4-8897-47d518c1294c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Garantia de preço mais baixo.'])[1]/preceding::div[1]</value>
-      <webElementGuid>076ec40a-dd03-43ff-8fc3-7ee49e2fcee5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='@'])[3]/following::button[1]</value>
+      <webElementGuid>45d4f928-f99f-4342-b9a1-5f9892178f23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cartões de Visita'])[5]/preceding::div[3]</value>
-      <webElementGuid>35235c0d-1256-44ae-a715-b910259c2d39</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New customer?'])[2]/preceding::button[1]</value>
+      <webElementGuid>3b1779ad-2eb7-4280-a4e0-2875932dc9aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='INICIAR COMPRA >']/parent::*</value>
-      <webElementGuid>4ccfc166-7558-40a1-9848-28f2357536e4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up and receive exclusive offers for clients'])[2]/preceding::button[1]</value>
+      <webElementGuid>c5f65e6a-ba45-4aae-b924-69b4fa3131be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div[5]</value>
-      <webElementGuid>4a63833c-3e2b-4a00-be75-407c47be4291</webElementGuid>
+      <value>//div[4]/button</value>
+      <webElementGuid>c09656dd-0edc-4fb2-a925-ada4debd10bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[@id = 'begin_purchase' and (text() = '
-                        INICIAR COMPRA >
-                    ' or . = '
-                        INICIAR COMPRA >
-                    ')]</value>
-      <webElementGuid>2810668a-a9d0-4fc7-ab0a-5573f1e38b84</webElementGuid>
+      <value>//button[@type = 'submit' and @id = 'Login' and (text() = '
+                    Login
+                ' or . = '
+                    Login
+                ')]</value>
+      <webElementGuid>33b2ea10-b163-44f7-9098-57e9c8cca077</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -19,15 +19,25 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.360imprimir.pt/')
+WebUI.navigateToUrl('https://alpha.360imprimir.pt/')
 
-WebUI.click(findTestObject('Object Repository/Compra/Page_360imprimir  A maior loja de produtos _34e3ac/button_Aceito'))
+WebUI.click(findTestObject('Object Repository/CheckoutUK_adesivos/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
 
-WebUI.click(findTestObject('Object Repository/Compra/Page_360imprimir  A maior loja de produtos _34e3ac/p_Cartes de Visita'))
+WebUI.click(findTestObject('Object Repository/CheckoutUK_adesivos/Page_360imprimir  Grfica Online, Produtos P_a22487/span_Portugal'))
 
-WebUI.click(findTestObject('Object Repository/Compra/Page_Imprimir online de Cartes de Visita de_bdf00c/span_Cartes de Visita 55 x 85 mm Retangular'))
+WebUI.click(findTestObject('Object Repository/CheckoutUK_adesivos/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Gr-Bretanha'))
 
-WebUI.click(findTestObject('Object Repository/Compra/Page_500 por 9,80   Imprimir Cartes de Visi_30d9fd/div_INICIAR COMPRA'))
+WebUI.click(findTestObject('Object Repository/CheckoutUK_adesivos/Page_BIZAY  Online Printing Services, Promo_761a6c/a_Login  Register'))
+
+WebUI.setText(findTestObject('Object Repository/CheckoutUK_adesivos/Page_Login/input__UserName'), 'dcilurzo1@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/CheckoutUK_adesivos/Page_Login/input__Password'), 'aeHFOx8jV/A=')
+
+WebUI.click(findTestObject('Object Repository/CheckoutUK_adesivos/Page_Login/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/CheckoutUK_adesivos/Page_Debora Syone/span_Other products'))
+
+WebUI.click(findTestObject('Object Repository/CheckoutUK_adesivos/Page_Debora Syone/p_Stickers'))
 
 WebUI.closeBrowser()
 
