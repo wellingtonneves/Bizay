@@ -17,3 +17,39 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://alpha.360imprimir.pt/')
+
+WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
+
+WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
+
+WebUI.setText(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/input__UserName'), 'dcilurzo1@gmail.com')
+
+WebUI.setText(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/input__ConfirmUserName'), 'dcilurzo1@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/input__Password'), 'aeHFOx8jV/A=')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/input__ConfirmPassword'), 'aeHFOx8jV/A=')
+
+WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/input_Termos e Condies_gpdrCheckbox'))
+
+WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/div_Criar Conta'))
+
+WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/i_Particular_icon-ok-sign icon-3x'))
+
+WebUI.setText(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/input_Apelido_Name'), 'Debora')
+
+WebUI.setText(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/input_Apelido_Surname'), 'Syone')
+
+WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/i_Feminino_icon-ok-sign icon-2x'))
+
+WebUI.setText(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/input_Telemvel_Phone'), '961138965')
+
+WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/input_Telemvel_createClient'))
+
+WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_Debora Syone/button_'))
+
+WebUI.closeBrowser()
+
