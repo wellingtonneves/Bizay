@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Vinil 297 x 420 mm (A3) Sem extra</name>
+   <tag></tag>
+   <elementGuidId>01c1adc7-968f-4a32-a497-fe974ef14af9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='algolia-context-search']/div/div[2]/div[2]/div[2]/div[2]/ul/li[2]/div[2]/div/a/div[3]/div/h3/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fdcc419d-8b22-423a-8acd-e64771e0c02c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ais-Highlight-nonHighlighted custom-highlight</value>
+      <webElementGuid>19e989f3-cc07-4ca8-bc11-6faa7a1d6bcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vinil 297 x 420 mm (A3) Sem extra</value>
+      <webElementGuid>ae9e197e-dc73-4388-997a-3f280b383ac7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;context-pages&quot;)/div[@id=&quot;algolia-context-search&quot;]/div[@class=&quot;ais-InstantSearch__root&quot;]/div[@class=&quot;col-sm-9 right-panel&quot;]/div[2]/div[2]/div[@class=&quot;ais-Hits&quot;]/ul[@class=&quot;ais-Hits-list&quot;]/li[@class=&quot;ais-Hits-item&quot;]/div[@class=&quot;hit hidden-xs&quot;]/div[@class=&quot;hit-wrapper&quot;]/a[@class=&quot;hit-url&quot;]/div[@class=&quot;product-desc-wrapper&quot;]/div[@class=&quot;hit-title title-2-lines&quot;]/h3[@class=&quot;ais-Highlight custom-ais-highlight&quot;]/span[@class=&quot;ais-Highlight-nonHighlighted custom-highlight&quot;]</value>
+      <webElementGuid>ab73fc84-2952-4041-baec-f1c396e30fe3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='algolia-context-search']/div/div[2]/div[2]/div[2]/div[2]/ul/li[2]/div[2]/div/a/div[3]/div/h3/span</value>
+      <webElementGuid>e4bb216a-911f-4465-a1d3-70a5b8f3f369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promoção'])[4]/following::span[1]</value>
+      <webElementGuid>b6060e62-9edb-4e0a-b6de-0f046eb0e2b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div[2]/div/a/div[3]/div/h3/span</value>
+      <webElementGuid>48e32345-ec32-4574-a421-38c218072a1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Vinil 297 x 420 mm (A3) Sem extra' or . = 'Vinil 297 x 420 mm (A3) Sem extra')]</value>
+      <webElementGuid>956cfb6d-16ca-4749-b5d7-cee4ea02de9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
