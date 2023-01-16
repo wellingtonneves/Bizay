@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Choose this design</name>
+   <tag></tag>
+   <elementGuidId>611c86c7-ee3c-4dd9-91e1-05e4236b3c53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='chooseBtn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#chooseBtn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6acc38e5-1292-4e7c-a62a-2fb647db9cd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>chooseBtn</value>
+      <webElementGuid>5b93d119-dc88-45fc-9332-78a138c7d8f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>chooseThisTemplate()</value>
+      <webElementGuid>5ca128e2-1e6c-48c0-9753-8191dd7f9a4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>isLoading</value>
+      <webElementGuid>bd99c88f-9d31-487b-b041-303f9b3a92a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> btn btn-primary btn-md col-xs-6 select-buttons</value>
+      <webElementGuid>d3d60974-b0a6-40b7-acfd-d40f57cd5b03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    Choose this design 
+                                </value>
+      <webElementGuid>e6ca258d-1ce1-4c9f-b504-c81a70dc1ee5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chooseBtn&quot;)</value>
+      <webElementGuid>e4cbf31a-30ee-4c92-8c94-23520e1c8ca9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='chooseBtn']</value>
+      <webElementGuid>e094e30f-bf09-449c-876d-0f4c2cdfde87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='templateDetailsModal']/div/div/div/div/div[3]/button</value>
+      <webElementGuid>f0fb3b03-b130-44e0-98e7-99ac0bb818c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='| + £0.00'])[1]/following::button[1]</value>
+      <webElementGuid>5ae158c6-1ad8-4c13-bd6c-29f43eee74fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How does it work?'])[1]/preceding::button[2]</value>
+      <webElementGuid>6de9ebdc-b5de-4db2-b651-e12b81db3b01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tell us what you want and our team will create a design for you!'])[1]/preceding::button[2]</value>
+      <webElementGuid>b48279e9-8e86-4665-b705-125aef4f66ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Choose this design']/parent::*</value>
+      <webElementGuid>d8b6cbf4-7e6f-41e0-a151-4097b879edb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div/div/div/div[3]/button</value>
+      <webElementGuid>b3aac921-94b4-4e69-970c-414d243dc9ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'chooseBtn' and (text() = '
+                                    Choose this design 
+                                ' or . = '
+                                    Choose this design 
+                                ')]</value>
+      <webElementGuid>32ec871d-a067-459c-8f5b-831e95b1ab20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
