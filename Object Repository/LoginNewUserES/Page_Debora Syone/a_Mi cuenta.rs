@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mi cuenta</name>
+   <tag></tag>
+   <elementGuidId>bff9e0ad-96ae-409f-b4ae-766ace0116e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='my-account-nav']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#my-account-nav</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>08e34b56-8abf-4644-96b2-f6e8263e74ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-table-vertical</value>
+      <webElementGuid>c9815c29-e518-4aa3-be42-cef784399e7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>fb7e836e-a5fa-4931-820c-9519310fa00c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return false</value>
+      <webElementGuid>5a92a129-d678-4076-960a-30268813e4b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>my-account-nav</value>
+      <webElementGuid>35ecc367-76aa-4eb4-a062-352a9ec30f9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Área del cliente</value>
+      <webElementGuid>ed716139-89ab-47e9-90b2-6f862fb95832</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Mi cuenta
+</value>
+      <webElementGuid>2c35382c-b5b1-4a46-b31b-44c613938bc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;my-account-nav&quot;)</value>
+      <webElementGuid>971bccd5-9473-401f-bbd8-8b0b608230a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='my-account-nav']</value>
+      <webElementGuid>a154974a-5d0d-4372-913c-5e3d0c60081f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrap']/div[2]/div/div[3]/div/div[4]/div/div[6]/a</value>
+      <webElementGuid>a2b0d290-1773-4f48-8850-9b079d7cbd6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Mi cuenta')]</value>
+      <webElementGuid>c7aa4041-64b5-47e5-8a57-abf9807a8d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Más productos'])[1]/following::a[5]</value>
+      <webElementGuid>5c1a314e-b5e3-43c5-b208-5db0e77fc81e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[1]/following::a[6]</value>
+      <webElementGuid>461531e2-021e-48f9-b232-bb744ba19ad5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Datos de la Cuenta'])[1]/preceding::a[1]</value>
+      <webElementGuid>264b67c6-8402-4bd2-9f9d-4252cc653bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Direcciones'])[1]/preceding::a[2]</value>
+      <webElementGuid>0c75bc3f-74ed-48fb-98c7-1390c0ed3cc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mi cuenta']/parent::*</value>
+      <webElementGuid>b3a9ca93-708e-4114-be3a-b69fc70a2040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[4]</value>
+      <webElementGuid>cc78673f-be8b-48c3-a467-398c222d0d78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a</value>
+      <webElementGuid>2abce65b-5a6f-4508-ab17-9d1d2f59370d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and @id = 'my-account-nav' and @title = 'Área del cliente' and (text() = '
+    Mi cuenta
+' or . = '
+    Mi cuenta
+')]</value>
+      <webElementGuid>1c78efa3-2e4f-4b2e-bc38-a20d8438f93c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

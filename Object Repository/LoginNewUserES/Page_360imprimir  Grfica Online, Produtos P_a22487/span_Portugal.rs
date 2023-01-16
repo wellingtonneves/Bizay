@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Portugal</name>
+   <tag></tag>
+   <elementGuidId>8bf92421-2e8c-4fb8-8ff7-73cd7d23ee44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='languageSwitcher']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#languageSwitcher > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>33431d6f-730a-4d43-b5af-fd01704f3945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Portugal |</value>
+      <webElementGuid>6d4758b3-285a-41a4-be91-845511401ffe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;languageSwitcher&quot;)/span[1]</value>
+      <webElementGuid>21028f13-eed7-46b9-a709-139027aeb8a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='languageSwitcher']/span</value>
+      <webElementGuid>5729dce2-c37b-4e21-a52f-a5842c61ef1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Serviço Apoio ao Cliente'])[1]/following::span[1]</value>
+      <webElementGuid>6927271c-b53a-47f1-9fbb-c29161d9470a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT'])[1]/preceding::span[1]</value>
+      <webElementGuid>d3ace1c7-a8a7-48f1-975e-1ea9337b041f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Portugal'])[1]/preceding::span[2]</value>
+      <webElementGuid>d7f6f5bd-8c91-4a5d-84aa-f10e9b27dd79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Portugal |']/parent::*</value>
+      <webElementGuid>0fa8b484-9782-44b0-be7b-db6a2f0e6d71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/span</value>
+      <webElementGuid>195d3981-b1dd-4960-a190-30dd05f65950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Portugal |' or . = ' Portugal |')]</value>
+      <webElementGuid>fe2d74de-107a-484f-8585-7109274b6eae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
