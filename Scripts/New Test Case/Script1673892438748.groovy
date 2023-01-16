@@ -17,3 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.360imprimir.pt/')
+
+WebUI.click(findTestObject('Object Repository/Compra/Page_360imprimir  A maior loja de produtos _34e3ac/button_Aceito'))
+
+WebUI.click(findTestObject('Object Repository/Compra/Page_360imprimir  A maior loja de produtos _34e3ac/p_Cartes de Visita'))
+
+WebUI.click(findTestObject('Object Repository/Compra/Page_Imprimir online de Cartes de Visita de_bdf00c/span_Cartes de Visita 55 x 85 mm Retangular'))
+
+WebUI.click(findTestObject('Object Repository/Compra/Page_500 por 9,80   Imprimir Cartes de Visi_30d9fd/div_INICIAR COMPRA'))
+
+WebUI.closeBrowser()
+
