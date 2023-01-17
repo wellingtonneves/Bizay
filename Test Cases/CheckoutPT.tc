@@ -5,4 +5,11 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>0a657cdc-85a9-4b81-b633-aaeecfb56ecd</testCaseGuid>
+   <variable>
+      <defaultValue>'uk'</defaultValue>
+      <description></description>
+      <id>6e59a5ab-c421-42e3-addd-3455f4a30e1e</id>
+      <masked>false</masked>
+      <name>locale</name>
+   </variable>
 </TestCaseEntity>
