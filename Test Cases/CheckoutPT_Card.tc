@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>CheckoutPT</name>
+   <name>CheckoutPT_Card</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>0a657cdc-85a9-4b81-b633-aaeecfb56ecd</testCaseGuid>

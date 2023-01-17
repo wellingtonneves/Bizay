@@ -70,33 +70,33 @@ else if (locale == "pt")  {
 	
 	//WebUI.navigateToUrl('https://alpha.360imprimir.pt/')
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT_flyer/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
+	WebUI.click(findTestObject('Object Repository/Checkout_flyer/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT_flyer/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
+	WebUI.click(findTestObject('Object Repository/Checkout_flyer/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
 	
-	WebUI.setText(findTestObject('Object Repository/CheckoutPT_flyer/Page_Iniciar sesso/input__UserName'), 'dcilurzo1@gmail.com')
+	WebUI.setText(findTestObject('Object Repository/Checkout_flyer/Page_Iniciar sesso/input__UserName'), 'dcilurzo1@gmail.com')
 	
-	WebUI.setEncryptedText(findTestObject('Object Repository/CheckoutPT_flyer/Page_Iniciar sesso/input__Password'), 'aeHFOx8jV/A=')
+	WebUI.setEncryptedText(findTestObject('Object Repository/Checkout_flyer/Page_Iniciar sesso/input__Password'), 'aeHFOx8jV/A=')
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT_flyer/Page_Iniciar sesso/button_Iniciar sesso'))
+	WebUI.click(findTestObject('Object Repository/Checkout_flyer/Page_Iniciar sesso/button_Iniciar sesso'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT_flyer/Page_Debora Syone/span_Mais produtos'))
+	WebUI.click(findTestObject('Object Repository/Checkout_flyer/Page_Debora Syone/span_Mais produtos'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT_flyer/Page_Debora Syone/p_Os Mais Vendidos'))
+	WebUI.click(findTestObject('Object Repository/Checkout_flyer/Page_Debora Syone/p_Os Mais Vendidos'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT_flyer/Page_Debora Syone/p_Flyers da JF'))
+	WebUI.click(findTestObject('Object Repository/Checkout_flyer/Page_Debora Syone/p_Flyers da JF'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT_flyer/Page_4000 Flyers 25,89  Imprimir Flyers Bar_5d5600/div_INICIAR COMPRA'))
+	WebUI.click(findTestObject('Object Repository/Checkout_flyer/Page_4000 Flyers 25,89  Imprimir Flyers Bar_5d5600/div_INICIAR COMPRA'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT_flyer/Page_Flyer/span_Ver Design'))
+	WebUI.click(findTestObject('Object Repository/Checkout_flyer/Page_Flyer/span_Ver Design'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT_flyer/Page_Flyer/button_Escolher este design'))
+	WebUI.click(findTestObject('Object Repository/Checkout_flyer/Page_Flyer/button_Escolher este design'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT_flyer/Page_Crie o(s) seu(s) Flyers da JF 105 x 14_4b906f/a_Fechar'))
+	WebUI.click(findTestObject('Object Repository/Checkout_flyer/Page_Crie o(s) seu(s) Flyers da JF 105 x 14_4b906f/a_Fechar'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT_flyer/Page_Crie o(s) seu(s) Flyers da JF 105 x 14_4b906f/div_Finalizar'))
+	WebUI.click(findTestObject('Object Repository/Checkout_flyer/Page_Crie o(s) seu(s) Flyers da JF 105 x 14_4b906f/div_Finalizar'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT_flyer/Page_Carrinho de Compras/div_Seguinte'))
+	WebUI.click(findTestObject('Object Repository/Checkout_flyer/Page_Carrinho de Compras/div_Seguinte'))
 	
 	WebUI.closeBrowser()
 }

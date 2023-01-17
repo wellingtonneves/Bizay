@@ -22,7 +22,7 @@
          <masked>false</masked>
          <name>locale</name>
       </iterationNameVariable>
-      <testCaseId>Test Cases/CheckoutPT</testCaseId>
+      <testCaseId>Test Cases/CheckoutPT_Card</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>73237d82-774c-4e0b-aebd-9bd4b11ecd63</id>
