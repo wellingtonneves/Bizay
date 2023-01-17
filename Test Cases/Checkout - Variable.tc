@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Checkout - Variable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9cf239a2-df43-4205-a1c6-5028288d1a37</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>007ee6f4-7f95-4c98-9f19-6b60f76afd79</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'es'</defaultValue>
+      <description></description>
+      <id>007ee6f4-7f95-4c98-9f19-6b60f76afd79</id>
+      <masked>false</masked>
+      <name>locale</name>
+   </variable>
+</TestCaseEntity>
