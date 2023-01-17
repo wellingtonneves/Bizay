@@ -27,11 +27,12 @@ RunConfiguration.setWebDriverPreferencesProperty("prefs", prefs)
 if (locale == "uk") {
 	
 	WebUI.openBrowser("https://www.bizay.co.uk/");
-	WebUI.click(findTestObject('Object Repository/CheckoutUK_flyer/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutUK_flyer/Page_360imprimir  Grfica Online, Produtos P_a22487/span_Portugal'))
+	//WebUI.click(findTestObject('Object Repository/CheckoutUK_flyer/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutUK_flyer/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Gr-Bretanha'))
+	//WebUI.click(findTestObject('Object Repository/CheckoutUK_flyer/Page_360imprimir  Grfica Online, Produtos P_a22487/span_Portugal'))
+	
+	//WebUI.click(findTestObject('Object Repository/CheckoutUK_flyer/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Gr-Bretanha'))
 	
 	WebUI.click(findTestObject('Object Repository/CheckoutUK_flyer/Page_BIZAY  Online Printing Services, Promo_761a6c/a_Login  Register'))
 	
