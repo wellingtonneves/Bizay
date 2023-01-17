@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>CheckoutPTUK</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>f95ada82-6416-41de-bb4c-2f28329922ae</testSuiteGuid>
+   <testCaseLink>
+      <guid>0ba903b0-a888-470e-99dd-b25e3386b660</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'uk'</defaultValue>
+         <description></description>
+         <id>427b9117-6491-4cdc-8a9f-c9949bcd8117</id>
+         <masked>false</masked>
+         <name>locale</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/CheckouPT_Flyer</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f03a361f-7eed-4dfe-9512-54322e9be4b7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/languages</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>f03a361f-7eed-4dfe-9512-54322e9be4b7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>locale</value>
+         <variableId>427b9117-6491-4cdc-8a9f-c9949bcd8117</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
