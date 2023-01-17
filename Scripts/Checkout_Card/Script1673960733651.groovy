@@ -39,33 +39,33 @@ RunConfiguration.setWebDriverPreferencesProperty("prefs", prefs)
 if (locale == "pt") {
 	WebUI.openBrowser('https://alpha.360imprimir.pt/')
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
+	WebUI.click(findTestObject('Object Repository/Checkout_Card/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
+	WebUI.click(findTestObject('Object Repository/Checkout_Card/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
 	
-	WebUI.setText(findTestObject('Object Repository/CheckoutPT/Page_Iniciar sesso/input__UserName'), 'dcilurzo1@gmail.com')
+	WebUI.setText(findTestObject('Object Repository/Checkout_Card/Page_Iniciar sesso/input__UserName'), 'dcilurzo1@gmail.com')
 	
-	WebUI.setEncryptedText(findTestObject('Object Repository/CheckoutPT/Page_Iniciar sesso/input__Password'), 'aeHFOx8jV/A=')
+	WebUI.setEncryptedText(findTestObject('Object Repository/Checkout_Card/Page_Iniciar sesso/input__Password'), 'aeHFOx8jV/A=')
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT/Page_Iniciar sesso/button_Iniciar sesso'))
+	WebUI.click(findTestObject('Object Repository/Checkout_Card/Page_Iniciar sesso/button_Iniciar sesso'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT/Page_Debora Syone/span_Mais produtos'))
+	WebUI.click(findTestObject('Object Repository/Checkout_Card/Page_Debora Syone/span_Mais produtos'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT/Page_Debora Syone/p_Os Mais Vendidos'))
+	WebUI.click(findTestObject('Object Repository/Checkout_Card/Page_Debora Syone/p_Os Mais Vendidos'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT/Page_Debora Syone/p_Cartes de Visita - ps'))
+	WebUI.click(findTestObject('Object Repository/Checkout_Card/Page_Debora Syone/p_Cartes de Visita - ps'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT/Page_PromoPrice 5,13 , PromoDiscount 70,59/a_Iniciar Compra'))
+	WebUI.click(findTestObject('Object Repository/Checkout_Card/Page_PromoPrice 5,13 , PromoDiscount 70,59/a_Iniciar Compra'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT/Page_Promoes e Descontos  Grfica Online  36_832fe9/span_Ver Design'))
+	WebUI.click(findTestObject('Object Repository/Checkout_Card/Page_Promoes e Descontos  Grfica Online  36_832fe9/span_Ver Design'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT/Page_Promoes e Descontos  Grfica Online  36_832fe9/button_Escolher este design'))
+	WebUI.click(findTestObject('Object Repository/Checkout_Card/Page_Promoes e Descontos  Grfica Online  36_832fe9/button_Escolher este design'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT/Page_Crie o(s) seu(s) Cartes de Visita - ps_adac70/a_Fechar'))
+	WebUI.click(findTestObject('Object Repository/Checkout_Card/Page_Crie o(s) seu(s) Cartes de Visita - ps_adac70/a_Fechar'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT/Page_Crie o(s) seu(s) Cartes de Visita - ps_adac70/div_Finalizar'))
+	WebUI.click(findTestObject('Object Repository/Checkout_Card/Page_Crie o(s) seu(s) Cartes de Visita - ps_adac70/div_Finalizar'))
 	
-	WebUI.click(findTestObject('Object Repository/CheckoutPT/Page_Carrinho de Compras/div_Seguinte'))
+	WebUI.click(findTestObject('Object Repository/Checkout_Card/Page_Carrinho de Compras/div_Seguinte'))
 	
 	WebUI.closeBrowser()
 }
