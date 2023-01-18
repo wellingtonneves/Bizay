@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>CheckoutVariable</name>
+   <name>PurchaseVariable</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,27 +10,34 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>42da2039-5d7f-4995-a6a1-6c0d01d08180</testSuiteGuid>
+   <testSuiteGuid>f75403a0-3a0e-4c28-8929-80811ffa8700</testSuiteGuid>
    <testCaseLink>
-      <guid>7ee90e21-b034-484c-8c50-e0ab9d358279</guid>
+      <guid>d372d9d1-e96c-423b-8e54-0fac5a3d3e96</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Checkout - Variable</testCaseId>
+      <iterationNameVariable>
+         <defaultValue>'uk'</defaultValue>
+         <description></description>
+         <id>34d36231-993f-41f7-ad1b-2f2876ed66a9</id>
+         <masked>false</masked>
+         <name>locale</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Purchase_Card - Variable</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>9b9c589c-eb12-47fa-9746-33e6072f34bd</id>
+         <id>f444c519-9ad8-4bb8-9bce-f427ee533cee</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/Objects</testDataId>
+         <testDataId>Data Files/languages</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>9b9c589c-eb12-47fa-9746-33e6072f34bd</testDataLinkId>
+         <testDataLinkId>f444c519-9ad8-4bb8-9bce-f427ee533cee</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>locale</value>
-         <variableId>007ee6f4-7f95-4c98-9f19-6b60f76afd79</variableId>
+         <variableId>34d36231-993f-41f7-ad1b-2f2876ed66a9</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>CheckoutVariable</name>
+   <name>LoginNewUserVariable</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,15 +10,15 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>42da2039-5d7f-4995-a6a1-6c0d01d08180</testSuiteGuid>
+   <testSuiteGuid>febc3c10-f77f-4d56-82b7-42118d5e98a6</testSuiteGuid>
    <testCaseLink>
-      <guid>7ee90e21-b034-484c-8c50-e0ab9d358279</guid>
+      <guid>50839e96-8612-41f1-bcd2-3cf155393931</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Checkout - Variable</testCaseId>
+      <testCaseId>Test Cases/LoginNewUser - Variable</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>9b9c589c-eb12-47fa-9746-33e6072f34bd</id>
+         <id>ffa1630d-eb59-42f8-bd41-849a1c36d038</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -27,10 +27,10 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>9b9c589c-eb12-47fa-9746-33e6072f34bd</testDataLinkId>
+         <testDataLinkId>ffa1630d-eb59-42f8-bd41-849a1c36d038</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>locale</value>
-         <variableId>007ee6f4-7f95-4c98-9f19-6b60f76afd79</variableId>
+         <variableId>ab32335c-9ac7-4044-9eea-12879aaabd70</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

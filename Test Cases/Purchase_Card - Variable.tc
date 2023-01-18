@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Purchase_Card - Variable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9dc54f5c-dac8-4232-8b12-d5c573260250</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>34d36231-993f-41f7-ad1b-2f2876ed66a9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'uk'</defaultValue>
+      <description></description>
+      <id>34d36231-993f-41f7-ad1b-2f2876ed66a9</id>
+      <masked>false</masked>
+      <name>locale</name>
+   </variable>
+</TestCaseEntity>
