@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Flyers</name>
+   <tag></tag>
+   <elementGuidId>82291040-8d16-4d3c-ab6b-0da46197c845</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menuitem-0-0-1']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menuitem-0-0-1 > p.ellip.ellip-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>23cd61a8-eb0f-430a-bd3e-d9b8b859b153</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ellip ellip-2</value>
+      <webElementGuid>d480c78a-355f-432b-bac9-5c2366f151f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Flyers</value>
+      <webElementGuid>2737e65a-a67f-42ba-965b-3384711aa665</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menuitem-0-0-1&quot;)/p[@class=&quot;ellip ellip-2&quot;]</value>
+      <webElementGuid>cb1d0662-2170-4bd3-a82b-d773d246b2e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='menuitem-0-0-1']/p</value>
+      <webElementGuid>25645fd7-be43-491e-9749-dcef1576c87b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other products'])[1]/following::p[4]</value>
+      <webElementGuid>44c4fadc-c5fa-4670-a532-2d9ee6705f4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(1)'])[1]/following::p[4]</value>
+      <webElementGuid>edbdce62-394f-41d6-9b36-0e45cb3a44df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Information'])[1]/preceding::p[300]</value>
+      <webElementGuid>f90e7ce9-ca38-4a09-9049-5f8e7a4b1e58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Addresses'])[1]/preceding::p[300]</value>
+      <webElementGuid>2e72c499-a011-44a3-a847-77b2581689ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Flyers']/parent::*</value>
+      <webElementGuid>d972fb18-e5fd-4808-be53-ee8f9030a318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/ul/li[3]/a/p</value>
+      <webElementGuid>1a851802-98cc-4e4f-a2bd-96a893e9cdba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Flyers' or . = 'Flyers')]</value>
+      <webElementGuid>ed3b0b97-5dd1-4c40-902a-44d7736fb3a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

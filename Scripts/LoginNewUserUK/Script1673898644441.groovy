@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Object Repository/LoginNewUserUK/Page_360imprimir  G
 
 WebUI.click(findTestObject('Object Repository/LoginNewUserUK/Page_BIZAY  Online Printing Services, Promo_761a6c/a_Login  Register'))
 
-WebUI.setText(findTestObject('Object Repository/LoginNewUserUK/Page_Login/input__UserName'), 'dcilurzo1@gmail.com')
+WebUI.setText(findTestObject('Object Repository/LoginNewUserUK/Page_Login/input__UserName'), 'dcilurzo4@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/LoginNewUserUK/Page_Login/input__Password'), 'aeHFOx8jV/A=')
 

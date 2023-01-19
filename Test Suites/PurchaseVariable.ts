@@ -10,34 +10,33 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>f75403a0-3a0e-4c28-8929-80811ffa8700</testSuiteGuid>
+   <testSuiteGuid>f6e4e1cf-8dbd-4567-b643-149849ae3c4e</testSuiteGuid>
    <testCaseLink>
-      <guid>d372d9d1-e96c-423b-8e54-0fac5a3d3e96</guid>
+      <guid>8b802355-7ba1-4dde-b4c6-6cf76dc99bea</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <iterationNameVariable>
-         <defaultValue>'uk'</defaultValue>
-         <description></description>
-         <id>34d36231-993f-41f7-ad1b-2f2876ed66a9</id>
-         <masked>false</masked>
-         <name>locale</name>
-      </iterationNameVariable>
-      <testCaseId>Test Cases/Purchase_Card - Variable</testCaseId>
+      <testCaseId>Test Cases/Purchase - Variable</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>f444c519-9ad8-4bb8-9bce-f427ee533cee</id>
+         <id>d52a3bb4-f0d6-42f8-bf74-70de6a96b1cb</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/languages</testDataId>
+         <testDataId>Data Files/LocaleProducts</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>f444c519-9ad8-4bb8-9bce-f427ee533cee</testDataLinkId>
+         <testDataLinkId>d52a3bb4-f0d6-42f8-bf74-70de6a96b1cb</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>locale</value>
-         <variableId>34d36231-993f-41f7-ad1b-2f2876ed66a9</variableId>
+         <variableId>edd08836-5ec2-4346-a6dc-d8898bdf4de4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d52a3bb4-f0d6-42f8-bf74-70de6a96b1cb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Products</value>
+         <variableId>5ea4cb3f-a2bf-4997-b675-ca9475bd6476</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

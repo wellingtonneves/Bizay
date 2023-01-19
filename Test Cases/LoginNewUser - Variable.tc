@@ -12,7 +12,7 @@
       <variableId>ab32335c-9ac7-4044-9eea-12879aaabd70</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'pt'</defaultValue>
+      <defaultValue>'uk'</defaultValue>
       <description></description>
       <id>ab32335c-9ac7-4044-9eea-12879aaabd70</id>
       <masked>false</masked>

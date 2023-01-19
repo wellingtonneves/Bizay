@@ -25,16 +25,15 @@ RunConfiguration.setWebDriverPreferencesProperty('prefs', prefs)
 
 if (locale == 'pt') {
     WebUI.openBrowser('https://alpha.360imprimir.pt/')
-	WebUI.click(findTestObject('Object Repository/DeleteBasket/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
+
+    WebUI.click(findTestObject('Object Repository/DeleteBasket/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
 } else if (locale == 'uk') {
     WebUI.openBrowser('https://alpha.bizay.co.uk/')
 }
 
 WebUI.click(findTestObject('Object Repository/DeleteBasket/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
 
-WebUI.setText(findTestObject('Object Repository/DeleteBasket/Page_Iniciar sesso/input__UserName'), 'dcilurzo1@gmail.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/DeleteBasket/Page_Iniciar sesso/input__Password'), 'aeHFOx8jV/A=')
+WebUI.callTestCase(findTestCase('UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/DeleteBasket/Page_Iniciar sesso/button_Iniciar sesso'))
 

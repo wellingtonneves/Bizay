@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreationNewUser - Variable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>588622cf-563c-45f1-aa6e-351bdc98f26a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6cf7b927-a55c-4b84-a2cf-3568b116fb5c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'pt'</defaultValue>
+      <description></description>
+      <id>6cf7b927-a55c-4b84-a2cf-3568b116fb5c</id>
+      <masked>false</masked>
+      <name>locale</name>
+   </variable>
+</TestCaseEntity>

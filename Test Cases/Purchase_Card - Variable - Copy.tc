@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Purchase_Card - Variable - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>edb0450e-5583-4cc7-b35e-754fb22df6d5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3aaaa38b-b887-45d7-8fb8-710600725a24</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'uk'</defaultValue>
+      <description></description>
+      <id>3aaaa38b-b887-45d7-8fb8-710600725a24</id>
+      <masked>false</masked>
+      <name>locale</name>
+   </variable>
+</TestCaseEntity>

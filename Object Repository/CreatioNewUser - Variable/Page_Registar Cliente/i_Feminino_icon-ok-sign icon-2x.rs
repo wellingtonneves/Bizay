@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Feminino_icon-ok-sign icon-2x</name>
+   <tag></tag>
+   <elementGuidId>b4c2f670-5d6d-487b-9437-eca3f4f22aa7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='createOrEditv2']/div[5]/div/label[3]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>fc22f64d-6158-493d-abca-3e53c8650042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-ok-sign icon-2x</value>
+      <webElementGuid>b3381f59-5484-4ab4-bbde-00e04f8f8616</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createOrEditv2&quot;)/div[5]/div[@class=&quot;form-group&quot;]/label[@class=&quot;circle-check-radio col-xs-6&quot;]/i[@class=&quot;icon-ok-sign icon-2x&quot;]</value>
+      <webElementGuid>97621d90-62a8-4f43-a6cf-121fd30de511</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='createOrEditv2']/div[5]/div/label[3]/i</value>
+      <webElementGuid>1168a2aa-2d0b-43b4-8aab-bfc5f0044992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[3]/i</value>
+      <webElementGuid>a9fde196-9882-429a-94fa-1164f90d2f44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

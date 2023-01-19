@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Criar Conta</name>
+   <tag></tag>
+   <elementGuidId>43c24f6e-7087-444f-ad67-1a33f388ee40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#createAccount</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='createAccount']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>380b7664-01a8-4fbe-bacc-653fb96ed8d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>createAccount</value>
+      <webElementGuid>4600048d-80cc-4396-acfc-598218bba976</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn360 btn-green btn btn-login</value>
+      <webElementGuid>82fab5b2-d151-40a3-85dd-b849fcff46b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>createNewAccount()</value>
+      <webElementGuid>0d3d5adf-bdba-43b9-a6cd-019275782c6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-loading-text</name>
+      <type>Main</type>
+      <value>Aguarde...</value>
+      <webElementGuid>f9392766-4a6d-4559-a1ef-a0b4a089ffdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>isCreateAccountDisable()</value>
+      <webElementGuid>bde8f290-a55c-440f-bc2d-8fb007c4187c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    Criar Conta
+                                </value>
+      <webElementGuid>3686aaa7-80d8-4ea8-92b2-57f7411c64b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createAccount&quot;)</value>
+      <webElementGuid>a206daa8-f618-4dc9-9f08-1b905d4ab8bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='createAccount']</value>
+      <webElementGuid>169717eb-887f-4b5d-b6fc-c5240cd14f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='colapseRegisterForm']/form/div[4]/div/div</value>
+      <webElementGuid>e981e920-805e-45d2-8b6b-db763eaefdf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[1]/following::div[5]</value>
+      <webElementGuid>6eafe9a5-646e-46b1-8d72-d00c09923239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Política de Cookies'])[1]/following::div[5]</value>
+      <webElementGuid>1a3c2217-4024-4f14-9b4a-e56605c837e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Já é cliente 360imprimir?'])[1]/preceding::div[1]</value>
+      <webElementGuid>815fbff8-800a-4de6-af11-efb54a7a8afa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Introduza os seus dados'])[1]/preceding::div[1]</value>
+      <webElementGuid>5b2fff9a-0c28-407c-abd4-7cc2d54b47f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Criar Conta']/parent::*</value>
+      <webElementGuid>474d85e0-f92f-4c51-8dc0-14ded51afeeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[4]/div/div</value>
+      <webElementGuid>d15e343e-2d40-463f-9ec6-dc8ddc47288d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'createAccount' and (text() = '
+                                    Criar Conta
+                                ' or . = '
+                                    Criar Conta
+                                ')]</value>
+      <webElementGuid>861f45e2-b76a-4c16-9b48-94464e00c921</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

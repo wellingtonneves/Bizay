@@ -31,7 +31,7 @@ WebUI.click(findTestObject('Object Repository/LoginNewUserBR/Page_360imprimir  G
 
 WebUI.click(findTestObject('Object Repository/LoginNewUserBR/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Cadastrar'))
 
-WebUI.setText(findTestObject('Object Repository/LoginNewUserBR/Page_Fazer Login/input__UserName'), 'dcilurzo1@gmail.com')
+WebUI.setText(findTestObject('Object Repository/LoginNewUserBR/Page_Fazer Login/input__UserName'), 'dcilurzo4@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/LoginNewUserBR/Page_Fazer Login/input__Password'), 'aeHFOx8jV/A=')
 

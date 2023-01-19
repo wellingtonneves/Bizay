@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Purchase - Variable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0cc9374e-6f1b-495c-9483-978e9928e5a8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>edd08836-5ec2-4346-a6dc-d8898bdf4de4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5ea4cb3f-a2bf-4997-b675-ca9475bd6476</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'pt'</defaultValue>
+      <description></description>
+      <id>edd08836-5ec2-4346-a6dc-d8898bdf4de4</id>
+      <masked>false</masked>
+      <name>locale</name>
+   </variable>
+   <variable>
+      <defaultValue>'flyers'</defaultValue>
+      <description></description>
+      <id>5ea4cb3f-a2bf-4997-b675-ca9475bd6476</id>
+      <masked>false</masked>
+      <name>Products</name>
+   </variable>
+</TestCaseEntity>
