@@ -16,11 +16,20 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/DeleteBasket2</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f677f003-04bc-493a-a4cd-71e3e86a06e9</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/languages</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>f677f003-04bc-493a-a4cd-71e3e86a06e9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>locale</value>
          <variableId>e61f862a-4387-4902-b953-4802288da002</variableId>
       </variableLink>
    </testCaseLink>
