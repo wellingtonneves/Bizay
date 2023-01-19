@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Login  Register</name>
+   <tag></tag>
+   <elementGuidId>297f6a4a-a3fe-4971-a258-ff334ef13383</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='login-register']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#login-register</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a1860493-efe3-4064-a5dc-5cbe04b619df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-table-vertical show-upselling-modal</value>
+      <webElementGuid>005be775-3f54-45e2-8d68-45c0a986ab77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Account/Login</value>
+      <webElementGuid>f379b6f3-043d-4776-bde9-215e6f52a374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>login-register</value>
+      <webElementGuid>3de47619-d6e0-41ab-b670-47cf8b2ecae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Client Area</value>
+      <webElementGuid>3e41c691-d082-4ee2-9112-2edbad1f9428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-eventregion</name>
+      <type>Main</type>
+      <value>MENU</value>
+      <webElementGuid>57bf6465-6767-4937-8fec-b9653914a781</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-eventsection</name>
+      <type>Main</type>
+      <value>ACCOUNT</value>
+      <webElementGuid>d9b2e4a9-d483-4b0b-bdb1-b22b8eed4829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-eventitem</name>
+      <type>Main</type>
+      <value>LOGIN</value>
+      <webElementGuid>40b7cd98-e8b1-4723-85f4-e6820692c060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Login / Register
+        </value>
+      <webElementGuid>415fbf2b-b2ba-469a-94e0-577aa9e29478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-register&quot;)</value>
+      <webElementGuid>55196cbe-57bc-4050-89cb-e4a77cf618dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='login-register']</value>
+      <webElementGuid>9862b6ea-7857-48fe-bb31-d05ffe905966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrap']/div[2]/div/div[3]/div/div[4]/div/div[6]/a</value>
+      <webElementGuid>cbc930c4-43ef-4b47-9cb5-cf91f62f8e87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Login / Register')]</value>
+      <webElementGuid>78477d9d-1ee0-4a09-b0a2-d4b37b5bed63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other products'])[1]/following::a[5]</value>
+      <webElementGuid>5ca64a78-36d1-4c19-b490-c0f2eaf151c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[1]/following::a[6]</value>
+      <webElementGuid>b2878893-2cff-4a3b-8d3c-9644300d7a91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‹'])[1]/preceding::a[5]</value>
+      <webElementGuid>b009d190-cfd4-4848-9d9d-2deff213ebfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Return'])[1]/preceding::a[5]</value>
+      <webElementGuid>f2723e05-c11b-4477-b403-42f99f15d6f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login / Register']/parent::*</value>
+      <webElementGuid>0fbd1f45-44f1-405a-9fba-8f42254d53ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Account/Login')]</value>
+      <webElementGuid>594dbe5e-f758-488c-a7b4-a9138593aacf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a</value>
+      <webElementGuid>3c38c1e8-78eb-4872-b623-bf62f1941fc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Account/Login' and @id = 'login-register' and @title = 'Client Area' and (text() = '
+            Login / Register
+        ' or . = '
+            Login / Register
+        ')]</value>
+      <webElementGuid>b671ec2d-5bbc-4ba6-a337-8b14548e2582</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
