@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Basket            (1)</name>
+   <name>span_Carrinho            (2)</name>
    <tag></tag>
-   <elementGuidId>246f0b1e-7870-4f3e-85c7-386316c813fb</elementGuidId>
+   <elementGuidId>14baa873-22cb-47fb-9176-c737591306ae</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>6b613f4e-a172-4b75-9f03-4cd5d616655f</webElementGuid>
+      <webElementGuid>dd165db6-993e-4bd7-bd60-b7fb8ce10155</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>cartAndNumber</value>
-      <webElementGuid>9682f1b8-25ce-4360-81d5-0de9b1c29020</webElementGuid>
+      <webElementGuid>82f416e1-c29f-4bed-9e7f-57d4df184dd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,10 +38,10 @@
       <name>text</name>
       <type>Main</type>
       <value>
-            Basket
-            (1)
+            Carrinho
+            (2)
         </value>
-      <webElementGuid>0eb6f051-690a-4bbd-aa66-e6562d5d0e5a</webElementGuid>
+      <webElementGuid>d0eb34ba-765d-4184-be87-7fd2e9102441</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cartAndNumber&quot;)</value>
-      <webElementGuid>6efa10d3-f4a5-45c7-bd40-c4ab22dd1663</webElementGuid>
+      <webElementGuid>2f7f7963-0c47-4e03-affd-872bf4973c2e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='cartAndNumber']</value>
-      <webElementGuid>74182785-8802-456b-894f-b8ccc12fe76e</webElementGuid>
+      <webElementGuid>ee8dd964-d7b1-4004-9ee0-79a6d5aafbde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,39 +65,39 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='carBtnHeader']/span</value>
-      <webElementGuid>d938d656-2174-41d9-8b21-aa366088afde</webElementGuid>
+      <webElementGuid>7cc9acaa-a695-447b-aa13-76cf31fc9aaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Satisfaction Guaranteed'])[1]/following::span[2]</value>
-      <webElementGuid>92e41b5d-b5a7-4f97-ba70-e8f11f26a0c0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Satisfação garantida'])[1]/following::span[2]</value>
+      <webElementGuid>5aee9f3c-dd2a-4b31-b61a-c37e56d811ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('If you find a lower price, we', &quot;'&quot;, 'll match the price.')])[1]/following::span[5]</value>
-      <webElementGuid>04f2f409-cb18-4719-b0b7-618b02708b7e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Se conseguir encontrar um preço mais baixo, nós igualamos.'])[1]/following::span[5]</value>
+      <webElementGuid>8c3f4224-a4c8-49e6-88cd-c70adbe522fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other products'])[1]/preceding::span[4]</value>
-      <webElementGuid>a1648746-c32e-42db-b169-b6067ad7e724</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mais produtos'])[1]/preceding::span[4]</value>
+      <webElementGuid>23a91dd3-b693-4d3b-b933-090876c3fd35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Basket']/parent::*</value>
-      <webElementGuid>665ae3d2-768d-4b85-b69f-158dea39230d</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Carrinho']/parent::*</value>
+      <webElementGuid>c15f7af4-ea74-4c59-822f-22ee80f668b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/a/span</value>
-      <webElementGuid>9a07fcbd-d84a-43ff-8aca-61714f1a7d00</webElementGuid>
+      <webElementGuid>ad3110d1-0542-4ea4-9489-e36900446735</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,12 +113,12 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'cartAndNumber' and (text() = '
-            Basket
-            (1)
+            Carrinho
+            (2)
         ' or . = '
-            Basket
-            (1)
+            Carrinho
+            (2)
         ')]</value>
-      <webElementGuid>b4be85a6-ed46-4162-b9dc-86c3dfab035e</webElementGuid>
+      <webElementGuid>088e6f2a-bdeb-4c46-a922-162962fb9a70</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

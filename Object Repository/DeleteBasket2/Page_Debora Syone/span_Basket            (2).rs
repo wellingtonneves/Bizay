@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Aceito</name>
+   <name>span_Basket            (2)</name>
    <tag></tag>
-   <elementGuidId>b50bdd37-8923-4dda-a605-1507dd653554</elementGuidId>
+   <elementGuidId>35d64f0d-7494-4272-8925-ebb2ffe0be12</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#onesignal-slidedown-allow-button</value>
+         <key>XPATH</key>
+         <value>//span[@id='cartAndNumber']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='onesignal-slidedown-allow-button']</value>
+         <key>CSS</key>
+         <value>#cartAndNumber</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,103 +21,104 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>342b4f38-555f-412e-b63a-08ca1b29bda1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>align-right primary slidedown-button</value>
-      <webElementGuid>a8ae079d-d3ff-4fd9-9f35-ae115fbb9548</webElementGuid>
+      <value>span</value>
+      <webElementGuid>f65663a0-9d2b-43fc-bc1e-6321340da779</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>onesignal-slidedown-allow-button</value>
-      <webElementGuid>74b7eade-147a-4f9e-8302-ffac54e58534</webElementGuid>
+      <value>cartAndNumber</value>
+      <webElementGuid>6b239ff0-6f24-404e-935a-5629ec23dc00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Aceito</value>
-      <webElementGuid>7952414d-eaf0-45ed-8159-32c8466bbb66</webElementGuid>
+      <value>
+            Basket
+            (2)
+        </value>
+      <webElementGuid>41f53620-602c-47c8-a813-a202382b30f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;onesignal-slidedown-allow-button&quot;)</value>
-      <webElementGuid>5fe76aec-2f71-4400-baed-4710bf9b1da9</webElementGuid>
+      <value>id(&quot;cartAndNumber&quot;)</value>
+      <webElementGuid>34cfada7-f756-430c-9e68-5fc30efb39ee</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='onesignal-slidedown-allow-button']</value>
-      <webElementGuid>86005872-6ee6-4707-9105-66eec8a83573</webElementGuid>
+      <value>//span[@id='cartAndNumber']</value>
+      <webElementGuid>0e1086b1-78c0-4944-8bdb-1d26a27f8b4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='slidedown-footer']/button</value>
-      <webElementGuid>742d67a3-dc5c-4063-9694-649c5767fb68</webElementGuid>
+      <value>//a[@id='carBtnHeader']/span</value>
+      <webElementGuid>b99d9026-d117-43fd-8fd5-fe229a79a085</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gostaríamos de lhe enviar notificações com as principais novidades.'])[1]/following::button[1]</value>
-      <webElementGuid>da29f2fd-db04-4503-8028-8c550b2d7196</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Satisfaction Guaranteed'])[1]/following::span[2]</value>
+      <webElementGuid>e8afbb60-7fb4-442a-b3b9-e693d56c7ecf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'onesignal-slidedown-allow-button', '&quot;', ')')])[1]/following::button[1]</value>
-      <webElementGuid>cb37053c-08ad-48a1-9db9-a01c73569b14</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('If you find a lower price, we', &quot;'&quot;, 'll match the price.')])[1]/following::span[5]</value>
+      <webElementGuid>6bfc51db-7a8c-40ab-a9d7-982fab7cf0e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Não, obrigado'])[1]/preceding::button[1]</value>
-      <webElementGuid>3f2a0407-41d7-46eb-9588-b522fd5699dd</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other products'])[1]/preceding::span[4]</value>
+      <webElementGuid>47faadea-5496-4d5b-8500-24486eeca12a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Aceito']/parent::*</value>
-      <webElementGuid>a59fa61e-10e2-441e-89fb-07bc696f9bdc</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Basket']/parent::*</value>
+      <webElementGuid>4a76daf7-250d-40dd-a514-8e8088c53849</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[9]/div/div/div[2]/button</value>
-      <webElementGuid>bbee65f1-cede-4899-8ed1-78d8fd8d266e</webElementGuid>
+      <value>//div/a/span</value>
+      <webElementGuid>41614156-e240-41c0-95dc-a43b0fc840e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'onesignal-slidedown-allow-button' and (text() = 'Aceito' or . = 'Aceito')]</value>
-      <webElementGuid>80e9c162-0f34-4727-894a-a3f112c0c96c</webElementGuid>
+      <value>//span[@id = 'cartAndNumber' and (text() = '
+            Basket
+            (2)
+        ' or . = '
+            Basket
+            (2)
+        ')]</value>
+      <webElementGuid>feb7689c-0642-4ad3-aa2f-34aa83f4e059</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

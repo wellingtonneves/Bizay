@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Iniciar sesso</name>
    <tag></tag>
-   <elementGuidId>4a7f5a20-14b5-474e-bee1-5e2cef72381c</elementGuidId>
+   <elementGuidId>1a89c2a0-a90d-489f-bc2f-0166144c619d</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#Login</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//button[@id='Login']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Login</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e83c5189-8d46-4500-a29d-240c610a57b7</webElementGuid>
+      <webElementGuid>aff30a36-1f00-4223-898c-e6715cddaff8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>9afa75fc-4d16-431e-800e-89d275b1338f</webElementGuid>
+      <webElementGuid>ce64e47f-3a09-470d-8a43-1abbaef5575e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Login</value>
-      <webElementGuid>59f64eb4-8974-4fd5-ade1-5d15ee25a1fe</webElementGuid>
+      <webElementGuid>c97c21a4-ea0a-4429-a182-37ad0c39f052</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn360 btn-blue btn</value>
-      <webElementGuid>b45ac3f7-82bf-4b72-a3db-e7e531397d78</webElementGuid>
+      <webElementGuid>640a990a-68c9-4890-b30d-e1f567927de2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-loading-text</name>
       <type>Main</type>
       <value>Aguarde...</value>
-      <webElementGuid>07848455-6e92-46ba-9854-0a62ab95cf84</webElementGuid>
+      <webElementGuid>265e58a1-5f46-4768-ac71-c45e5ec48e6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>callDataLayer('Click','Account_Login','Login','Login')</value>
-      <webElementGuid>d8934c5a-f887-4aaa-a7c8-32b17a83b457</webElementGuid>
+      <webElementGuid>2b8da6f7-a487-46f7-a2a6-4266c01aa9a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -72,7 +72,7 @@
       <value>
                     Iniciar sessão
                 </value>
-      <webElementGuid>e77f0dba-bccc-4b1d-b4d3-49a073018665</webElementGuid>
+      <webElementGuid>aebbaeb1-7b4d-42f9-bda9-c932c6d41e43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Login&quot;)</value>
-      <webElementGuid>7ba8dadf-65e5-482b-8ec3-097ae513f1d7</webElementGuid>
+      <webElementGuid>aae0bb58-3ef5-4c43-9a91-7c912bb0d4a4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='Login']</value>
-      <webElementGuid>fa8df0a6-2db3-45df-a641-248ea16b7a1f</webElementGuid>
+      <webElementGuid>bf4af1dc-c84c-4afa-9bcc-6e5d618fda44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='collapseLoginForm']/form/div[4]/button</value>
-      <webElementGuid>9c51b8d6-eb9a-43bb-9001-58d59ad4927c</webElementGuid>
+      <webElementGuid>6e582030-0f85-4315-a0ea-3e513fd56a28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Recuperar senha'])[1]/following::button[1]</value>
-      <webElementGuid>7bf8aca6-2dec-4be4-acee-ee9249fbd635</webElementGuid>
+      <webElementGuid>5627db18-19e4-49e6-8928-f597cfc1b96c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='@'])[3]/following::button[1]</value>
-      <webElementGuid>f0bff8ab-2c92-45c9-9d6f-9d4409ee5dfe</webElementGuid>
+      <webElementGuid>c37853d3-a0ea-466e-b86f-19bc8e2d4982</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Novo Cliente?'])[2]/preceding::button[1]</value>
-      <webElementGuid>f23b488e-c4fd-4c93-87d9-9a7117954441</webElementGuid>
+      <webElementGuid>dcb05a72-9c0f-44b4-9ff3-f92cf6a25fa2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +128,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Registe-se e receba ofertas exclusivas para clientes'])[2]/preceding::button[1]</value>
-      <webElementGuid>e1dd5f2d-c207-45ad-9ccf-ab6b8594a052</webElementGuid>
+      <webElementGuid>23ceaf1d-66d8-452c-9b46-d613107ca9f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,7 +136,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/button</value>
-      <webElementGuid>86feadb4-dab6-4d41-8bf9-baf69d6733fd</webElementGuid>
+      <webElementGuid>4eb18697-3d27-40b1-8750-7fbcbf124a49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,6 +148,6 @@
                 ' or . = '
                     Iniciar sessão
                 ')]</value>
-      <webElementGuid>72a3d978-e1d6-4701-9d65-6a96eb5112aa</webElementGuid>
+      <webElementGuid>29898bbe-feca-45eb-ba82-597904fed527</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

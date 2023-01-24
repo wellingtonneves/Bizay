@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>a_Logout</name>
    <tag></tag>
-   <elementGuidId>2653adb2-2262-40fb-a4cb-e469cbcf497c</elementGuidId>
+   <elementGuidId>0be5051a-b57d-4999-a874-61c60b5cfde8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='Login']</value>
+         <value>//form[@id='logoutForm']/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#Login</value>
+         <value>#logoutForm > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,48 +21,40 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>c795110f-97f5-4385-8e6d-9e4af9fe6e83</webElementGuid>
+      <value>a</value>
+      <webElementGuid>206fb864-0295-438b-b2d6-0fe794028b2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>href</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>f0535e0f-f174-445b-80a5-e6c5af90ce60</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>24dcc615-7052-4bfa-b5d0-ae21d9a98b8e</webElementGuid>
+      <value>javascript:document.getElementById('logoutForm').submit()</value>
+      <webElementGuid>b2f41064-9603-4889-bb0d-0fa1ae3ebb97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>data-eventregion</name>
       <type>Main</type>
-      <value>btn360 btn-blue btn</value>
-      <webElementGuid>5b34ea13-6a02-4890-9752-eb370b4ae7fc</webElementGuid>
+      <value>MENU</value>
+      <webElementGuid>9ff0c111-2f09-42e6-8bad-9ccf90b08c03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-loading-text</name>
+      <name>data-eventsection</name>
       <type>Main</type>
-      <value>Please wait…</value>
-      <webElementGuid>8b465337-514f-4cf4-80a4-7e24a21040e7</webElementGuid>
+      <value>ACCOUNT</value>
+      <webElementGuid>75af0927-6cb6-4c53-b56b-43fce24fb2f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>ng-click</name>
+      <name>data-eventitem</name>
       <type>Main</type>
-      <value>callDataLayer('Click','Account_Login','Login','Login')</value>
-      <webElementGuid>ab9c2762-3dc9-40e8-9c49-e7efe398d213</webElementGuid>
+      <value>LOGOUT</value>
+      <webElementGuid>e731d6f7-f10c-4672-b52f-d1fefacedff9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,84 +62,84 @@
       <name>text</name>
       <type>Main</type>
       <value>
-                    Login
-                </value>
-      <webElementGuid>79d1bb71-536a-49f4-a552-e4b5e00bcdf8</webElementGuid>
+                Logout
+            </value>
+      <webElementGuid>20cbb3f1-9f35-40f5-b356-fb3daf0ed315</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;Login&quot;)</value>
-      <webElementGuid>3fe81676-04b3-496a-8972-d8093fd2f82b</webElementGuid>
+      <value>id(&quot;logoutForm&quot;)/a[1]</value>
+      <webElementGuid>f1e2aa65-4f59-4be4-a16f-a0dcaf088b6d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@id='Login']</value>
-      <webElementGuid>dfe7b7ba-dac3-476d-8411-5d7495932a3c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='collapseLoginForm']/form/div[4]/button</value>
-      <webElementGuid>e592d4c4-8e29-4779-989d-369ca5546d53</webElementGuid>
+      <value>//form[@id='logoutForm']/a</value>
+      <webElementGuid>90e853ff-f33c-4847-b57f-099c80130daa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Logout')]</value>
+      <webElementGuid>c08886fc-37fe-48df-ab39-99521efbe408</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recover Password'])[1]/following::button[1]</value>
-      <webElementGuid>7ae17048-249b-46b2-b454-522649a87795</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preferences'])[1]/following::a[1]</value>
+      <webElementGuid>8a84461a-f674-48c9-bede-1c5b7078248d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='@'])[3]/following::button[1]</value>
-      <webElementGuid>bec052d3-189d-44d6-b7f9-b76aa141b5d0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loyalty Program'])[1]/following::a[2]</value>
+      <webElementGuid>f7d5dc6e-0dd1-4caf-9b58-a1e045b44986</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='New customer?'])[2]/preceding::button[1]</value>
-      <webElementGuid>91cd480a-bd8e-4fb4-88af-16b7685068a1</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
+      <webElementGuid>1dab544c-fc37-4c06-b165-a602aff99c93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:href</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up and receive exclusive offers for clients'])[2]/preceding::button[1]</value>
-      <webElementGuid>8417d388-7d3f-4bfb-9ba0-76d38532b186</webElementGuid>
+      <value>//a[contains(@href, &quot;javascript:document.getElementById('logoutForm').submit()&quot;)]</value>
+      <webElementGuid>8cdefaef-b7c1-4da9-b0c9-a4c79f46fb61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/button</value>
-      <webElementGuid>047a49cb-0d07-4c84-bccd-098112584e3c</webElementGuid>
+      <value>//form/a</value>
+      <webElementGuid>d3183817-bad4-4153-810b-9308eb6b80ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'Login' and (text() = '
-                    Login
-                ' or . = '
-                    Login
-                ')]</value>
-      <webElementGuid>35881186-5e9f-4c9a-a55f-c3086c5c10af</webElementGuid>
+      <value>//a[@href = concat(&quot;javascript:document.getElementById(&quot; , &quot;'&quot; , &quot;logoutForm&quot; , &quot;'&quot; , &quot;).submit()&quot;) and (text() = '
+                Logout
+            ' or . = '
+                Logout
+            ')]</value>
+      <webElementGuid>9cfc8426-dffb-4013-9344-9742d3239067</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

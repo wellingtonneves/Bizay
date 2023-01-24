@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_Grtis_icon-trash</name>
+   <name>i_Free_icon-trash</name>
    <tag></tag>
-   <elementGuidId>e3b92eb1-0800-4cfa-b4ed-1f54429ce133</elementGuidId>
+   <elementGuidId>9575e598-b97b-464e-8ec7-7d503b9acc0a</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>i.icon-trash</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='main']/div[6]/div/div/div/div/div[2]/table/tbody/tr[2]/td[4]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-trash</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>e62e654e-cc6d-4918-908e-1d2ae7ae1f2a</webElementGuid>
+      <webElementGuid>580bf577-7773-4f66-aa89-8f12a0d84463</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>icon-trash</value>
-      <webElementGuid>c34840ff-1219-43c7-b4f1-389874b676d3</webElementGuid>
+      <webElementGuid>b7a2a9e4-d6b3-41ac-aeaf-5ffa3a1dd96f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 page_envelope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;hidden-xs visible-sm visible-md visible-lg&quot;]/div[2]/table[@class=&quot;table table-cart&quot;]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[4]/a[@class=&quot;btn btn-default&quot;]/i[@class=&quot;icon-trash&quot;]</value>
-      <webElementGuid>471bdcd9-6a0a-4b03-a892-0c81503c947b</webElementGuid>
+      <webElementGuid>fe820de6-e37e-4b24-ac08-1b235aeda692</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='main']/div[6]/div/div/div/div/div[2]/table/tbody/tr[2]/td[4]/a/i</value>
-      <webElementGuid>21a2fff7-8bce-41d9-b600-20b165c58b6d</webElementGuid>
+      <webElementGuid>ef63e03b-bb2a-49de-a557-80ad031e829b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/i</value>
-      <webElementGuid>fdefaf12-ca0e-4a76-b0f4-57eba1bbd1ad</webElementGuid>
+      <webElementGuid>7adc1e26-c977-4da6-a2bc-e488886184ed</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

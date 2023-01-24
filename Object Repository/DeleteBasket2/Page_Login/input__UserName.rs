@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__Password</name>
+   <name>input__UserName</name>
    <tag></tag>
-   <elementGuidId>f4c7729b-21dc-48bd-9fe0-a5d10cb1e30e</elementGuidId>
+   <elementGuidId>f0b79b21-ab97-4607-820c-8badd312e056</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#PasswordLogin</value>
+         <key>XPATH</key>
+         <value>//input[@id='UserNameLogin']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='PasswordLogin']</value>
+         <key>CSS</key>
+         <value>#UserNameLogin</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>771dc5f8-b7ef-4af5-aee5-d3d99968f581</webElementGuid>
+      <webElementGuid>19c8f0a9-4abb-4f39-9df0-6999ac9e252d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>801c21f0-5c85-4ee5-931e-60089593d3dd</webElementGuid>
+      <webElementGuid>e96692da-01b6-4a50-9ad4-f8eb1b34a7ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,94 +38,110 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c2a24b88-17da-4b26-8af7-45caa9fb8611</webElementGuid>
+      <webElementGuid>b3bba08b-bb17-4465-ab7c-b0835d27f24d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-length</name>
+      <type>Main</type>
+      <value>The email field can not exceed 56 characters.</value>
+      <webElementGuid>94a78016-644f-47d1-9892-bf19682ac971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-length-max</name>
+      <type>Main</type>
+      <value>56</value>
+      <webElementGuid>c50026b8-1305-4e62-887d-ea337c1944ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-val-required</name>
       <type>Main</type>
-      <value>O campo 'Senha' é obrigatório.</value>
-      <webElementGuid>d56abe99-4d42-44e1-8ce8-ae3f42de729a</webElementGuid>
+      <value>Field 'Email' is required.</value>
+      <webElementGuid>4c9b7467-fd39-4c34-a4aa-cf09d9566ede</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>PasswordLogin</value>
-      <webElementGuid>82e455c9-7488-4f9b-a165-f080693ee632</webElementGuid>
+      <value>UserNameLogin</value>
+      <webElementGuid>fbf63000-52be-4a1a-8b29-1726475d4166</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>ce44d8c6-aee4-4eb6-867b-aa98c836c50d</webElementGuid>
+      <value>UserName</value>
+      <webElementGuid>e4c52417-165a-4225-8a6f-a1f072f77683</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ng-click</name>
       <type>Main</type>
-      <value>callDataLayer('Click','Account_Login','Login','Password')</value>
-      <webElementGuid>0c8632ef-1504-44e1-9f63-614aec0fa6f3</webElementGuid>
+      <value>callDataLayer('Click','Account_Login','Login','UserName')</value>
+      <webElementGuid>e1d15571-0b5c-4a7a-8494-01a3c5265b33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Senha</value>
-      <webElementGuid>82ae06ed-4213-4f6a-95a6-fed97994310b</webElementGuid>
+      <value>Email</value>
+      <webElementGuid>9edc4650-2e97-44d7-bed0-cb8465366bdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>d15345be-cfdb-45b3-881d-55adee9960fe</webElementGuid>
+      <value>email</value>
+      <webElementGuid>9e96df47-51af-49e8-b955-7878c0eab831</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;PasswordLogin&quot;)</value>
-      <webElementGuid>f26f55dd-6ea8-4878-9129-bf037d76d7f2</webElementGuid>
+      <value>id(&quot;UserNameLogin&quot;)</value>
+      <webElementGuid>e9ea5d88-58cd-482a-8579-0884c12f0b05</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='PasswordLogin']</value>
-      <webElementGuid>398f2005-341b-4337-a308-cffaf8cb30d8</webElementGuid>
+      <value>//input[@id='UserNameLogin']</value>
+      <webElementGuid>db10b6c9-876a-404f-a062-fccdf63ab661</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='collapseLoginForm']/form/div[2]/div[3]/input</value>
-      <webElementGuid>949779fe-958d-4af6-82e6-f4ca42418e71</webElementGuid>
+      <value>//div[@id='collapseLoginForm']/form/div[2]/div[2]/input</value>
+      <webElementGuid>03483ee7-a106-4939-8fd5-ae3e358d517e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div[2]/form/div[2]/div[3]/input</value>
-      <webElementGuid>deb0ad70-f710-408a-a55c-f46b2599b7e8</webElementGuid>
+      <value>//div[2]/div/div[2]/form/div[2]/div[2]/input</value>
+      <webElementGuid>8baf5435-deed-4445-a0e9-27a59f21d617</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'PasswordLogin' and @name = 'Password' and @placeholder = 'Senha' and @type = 'password']</value>
-      <webElementGuid>2aa73494-f2d8-41fb-aa30-716b5cdb07ff</webElementGuid>
+      <value>//input[@id = 'UserNameLogin' and @name = 'UserName' and @placeholder = 'Email' and @type = 'email']</value>
+      <webElementGuid>b49ec025-f948-4fc7-8102-5fc3e6a9b4c9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
