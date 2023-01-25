@@ -17,7 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setText(findTestObject('Object Repository/UserPwd/Page_Iniciar sesso/input__UserName'), 'dd3syone@gmail.com')
+WebUI.openBrowser('')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/UserPwd/Page_Iniciar sesso/input__Password'), 'aeHFOx8jV/A=')
+WebUI.navigateToUrl('https://alpha.360imprimir.pt/')
+
+WebUI.click(findTestObject('Object Repository/LoginValido/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
+
+WebUI.click(findTestObject('Object Repository/LoginValido/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
+
+WebUI.setText(findTestObject('Object Repository/LoginValido/Page_Iniciar sesso/input__UserName'), 'dd1syone@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/LoginValido/Page_Iniciar sesso/input__Password'), 'aeHFOx8jV/A=')
+
+WebUI.click(findTestObject('Object Repository/LoginValido/Page_Iniciar sesso/button_Iniciar sesso'))
+
+WebUI.click(findTestObject('Object Repository/LoginValido/Page_Debora Syone/a_A minha conta'))
+
+WebUI.click(findTestObject('Object Repository/LoginValido/Page_Debora Syone/a_Sair'))
 

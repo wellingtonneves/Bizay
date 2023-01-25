@@ -3,7 +3,7 @@
    <description></description>
    <name>a_A minha conta</name>
    <tag></tag>
-   <elementGuidId>54ab95c9-5cfc-4680-8d63-7aa40ebda4be</elementGuidId>
+   <elementGuidId>61e5ae88-981a-48a3-971a-c37cc0594060</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>aa7fdc2b-d4e5-4bad-bb30-cd7eb700aede</webElementGuid>
+      <webElementGuid>b54539fb-5443-4584-a197-01df95c962b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>col-table-vertical</value>
-      <webElementGuid>110e047a-6d6b-4722-bcab-2d8308c1be5d</webElementGuid>
+      <webElementGuid>b77cd886-6814-41d5-86ef-a92698f3bc95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>7f721a46-5c0c-4016-b745-16d5d1eee039</webElementGuid>
+      <webElementGuid>afb18eb2-13f5-48d7-9761-3794d08bd040</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>return false</value>
-      <webElementGuid>193c36ed-cab5-48fc-9fed-d29e69af19f6</webElementGuid>
+      <webElementGuid>01be4bd3-c06e-4e7d-b665-91785f740e59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>my-account-nav</value>
-      <webElementGuid>f057d9ac-05a9-4ca6-ba1c-d907ed5bbd64</webElementGuid>
+      <webElementGuid>7635ef25-cc7c-4278-a318-62c7969c3318</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Área do Cliente</value>
-      <webElementGuid>e8440931-03d7-4c8e-9e82-d3d36d3dc20b</webElementGuid>
+      <webElementGuid>b3fc05d9-6ace-479d-a4a9-18370252e112</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -72,7 +72,7 @@
       <value>
     A minha conta
 </value>
-      <webElementGuid>a7dc534b-c1f0-48f1-8372-a7a178fb919d</webElementGuid>
+      <webElementGuid>85c3908a-55cb-413c-8893-544c85c919fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;my-account-nav&quot;)</value>
-      <webElementGuid>b06a7f51-b0a6-43b4-957b-20dbd28a3e60</webElementGuid>
+      <webElementGuid>bdb82e1d-3d8d-4f0c-b7a0-4260bd66bb08</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='my-account-nav']</value>
-      <webElementGuid>2dbd6e05-9e51-4062-b8bb-49c88d3de195</webElementGuid>
+      <webElementGuid>c0d5fabe-d4b1-4c12-9e71-f5f839b0b34b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wrap']/div[2]/div/div[3]/div/div[4]/div/div[6]/a</value>
-      <webElementGuid>c54d1537-b1ae-4808-aea6-13fbe6b9152a</webElementGuid>
+      <webElementGuid>0aca6dad-3be6-4b68-b76e-fd92cc52fbd1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'A minha conta')]</value>
-      <webElementGuid>4a66ed0f-91f7-429f-bbc3-c4e3f26e2b2d</webElementGuid>
+      <webElementGuid>60763290-5824-42ff-b413-1a40bf5764bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,15 +112,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mais produtos'])[1]/following::a[5]</value>
-      <webElementGuid>e7877ee7-c210-4e5a-8a74-98c4086b3477</webElementGuid>
+      <webElementGuid>61b535a9-3465-4d3d-b7b4-4fbf09963d82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(1)'])[1]/following::a[6]</value>
-      <webElementGuid>03956901-40b1-4de7-853f-22b347c14660</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(2)'])[1]/following::a[6]</value>
+      <webElementGuid>f2323ead-c641-46c0-9f97-065f6024b99c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +128,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dados da Conta'])[1]/preceding::a[1]</value>
-      <webElementGuid>9df154c0-a239-4805-b4cd-ace7ba814034</webElementGuid>
+      <webElementGuid>235099be-933c-49b0-b11b-81b4a6db27f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,7 +136,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Endereços'])[1]/preceding::a[2]</value>
-      <webElementGuid>c3bb793d-252b-47ce-9e80-0bcac6409b01</webElementGuid>
+      <webElementGuid>2978e2dd-2f50-4687-b4af-343dc3d54cdb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -144,7 +144,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='A minha conta']/parent::*</value>
-      <webElementGuid>9f40417c-eed6-41bf-a9a5-9bfdef58f089</webElementGuid>
+      <webElementGuid>ed1295f4-6e89-44d9-9dfd-f74c1e10834a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -152,7 +152,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[4]</value>
-      <webElementGuid>f18503b4-17f9-435b-9a65-1a214c67a242</webElementGuid>
+      <webElementGuid>025813a9-ae34-4cc3-b99e-55123ca28672</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -160,7 +160,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/a</value>
-      <webElementGuid>825f38e9-ea1b-46fd-918a-f40cf46c01e1</webElementGuid>
+      <webElementGuid>092aa4c2-a17d-4c93-a3f5-0c1e37908159</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -172,6 +172,6 @@
 ' or . = '
     A minha conta
 ')]</value>
-      <webElementGuid>b2a814f9-9bee-4e5b-9ce5-2a7a00965608</webElementGuid>
+      <webElementGuid>09cf58f3-10f8-4bd0-94aa-f209ea38cff9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

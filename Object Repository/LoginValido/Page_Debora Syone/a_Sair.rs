@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Sair</name>
    <tag></tag>
-   <elementGuidId>6c59c5b9-935b-4660-9808-756ca0fbd7a3</elementGuidId>
+   <elementGuidId>52b47d3a-03d8-4c5c-9157-22511c9398ec</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d6adecbf-cd05-4339-a622-c59c28164506</webElementGuid>
+      <webElementGuid>6862750f-d03a-4269-ac93-668ec269752b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:document.getElementById('logoutForm').submit()</value>
-      <webElementGuid>e32022de-8d12-4e12-bfa9-4d1f7a0b3f4c</webElementGuid>
+      <webElementGuid>4918c6b0-ae8a-428d-9389-b2255cd4a81e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-eventregion</name>
       <type>Main</type>
       <value>MENU</value>
-      <webElementGuid>ef455e2d-ee0f-423f-8df3-c2657d28264a</webElementGuid>
+      <webElementGuid>c0de33ae-2d2b-4e22-a59a-051b67cb8ccd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-eventsection</name>
       <type>Main</type>
       <value>ACCOUNT</value>
-      <webElementGuid>251caa85-05e9-4392-954f-b45a6a07e95d</webElementGuid>
+      <webElementGuid>64abd9d4-6a58-4568-82e9-fa4f4c31dbdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-eventitem</name>
       <type>Main</type>
       <value>LOGOUT</value>
-      <webElementGuid>1316288b-1af5-4321-9bc9-ea2da9ea13c8</webElementGuid>
+      <webElementGuid>441bd812-f816-4ae0-84d7-76cddb1de7c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <value>
                 Sair
             </value>
-      <webElementGuid>5b14f448-507a-4cd1-be22-1dfc4f1f84b7</webElementGuid>
+      <webElementGuid>d1bc6656-f72e-4178-a84f-4c168bf417a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wrap&quot;)/div[@class=&quot;hidden-xs&quot;]/div[@class=&quot;header_desktop&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row header-search&quot;]/div[@class=&quot;row no-margin-sides&quot;]/div[@class=&quot;col-xs-12 header-nav&quot;]/div[@class=&quot;col-table-2-12 nav-blue&quot;]/ul[@class=&quot;navbar-account-submenu&quot;]/li[9]/form[@id=&quot;logoutForm&quot;]/a[1]</value>
-      <webElementGuid>eeb4810d-2ab2-4186-b1d1-18c467956d55</webElementGuid>
+      <webElementGuid>e45e5a32-8a0a-460b-8e07-d255e844aea6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='logoutForm']/a</value>
-      <webElementGuid>6e4aae34-2ba6-4662-8274-819d1f5d74e6</webElementGuid>
+      <webElementGuid>ad440429-6520-4135-942f-c99e3a8d629f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Sair')]</value>
-      <webElementGuid>fd9adbf6-5ec5-49e2-bcb4-ed64ddfbe0db</webElementGuid>
+      <webElementGuid>587c6895-8234-41be-b31c-af75962642fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Preferências'])[1]/following::a[1]</value>
-      <webElementGuid>1f5e5ea0-8af7-4cbd-bce5-c7bdb61f72df</webElementGuid>
+      <webElementGuid>03a109dc-586e-4a18-9e38-01751287e9c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Todos Ganham'])[1]/following::a[2]</value>
-      <webElementGuid>01f51d80-e63f-4dbd-a862-bf8f6d71eeea</webElementGuid>
+      <webElementGuid>a73fc97b-0660-40fa-b38c-4d17b938c250</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='‹'])[1]/preceding::a[5]</value>
-      <webElementGuid>3edfd607-49f9-4af3-8ad8-7a39d0c8fecd</webElementGuid>
+      <webElementGuid>73a71bd2-12d6-4039-83fe-405d0b4fa504</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Voltar'])[1]/preceding::a[5]</value>
-      <webElementGuid>224fa34d-8c24-4ba2-ac2c-48b7db8d76ca</webElementGuid>
+      <webElementGuid>569e6bbc-5c02-46f6-a0ac-e3185bd97ce3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +128,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sair']/parent::*</value>
-      <webElementGuid>8a496880-3334-47cd-87d7-5edfe23b79bf</webElementGuid>
+      <webElementGuid>8abcc0b5-ad13-4a25-b9d0-5d38bc5689d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,7 +136,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, &quot;javascript:document.getElementById('logoutForm').submit()&quot;)]</value>
-      <webElementGuid>8ae03b29-28c2-4305-963f-e1ea6478aeda</webElementGuid>
+      <webElementGuid>f5af5e9e-136a-4e9b-a9f5-1587ee60705e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -144,7 +144,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/a</value>
-      <webElementGuid>597925ae-23f2-4401-bbd6-3e195ed4a6d2</webElementGuid>
+      <webElementGuid>9d19ba90-f531-424f-a7ae-383aa58f9c3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -156,6 +156,6 @@
             ' or . = '
                 Sair
             ')]</value>
-      <webElementGuid>b082b021-cd6b-42a7-8621-1b4c3d282cb5</webElementGuid>
+      <webElementGuid>00575b32-beb6-4810-97dd-13db3861dd9c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

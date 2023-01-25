@@ -25,9 +25,9 @@ WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_360imprimir 
 
 WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
 
-WebUI.setText(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/input__UserName'), 'dd2syone@gmail.com')
+WebUI.setText(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/input__UserName'), 'dd3syone@gmail.com')
 
-WebUI.setText(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/input__ConfirmUserName'), 'dd2syone@gmail.com')
+WebUI.setText(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/input__ConfirmUserName'), 'dd3syone@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/input__Password'), 'aeHFOx8jV/A=')
 

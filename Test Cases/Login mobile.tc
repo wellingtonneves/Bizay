@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>LoginValido</name>
+   <name>Login mobile</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>3f007762-c01f-4dc8-9568-6763a4838ae7</testCaseGuid>
+   <testCaseGuid>621cfe18-c642-40d6-ac1c-872a94a208af</testCaseGuid>
 </TestCaseEntity>

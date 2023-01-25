@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Iniciar sesso</name>
    <tag></tag>
-   <elementGuidId>e447b529-fc64-4dcb-87ae-d994905f8bca</elementGuidId>
+   <elementGuidId>2bf44aa6-9706-4223-bd40-2758070a293f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>20b592fe-77ac-441c-a771-6083c5241476</webElementGuid>
+      <webElementGuid>4b73a062-49f0-4b34-a913-e323929a5b41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>c08ddcd1-e3c9-4569-9c1d-9effe7ed1335</webElementGuid>
+      <webElementGuid>ea664e36-290b-4b4c-b2f7-02d35d36f7fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Login</value>
-      <webElementGuid>020152b7-1f24-4d57-bbad-5491768f69e2</webElementGuid>
+      <webElementGuid>66711b78-7917-413d-a79f-70b9b3b03bb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn360 btn-blue btn</value>
-      <webElementGuid>60bab194-08e7-41e6-b4ae-e06f607d77d8</webElementGuid>
+      <webElementGuid>d0d90d97-1e4f-409c-95bc-cde6ea42f398</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-loading-text</name>
       <type>Main</type>
       <value>Aguarde...</value>
-      <webElementGuid>ce22be14-e29e-4b47-ab27-a8b2528e1e4f</webElementGuid>
+      <webElementGuid>dac643c7-54a8-4b3a-9a4c-e5b2c9f2be83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>callDataLayer('Click','Account_Login','Login','Login')</value>
-      <webElementGuid>70a42691-38b6-462e-a28c-3ced274d36b6</webElementGuid>
+      <webElementGuid>95802c3e-ef30-4cc3-948f-d67d747779f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -72,7 +72,7 @@
       <value>
                     Iniciar sessão
                 </value>
-      <webElementGuid>1591a31d-2b52-4b76-8c1d-afab5f89e939</webElementGuid>
+      <webElementGuid>44874c18-44db-4601-b8a3-06e511411500</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Login&quot;)</value>
-      <webElementGuid>f69be406-9d19-4bc9-8a4f-eae1f60c3d9c</webElementGuid>
+      <webElementGuid>5d48194f-c533-43c3-a924-2830d34e657e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='Login']</value>
-      <webElementGuid>4adfcb45-bcb8-4aa4-9648-b910ccd52a4a</webElementGuid>
+      <webElementGuid>d6a3e40c-4d86-4aa5-b19d-218e217e33f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='collapseLoginForm']/form/div[4]/button</value>
-      <webElementGuid>a265eeb4-2bff-48cc-bdc7-80a7596a3c42</webElementGuid>
+      <webElementGuid>78d9d4bb-9c2c-4881-b2e4-eb1aaf642b66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Recuperar senha'])[1]/following::button[1]</value>
-      <webElementGuid>acee3456-ed32-4e46-9d86-f2ab39a9c2f2</webElementGuid>
+      <webElementGuid>eb68bc1f-6402-475e-9262-7bdeb32d95df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='@'])[3]/following::button[1]</value>
-      <webElementGuid>f44f14a2-b63f-4f54-ba01-8cdaae120e73</webElementGuid>
+      <webElementGuid>7e76ae4d-c4b9-4fd2-9d2c-05704bbaa731</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Novo Cliente?'])[2]/preceding::button[1]</value>
-      <webElementGuid>7a5aa273-fca4-432d-bc29-06e60cc821a3</webElementGuid>
+      <webElementGuid>6befcff0-fc0b-48de-8d48-3c16e112f417</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +128,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Registe-se e receba ofertas exclusivas para clientes'])[2]/preceding::button[1]</value>
-      <webElementGuid>6779383b-9657-4538-91b3-ce6ae52de7e5</webElementGuid>
+      <webElementGuid>634fcd28-8253-43ca-b164-1a0d665c0a8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,7 +136,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/button</value>
-      <webElementGuid>866a4c3a-e837-4900-8d43-eb5362db5e05</webElementGuid>
+      <webElementGuid>9f1c725d-5bc8-4b0c-91d1-7e6d64bd5e43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,6 +148,6 @@
                 ' or . = '
                     Iniciar sessão
                 ')]</value>
-      <webElementGuid>cac043ab-c159-43f2-b8a2-59f3dea018bb</webElementGuid>
+      <webElementGuid>f97d11bf-376b-45eb-a9a9-70613100555b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

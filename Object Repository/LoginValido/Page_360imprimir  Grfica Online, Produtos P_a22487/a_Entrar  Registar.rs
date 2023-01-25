@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Entrar  Registar</name>
    <tag></tag>
-   <elementGuidId>100aafcd-110a-44b6-aa02-ebc98b24368b</elementGuidId>
+   <elementGuidId>e6944470-c9fa-4f1e-80c6-8cd334296d75</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>0a81f2d7-442c-46a0-85b0-9e8afe6b822e</webElementGuid>
+      <webElementGuid>985871ba-da63-4bb6-a012-4ef7ab038580</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>col-table-vertical show-upselling-modal</value>
-      <webElementGuid>1a9a172e-24cb-4e02-acdf-9f9210d2734f</webElementGuid>
+      <webElementGuid>8fd8ba6f-2707-462f-af18-b649bbf4a68e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/Account/Login</value>
-      <webElementGuid>9f06fcb1-2c4c-4592-aaae-c2a3b13e0e65</webElementGuid>
+      <webElementGuid>db16d788-98e9-461d-ab4e-98278282ab1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>login-register</value>
-      <webElementGuid>cfa1bdcf-f67e-4d4b-9179-8f949549f715</webElementGuid>
+      <webElementGuid>683557ef-0ebc-4898-83d4-7daf1a94478c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Área do Cliente</value>
-      <webElementGuid>ed70909c-5d81-4f6c-89fd-75a948bb5e0b</webElementGuid>
+      <webElementGuid>2ff03fc3-47a4-4966-829f-9f6f79d47b86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-eventregion</name>
       <type>Main</type>
       <value>MENU</value>
-      <webElementGuid>4cbf9a02-f56f-43fc-ab59-ee82171d3fd4</webElementGuid>
+      <webElementGuid>88e63bc1-2319-4253-bb69-07b518803212</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-eventsection</name>
       <type>Main</type>
       <value>ACCOUNT</value>
-      <webElementGuid>2c655e68-f623-451a-82cd-52099bb6c920</webElementGuid>
+      <webElementGuid>3d2c83db-e073-4b1a-b232-54f44e5decf7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>data-eventitem</name>
       <type>Main</type>
       <value>LOGIN</value>
-      <webElementGuid>85084926-44d8-4450-a64e-ce86d15198d8</webElementGuid>
+      <webElementGuid>80e0f772-4881-4c19-be80-1c3fec683188</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -88,7 +88,7 @@
       <value>
             Entrar / Registar
         </value>
-      <webElementGuid>47550267-2136-4c55-b43b-e852aa4ed6e1</webElementGuid>
+      <webElementGuid>b2a17d79-68dc-4996-baa3-9c9a5293df31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login-register&quot;)</value>
-      <webElementGuid>ad05c73a-9c8d-4dd1-88e3-0807f1d53f24</webElementGuid>
+      <webElementGuid>e15da2ae-248b-4f7a-b676-763cdf28f0b4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='login-register']</value>
-      <webElementGuid>7c3f8932-bbdd-4f94-b475-c2f242c389e6</webElementGuid>
+      <webElementGuid>9390393a-8c5a-40ed-a5ac-d513aa1af39d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wrap']/div[2]/div/div[3]/div/div[4]/div/div[6]/a</value>
-      <webElementGuid>a0d46c4f-7954-41bc-a479-e8a63ff5ac71</webElementGuid>
+      <webElementGuid>a69d3a23-3e5e-463e-a91a-ec2673c13105</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Entrar / Registar')]</value>
-      <webElementGuid>939ac212-a4e5-47c4-a8d5-d3d33d90ddd5</webElementGuid>
+      <webElementGuid>6807f8d0-9b5b-487d-a837-cb562f3a9816</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +128,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mais produtos'])[1]/following::a[5]</value>
-      <webElementGuid>494f1f57-29a3-41f5-a7cf-72c31e414666</webElementGuid>
+      <webElementGuid>d90f3917-df47-41b7-a279-b36071a37392</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,7 +136,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[1]/following::a[6]</value>
-      <webElementGuid>8082d7cd-4738-43bf-a9bf-9f55ed44cdaa</webElementGuid>
+      <webElementGuid>6c1b9736-481d-4802-a070-343bb793ecac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -144,7 +144,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='‹'])[1]/preceding::a[5]</value>
-      <webElementGuid>77cb43ac-2286-4640-afa8-6d5400f021dc</webElementGuid>
+      <webElementGuid>e2ee24e8-e953-4c88-bf2d-f1511d27d54f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -152,7 +152,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Voltar'])[1]/preceding::a[5]</value>
-      <webElementGuid>060758a8-a635-4975-935f-6474616e613f</webElementGuid>
+      <webElementGuid>ddc52a53-b9f6-4695-a85d-e05db0845947</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -160,7 +160,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Entrar / Registar']/parent::*</value>
-      <webElementGuid>6edc4482-8f6b-4889-9852-adf40ccd563e</webElementGuid>
+      <webElementGuid>29d0c5d9-1fb2-4fdf-a0b8-b8ebbfb16ea2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -168,7 +168,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/Account/Login')]</value>
-      <webElementGuid>919e5e55-b151-4ea9-8033-f4b825713a6d</webElementGuid>
+      <webElementGuid>a205ef41-a3b5-4b06-8aa0-f31bc740bf08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -176,7 +176,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/a</value>
-      <webElementGuid>5639e80b-f08f-4b4c-a63f-07c09d68a7c6</webElementGuid>
+      <webElementGuid>1e49ca47-93fa-4950-a7f5-80aff691daec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -188,6 +188,6 @@
         ' or . = '
             Entrar / Registar
         ')]</value>
-      <webElementGuid>2fcb84fe-c997-4155-ad49-d8c7712d67b9</webElementGuid>
+      <webElementGuid>70cd9847-acdd-4145-a5b2-3117970fbf75</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
