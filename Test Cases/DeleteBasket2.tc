@@ -5,17 +5,4 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>1bcc1677-3c08-4618-99d0-febda957f1aa</testCaseGuid>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>73ad4646-cc91-47d8-a7ef-1cfa709e4ac0</variableId>
-   </variableLinks>
-   <variable>
-      <defaultValue>'uk'</defaultValue>
-      <description></description>
-      <id>73ad4646-cc91-47d8-a7ef-1cfa709e4ac0</id>
-      <masked>false</masked>
-      <name>locale</name>
-   </variable>
 </TestCaseEntity>

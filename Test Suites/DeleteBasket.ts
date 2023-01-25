@@ -16,21 +16,6 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/DeleteBasket2</testCaseId>
-      <testDataLink>
-         <combinationType>ONE</combinationType>
-         <id>2634b8f5-0249-4d1d-a4c6-07ce81d009f6</id>
-         <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-         </iterationEntity>
-         <testDataId>Data Files/languages</testDataId>
-      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId>2634b8f5-0249-4d1d-a4c6-07ce81d009f6</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>locale</value>
-         <variableId>73ad4646-cc91-47d8-a7ef-1cfa709e4ac0</variableId>
-      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
