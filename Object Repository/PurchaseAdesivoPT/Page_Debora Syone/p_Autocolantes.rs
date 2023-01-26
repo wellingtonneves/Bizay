@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Autocolantes</name>
+   <tag></tag>
+   <elementGuidId>8f4e3c48-d14c-43f6-8ede-232398be1953</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#headeritem-2 > p.ellip.ellip-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='headeritem-2']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>18dbe562-ddb8-46f1-8bc1-393287d70dc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ellip ellip-2</value>
+      <webElementGuid>8049d966-88d3-4d1e-9f45-2a7d47cbf507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Autocolantes</value>
+      <webElementGuid>114f6b5c-f6c3-4978-a119-474bfa4ae543</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headeritem-2&quot;)/p[@class=&quot;ellip ellip-2&quot;]</value>
+      <webElementGuid>a998791a-7826-418d-9838-a53a13f8bb06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='headeritem-2']/p</value>
+      <webElementGuid>528ba4db-ac1d-48cf-8565-5e4c22f7805e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mais produtos'])[1]/following::p[3]</value>
+      <webElementGuid>13125997-099e-4abe-a95e-339eec2aec33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(2)'])[1]/following::p[3]</value>
+      <webElementGuid>7bbc8988-98bd-4f6e-84f8-c6ac48a973c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dados da Conta'])[1]/preceding::p[2]</value>
+      <webElementGuid>6c9a8241-0c61-4a2b-88bc-81e021c44c68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Endereços'])[1]/preceding::p[2]</value>
+      <webElementGuid>12db04b6-3183-468c-8647-4e9ecee99c1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Autocolantes']/parent::*</value>
+      <webElementGuid>aad02dc5-6508-4e7c-ac39-e0f04a2f1b56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/p</value>
+      <webElementGuid>71d614d5-3a5d-472b-a9b2-0c8047fccddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Autocolantes' or . = 'Autocolantes')]</value>
+      <webElementGuid>9418389e-53c6-4a73-b6d6-6246199cedec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

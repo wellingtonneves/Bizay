@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setText(findTestObject('Object Repository/UserPwd/Page_Iniciar sesso/input__UserName'), 'dd3syone@gmail.com')
+WebUI.setText(findTestObject('Object Repository/UserPwd/Page_Iniciar sesso/input__UserName'), 'dd4syone@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/UserPwd/Page_Iniciar sesso/input__Password'), 'aeHFOx8jV/A=')
 
