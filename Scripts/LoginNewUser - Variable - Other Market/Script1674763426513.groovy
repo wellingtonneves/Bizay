@@ -16,8 +16,17 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
 
-WebUI.setText(findTestObject('Object Repository/UserPwd/Page_Iniciar sesso/input__UserName'), 'dd5syone@gmail.com')
+WebUI.openBrowser(openbrowser)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/UserPwd/Page_Iniciar sesso/input__Password'), 'aeHFOx8jV/A=')
+WebUI.click(findTestObject(entry))
+
+WebUI.callTestCase(findTestCase('UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject(start))
+
+WebUI.click(findTestObject(logininvalid))
+
+WebUI.closeBrowser()
 

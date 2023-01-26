@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Objects</name>
+   <name>ObjectsOtherMarket</name>
    <tag></tag>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>94d9df65-4ba6-40e9-9920-5a0441112699</dataFileGUID>
-   <dataSourceUrl>C:\Katalon\Objetos.xlsx</dataSourceUrl>
+   <dataFileGUID>a41e0736-ef43-4aca-ad3f-7eb27a68f4a2</dataFileGUID>
+   <dataSourceUrl>C:\Katalon\Objetos - OtherMarket.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
-   <properties>
-      <entry>
-         <key>readAsString</key>
-         <value>false</value>
-      </entry>
-   </properties>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName>Sheet1</sheetName>

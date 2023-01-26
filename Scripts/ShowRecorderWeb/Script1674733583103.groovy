@@ -17,7 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setText(findTestObject('Object Repository/UserPwd/Page_Iniciar sesso/input__UserName'), 'dd5syone@gmail.com')
+WebUI.openBrowser('')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/UserPwd/Page_Iniciar sesso/input__Password'), 'aeHFOx8jV/A=')
+WebUI.navigateToUrl('https://alpha.bizay.co.uk/')
+
+WebUI.click(findTestObject('Object Repository/ShowRecorderWeb/Page_BIZAY  Online Printing Services, Promo_761a6c/a_Login  Register'))
+
+WebUI.setText(findTestObject('Object Repository/ShowRecorderWeb/Page_Login/input__UserName'), 'd1syone@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/ShowRecorderWeb/Page_Login/input__Password'), 'aeHFOx8jV/A=')
+
+WebUI.click(findTestObject('Object Repository/ShowRecorderWeb/Page_Login/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/ShowRecorderWeb/Page_Debora Syone/a_My account'))
+
+WebUI.click(findTestObject('Object Repository/ShowRecorderWeb/Page_Debora Syone/a_Logout'))
+
+WebUI.closeBrowser()
 

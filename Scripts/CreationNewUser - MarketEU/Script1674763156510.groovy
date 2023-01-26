@@ -16,17 +16,18 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
 
-WebUI.openBrowser('https://alpha.360imprimir.pt/')
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://alpha.360imprimir.pt/')
 
 WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
 
 WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
 
-WebUI.setText(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/input__UserName'), 'dfcsyone@gmail.com')
+WebUI.setText(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/input__UserName'), 'dd4syone@gmail.com')
 
-WebUI.setText(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/input__ConfirmUserName'), 'dfcsyone@gmail.com')
+WebUI.setText(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/input__ConfirmUserName'), 'dd4syone@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/input__Password'), 'aeHFOx8jV/A=')
 

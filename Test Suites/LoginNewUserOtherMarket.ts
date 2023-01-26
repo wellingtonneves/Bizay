@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>LoginNewUserOtherMarket</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>0d0004ce-8c88-479b-8fd5-1394a8f799fa</testSuiteGuid>
+   <testCaseLink>
+      <guid>6bb377e9-3d91-4177-805e-82cd60e5bdc1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LoginNewUser - Variable - Other Market</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c8a16bec-6d7d-48cc-9e85-58ce200dcbf2</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ObjectsOtherMarket</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>c8a16bec-6d7d-48cc-9e85-58ce200dcbf2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>openbrowser</value>
+         <variableId>5c9f5246-9007-49d7-ae89-417c4d7b6cd0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c8a16bec-6d7d-48cc-9e85-58ce200dcbf2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>entry</value>
+         <variableId>9041e04e-a4db-4e77-81b6-5f395079b2af</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c8a16bec-6d7d-48cc-9e85-58ce200dcbf2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>start</value>
+         <variableId>bc7611fc-f4b7-4fdd-8f5b-881df02f4ad8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c8a16bec-6d7d-48cc-9e85-58ce200dcbf2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>logininvalid</value>
+         <variableId>e1ce5178-e4ec-49e1-a02b-c0d657e8ca07</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
