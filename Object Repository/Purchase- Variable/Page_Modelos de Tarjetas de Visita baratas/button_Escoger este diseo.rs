@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Escoger este diseo</name>
+   <tag></tag>
+   <elementGuidId>ecf9fdef-a65f-4198-8265-0bb2691ade5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#chooseBtn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='chooseBtn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fc4d0788-262b-435f-85fa-95d8991c4bcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>chooseBtn</value>
+      <webElementGuid>ae3556a1-77b0-47ca-89a3-7b2f266e4442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>chooseThisTemplate()</value>
+      <webElementGuid>c0c6995c-ba6f-4fd2-8858-44240e041ec8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>isLoading</value>
+      <webElementGuid>a8cc20fc-c821-4328-9e4f-d203a4557ef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> btn btn-primary btn-md col-xs-6 select-buttons</value>
+      <webElementGuid>7996132a-73ca-44c9-a82c-96931ceeb640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    Escoger este diseño 
+                                </value>
+      <webElementGuid>f0242d4f-fef3-4d9a-ae66-4b669c97c1b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chooseBtn&quot;)</value>
+      <webElementGuid>f0d6b822-63e1-49c8-834b-06a78b72b4a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='chooseBtn']</value>
+      <webElementGuid>c82c52de-45a8-4735-baf8-a4052e9c8612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='templateDetailsModal']/div/div/div/div/div[3]/button</value>
+      <webElementGuid>d2cfe4b3-fb3c-44d3-8402-5d28a00b90da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ 2,41 €'])[8]/following::button[1]</value>
+      <webElementGuid>ffeb17aa-ca41-479c-8352-4b91d0c3cdd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Cómo funciona?'])[1]/preceding::button[2]</value>
+      <webElementGuid>a4033b55-e611-4c22-8abb-1e4910bdbb0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Díganos lo que pretende y nuestro equipo creará un diseño a su medida.'])[1]/preceding::button[2]</value>
+      <webElementGuid>a0b3822a-378d-4687-b9df-db3cc1d8a68c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Escoger este diseño']/parent::*</value>
+      <webElementGuid>1d247534-6d61-4147-b1e8-cb5bd171b91d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div/div/div/div[3]/button</value>
+      <webElementGuid>1c2907b1-4884-42df-906d-8e856c7c4037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'chooseBtn' and (text() = '
+                                    Escoger este diseño 
+                                ' or . = '
+                                    Escoger este diseño 
+                                ')]</value>
+      <webElementGuid>d1620c05-d68a-497d-912a-7837d8824080</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

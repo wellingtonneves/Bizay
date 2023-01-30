@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Finalizar</name>
+   <tag></tag>
+   <elementGuidId>9749cf74-eb42-43a2-a130-7b171d12c6e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-3.col-sm-2.btn.btn360.btn360small.btn-green.product-editor-finalize-tab</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@type='button'])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8907ba66-ed0d-4cfa-9299-5dcdfc581bdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ab73b41d-8f17-4fd2-83ae-19fae4921d7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>callDataLayer('Click','Editor','Tools','finalbtn'); finalizeBtn('Front','Finalize')</value>
+      <webElementGuid>cf43faca-a470-4b32-b714-72242f641824</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>!savingProduct == 0 || updatingProduct>0</value>
+      <webElementGuid>be046613-0d68-4b45-b7c8-e8a6543ef92c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-xs-3 col-sm-2 btn btn360 btn360small btn-green product-editor-finalize-tab</value>
+      <webElementGuid>8598cea0-003d-4140-9cff-2d912678abc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-visible</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>dd038291-507b-4a6e-b1fe-480bbb265300</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-version</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>dc2dd8ce-6bae-4937-afbe-fd952ea56071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Finalizar »
+        </value>
+      <webElementGuid>e50c02c2-101e-406f-a6a9-cdd5da87e706</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;finalizeContent&quot;)/div[@class=&quot;finalizeStickyBar absolute-position&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-3 col-sm-2 btn btn360 btn360small btn-green product-editor-finalize-tab&quot;]</value>
+      <webElementGuid>5a03e1f4-6d4e-4806-873a-428c2d46de14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@type='button'])[7]</value>
+      <webElementGuid>a54d9624-1675-4020-896d-d4efddedc807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='finalizeContent']/div/div/div/div</value>
+      <webElementGuid>336cbc5b-8dff-4c86-8f50-3ae93b785a23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Una vez que haya completado y validado su diseño, haga clic en finalizar'])[1]/following::div[1]</value>
+      <webElementGuid>f1c98127-ee97-496b-80c9-c93f0b1d4493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created by 360imprimir'])[2]/following::div[5]</value>
+      <webElementGuid>b441778d-5490-4261-835b-417b094565e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Una vez que haya completado y validado su diseño, haga clic en finalizar'])[2]/preceding::div[1]</value>
+      <webElementGuid>0560b6b7-2671-42ea-86b3-46e324a2e3c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finalizar »'])[2]/preceding::div[1]</value>
+      <webElementGuid>7b3decd1-ffe6-4ebd-a99f-6b70b13dca29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Finalizar »']/parent::*</value>
+      <webElementGuid>4d2e2bff-e01d-48d0-a9ef-01d63eb940f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[3]/div/div/div/div</value>
+      <webElementGuid>f932d23a-34ac-4d1b-bf54-e8412fafaef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@type = 'button' and (text() = '
+            Finalizar »
+        ' or . = '
+            Finalizar »
+        ')]</value>
+      <webElementGuid>5703e8b9-8434-4e0f-ba2f-8a67bb470f76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

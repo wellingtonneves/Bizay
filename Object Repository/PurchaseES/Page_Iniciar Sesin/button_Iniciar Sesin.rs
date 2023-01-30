@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Iniciar Sesin</name>
+   <tag></tag>
+   <elementGuidId>320f82c7-9b11-4afc-9d73-f38035053eb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Login</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='Login']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1e6621b0-f634-4503-b430-94098990a584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>4ab38fef-ea58-4fe6-b52b-903ecf50f13b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>d2b2bd91-e474-4b35-a7e2-2545fffef7be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn360 btn-blue btn</value>
+      <webElementGuid>39c265bc-135d-4327-86dd-7f57baf18865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-loading-text</name>
+      <type>Main</type>
+      <value>Espere...</value>
+      <webElementGuid>a199a77d-3e13-427b-b2ee-9241985025f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>callDataLayer('Click','Account_Login','Login','Login')</value>
+      <webElementGuid>684224fc-efb7-4665-9d4c-b8522972a238</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Iniciar Sesión
+                </value>
+      <webElementGuid>1e77f6e8-cd9e-4641-be74-d3c70238e69f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Login&quot;)</value>
+      <webElementGuid>451ded22-45ec-419d-aad0-90dd5256bf81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='Login']</value>
+      <webElementGuid>877f348e-537f-492c-a1b4-82e187c79b4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseLoginForm']/form/div[4]/button</value>
+      <webElementGuid>675ecadf-777a-47a0-be97-c841d99d1361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recuperar contraseña'])[1]/following::button[1]</value>
+      <webElementGuid>8cc11a9a-28e5-4b19-8ced-1c28beb5fcd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='@'])[3]/following::button[1]</value>
+      <webElementGuid>0a1c8df4-3c4c-4787-8df3-46fedd8692bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Nuevo Cliente?'])[2]/preceding::button[1]</value>
+      <webElementGuid>c7804047-b6ba-479b-a08b-e6ea0d0c9e56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regístrese y reciba ofertas exclusivas para clientes'])[2]/preceding::button[1]</value>
+      <webElementGuid>43a13cd7-0c41-4df2-9d05-c9c2268597bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>67d7bda0-667f-41b8-a3b7-a83e80b3f6bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @id = 'Login' and (text() = '
+                    Iniciar Sesión
+                ' or . = '
+                    Iniciar Sesión
+                ')]</value>
+      <webElementGuid>5e9a8032-a5bb-42d3-9e5d-d4e9a17cd8ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

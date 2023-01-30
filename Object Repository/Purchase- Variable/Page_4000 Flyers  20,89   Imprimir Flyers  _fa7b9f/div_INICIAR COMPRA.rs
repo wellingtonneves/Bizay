@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_INICIAR COMPRA</name>
+   <tag></tag>
+   <elementGuidId>b0a6c722-9655-46d4-ac2e-7e7a21d579c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#begin_purchase</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='begin_purchase']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d625d52e-02d6-4fcc-a3d2-784b016db0c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>begin_purchase</value>
+      <webElementGuid>d28e4eed-ae3b-4f43-97a9-ee28da150768</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-xs-12 begin-purchase-button</value>
+      <webElementGuid>7db3b77c-6a27-44ea-8efc-8065529672c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>beginSkuPurchase()</value>
+      <webElementGuid>1d94c7df-bf96-4673-afba-949ad9c5e1eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>!canInteract() || freeCVLimit</value>
+      <webElementGuid>74826d28-f65d-4125-ac97-94c47f647c0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        INICIAR COMPRA >
+                    </value>
+      <webElementGuid>3b673de7-d516-4262-8edf-bb89e4ea9a43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;begin_purchase&quot;)</value>
+      <webElementGuid>f02c3319-733d-4a43-bf0e-2f5e81c891d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='begin_purchase']</value>
+      <webElementGuid>8aee7695-37c6-4c3d-86b8-9f4dfe14916b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='calculatorController']/div/div[2]/div/div[5]</value>
+      <webElementGuid>a998b353-1518-4b9d-9283-0ab9d1409200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(c/ IVA)'])[1]/following::div[2]</value>
+      <webElementGuid>ffdbf816-d16f-48cf-a419-86cb2ea51ab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cantidad'])[3]/following::div[10]</value>
+      <webElementGuid>0cba0059-dc10-4add-8075-f4f0378220d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Garantizamos el precio más bajo.'])[1]/preceding::div[1]</value>
+      <webElementGuid>2f163624-d401-4b71-85b1-6874d78f4bf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flyers - NM'])[3]/preceding::div[3]</value>
+      <webElementGuid>90d6cc4b-aca2-4733-b11d-c45bc3a1e9cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='INICIAR COMPRA >']/parent::*</value>
+      <webElementGuid>4af73469-e629-45c8-8ef6-cb564fb080c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[5]</value>
+      <webElementGuid>9e63229e-5f02-4597-a2e5-054e9eb3be43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'begin_purchase' and (text() = '
+                        INICIAR COMPRA >
+                    ' or . = '
+                        INICIAR COMPRA >
+                    ')]</value>
+      <webElementGuid>e83c6fe4-31b5-4e62-b04c-c05ab049c722</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

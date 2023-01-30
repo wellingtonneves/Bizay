@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cerrar</name>
+   <tag></tag>
+   <elementGuidId>8283313b-4ff3-428c-bef7-e913bcca81dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.introjs-skipbutton.btn360.btn360mini.btn-red.btn-tour</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Cerrar')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d276e4ea-b593-4f8a-87cb-1c6987649702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>introjs-skipbutton btn360 btn360mini btn-red btn-tour</value>
+      <webElementGuid>3b61d497-663b-458b-8ed3-c0e8ea15d5cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>36ae45a4-0264-4ffa-9efd-6183aaaeccdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cerrar</value>
+      <webElementGuid>629450d4-d4ce-4810-a212-d27aaa106137</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[1]/div[@class=&quot;introjs-tooltipReferenceLayer&quot;]/div[@class=&quot;introjs-tooltip&quot;]/div[@class=&quot;introjs-tooltipbuttons&quot;]/a[@class=&quot;introjs-skipbutton btn360 btn360mini btn-red btn-tour&quot;]</value>
+      <webElementGuid>3575caa3-32eb-4068-9061-89b8dbb3208b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Cerrar')])[2]</value>
+      <webElementGuid>d93044e8-b7ae-4f6f-abb0-b92ec4b2e7ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Escoja lo que quiere editar'])[1]/following::a[14]</value>
+      <webElementGuid>bb1423ff-a098-41d7-94f6-4fae440bae2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No, gracias'])[1]/following::a[14]</value>
+      <webElementGuid>bc81567d-63db-4f0b-b31c-0847b44e8118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt;'])[1]/preceding::a[1]</value>
+      <webElementGuid>9854759d-7c45-4a7c-be52-54b77ec144f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Volver'])[2]/preceding::a[1]</value>
+      <webElementGuid>1cd5b5e8-4999-49f0-9844-56048977f3ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[16]</value>
+      <webElementGuid>de40817f-6b6d-41c5-88b3-c6f5b394b8ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div[5]/a</value>
+      <webElementGuid>5aabafb5-0356-45c5-a562-a6ac4a2817fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = 'Cerrar' or . = 'Cerrar')]</value>
+      <webElementGuid>8ea96859-700d-418b-af40-fcb6f8d16006</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
