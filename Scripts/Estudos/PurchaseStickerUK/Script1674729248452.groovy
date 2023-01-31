@@ -21,31 +21,31 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://alpha.bizay.co.uk/')
 
-WebUI.click(findTestObject('Object Repository/PurchaseStickerUK/Page_BIZAY  Online Printing Services, Promo_761a6c/a_Login  Register'))
+WebUI.click(findTestObject('Object Repository/Estudo/PurchaseStickerUK/Page_BIZAY  Online Printing Services, Promo_761a6c/a_Login  Register'))
 
-WebUI.setText(findTestObject('Object Repository/PurchaseStickerUK/Page_Login/input__UserName'), 'd1syone@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Estudo/PurchaseStickerUK/Page_Login/input__UserName'), 'd1syone@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/PurchaseStickerUK/Page_Login/input__Password'), 'aeHFOx8jV/A=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Estudo/PurchaseStickerUK/Page_Login/input__Password'), 'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('Object Repository/PurchaseStickerUK/Page_Login/button_Login'))
+WebUI.click(findTestObject('Object Repository/Estudo/PurchaseStickerUK/Page_Login/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/PurchaseStickerUK/Page_Debora Syone/span_Other products'))
+WebUI.click(findTestObject('Object Repository/Estudo/PurchaseStickerUK/Page_Debora Syone/span_Other products'))
 
-WebUI.click(findTestObject('Object Repository/PurchaseStickerUK/Page_Debora Syone/p_Top Sellers'))
+WebUI.click(findTestObject('Object Repository/Estudo/PurchaseStickerUK/Page_Debora Syone/p_Top Sellers'))
 
-WebUI.click(findTestObject('Object Repository/PurchaseStickerUK/Page_Debora Syone/p_Flyers'))
+WebUI.click(findTestObject('Object Repository/Estudo/PurchaseStickerUK/Page_Debora Syone/p_Flyers'))
 
-WebUI.click(findTestObject('Object Repository/PurchaseStickerUK/Page_4000 por 16.91  Cheap Flyers  Leaflet _29c642/div_START PURCHASE'))
+WebUI.click(findTestObject('Object Repository/Estudo/PurchaseStickerUK/Page_4000 por 16.91  Cheap Flyers  Leaflet _29c642/div_START PURCHASE'))
 
-WebUI.click(findTestObject('Object Repository/PurchaseStickerUK/Page_Flyers and Leaflets - Templates and De_cc4aeb/span_View Design'))
+WebUI.click(findTestObject('Object Repository/Estudo/PurchaseStickerUK/Page_Flyers and Leaflets - Templates and De_cc4aeb/span_View Design'))
 
-WebUI.click(findTestObject('Object Repository/PurchaseStickerUK/Page_Flyers and Leaflets - Templates and De_cc4aeb/button_Choose this design'))
+WebUI.click(findTestObject('Object Repository/Estudo/PurchaseStickerUK/Page_Flyers and Leaflets - Templates and De_cc4aeb/button_Choose this design'))
 
-WebUI.click(findTestObject('Object Repository/PurchaseStickerUK/Page_Create your Flyers 105 x 148 mm (A6)/a_Close'))
+WebUI.click(findTestObject('Object Repository/Estudo/PurchaseStickerUK/Page_Create your Flyers 105 x 148 mm (A6)/a_Close'))
 
-WebUI.click(findTestObject('Object Repository/PurchaseStickerUK/Page_Create your Flyers 105 x 148 mm (A6)/div_Finalize'))
+WebUI.click(findTestObject('Object Repository/Estudo/PurchaseStickerUK/Page_Create your Flyers 105 x 148 mm (A6)/div_Finalize'))
 
-WebUI.click(findTestObject('Object Repository/PurchaseStickerUK/Page_Basket/div_Next'))
+WebUI.click(findTestObject('Object Repository/Estudo/PurchaseStickerUK/Page_Basket/div_Next'))
 
 WebUI.closeBrowser()
 

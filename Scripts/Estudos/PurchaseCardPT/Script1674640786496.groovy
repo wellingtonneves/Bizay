@@ -21,33 +21,33 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://alpha.360imprimir.pt/')
 
-WebUI.click(findTestObject('Object Repository/PurchaseCardtPT/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
+WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/PurchaseCardtPT/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
 
-WebUI.click(findTestObject('Object Repository/PurchaseCardtPT/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
+WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/PurchaseCardtPT/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
 
-WebUI.setText(findTestObject('Object Repository/PurchaseCardtPT/Page_Iniciar sesso/input__UserName'), 'd1syone@gmail.com')
+WebUI.setText(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/PurchaseCardtPT/Page_Iniciar sesso/input__UserName'), 'd1syone@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/PurchaseCardtPT/Page_Iniciar sesso/input__Password'), 'aeHFOx8jV/A=')
+WebUI.setEncryptedText(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/PurchaseCardtPT/Page_Iniciar sesso/input__Password'), 'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('Object Repository/PurchaseCardtPT/Page_Iniciar sesso/button_Iniciar sesso'))
+WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/PurchaseCardtPT/Page_Iniciar sesso/button_Iniciar sesso'))
 
-WebUI.click(findTestObject('Object Repository/PurchaseCardtPT/Page_Debora Syone/span_Mais produtos'))
+WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/PurchaseCardtPT/Page_Debora Syone/span_Mais produtos'))
 
-WebUI.click(findTestObject('Object Repository/PurchaseCardtPT/Page_Debora Syone/p_Os Mais Vendidos'))
+WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/PurchaseCardtPT/Page_Debora Syone/p_Os Mais Vendidos'))
 
-WebUI.click(findTestObject('Object Repository/PurchaseCardtPT/Page_Debora Syone/p_Cartes de Visita - ps'))
+WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/PurchaseCardtPT/Page_Debora Syone/p_Cartes de Visita - ps'))
 
-WebUI.click(findTestObject('Object Repository/PurchaseCardtPT/Page_PromoPrice 10,71 , PromoDiscount 48,29/div_INICIAR COMPRA'))
+WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/PurchaseCardtPT/Page_PromoPrice 10,71 , PromoDiscount 48,29/div_INICIAR COMPRA'))
 
-WebUI.click(findTestObject('Object Repository/PurchaseCardtPT/Page_Promoes e Descontos  Grfica Online  36_832fe9/span_Ver Design'))
+WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/PurchaseCardtPT/Page_Promoes e Descontos  Grfica Online  36_832fe9/span_Ver Design'))
 
-WebUI.click(findTestObject('Object Repository/PurchaseCardtPT/Page_Promoes e Descontos  Grfica Online  36_832fe9/button_Escolher este design'))
+WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/PurchaseCardtPT/Page_Promoes e Descontos  Grfica Online  36_832fe9/button_Escolher este design'))
 
-WebUI.click(findTestObject('Object Repository/PurchaseCardtPT/Page_Crie o(s) seu(s) Cartes de Visita - ps_adac70/a_Fechar'))
+WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/PurchaseCardtPT/Page_Crie o(s) seu(s) Cartes de Visita - ps_adac70/a_Fechar'))
 
-WebUI.click(findTestObject('Object Repository/PurchaseCardtPT/Page_Crie o(s) seu(s) Cartes de Visita - ps_adac70/div_Finalizar'))
+WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/PurchaseCardtPT/Page_Crie o(s) seu(s) Cartes de Visita - ps_adac70/div_Finalizar'))
 
-WebUI.click(findTestObject('Object Repository/PurchaseCardtPT/Page_Carrinho de Compras/div_Seguinte'))
+WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/PurchaseCardtPT/Page_Carrinho de Compras/div_Seguinte'))
 
 WebUI.closeBrowser()
 

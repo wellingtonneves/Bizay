@@ -21,17 +21,17 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://alpha.bizay.co.uk/')
 
-WebUI.click(findTestObject('Object Repository/ShowRecorderWeb/Page_BIZAY  Online Printing Services, Promo_761a6c/a_Login  Register'))
+WebUI.click(findTestObject('Object Repository/Estudo/ShowRecorderWeb/Page_BIZAY  Online Printing Services, Promo_761a6c/a_Login  Register'))
 
-WebUI.setText(findTestObject('Object Repository/ShowRecorderWeb/Page_Login/input__UserName'), 'd1syone@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Estudo/ShowRecorderWeb/Page_Login/input__UserName'), 'd1syone@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/ShowRecorderWeb/Page_Login/input__Password'), 'aeHFOx8jV/A=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Estudo/ShowRecorderWeb/Page_Login/input__Password'), 'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('Object Repository/ShowRecorderWeb/Page_Login/button_Login'))
+WebUI.click(findTestObject('Object Repository/Estudo/ShowRecorderWeb/Page_Login/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/ShowRecorderWeb/Page_Debora Syone/a_My account'))
+WebUI.click(findTestObject('Object Repository/Estudo/ShowRecorderWeb/Page_Debora Syone/a_My account'))
 
-WebUI.click(findTestObject('Object Repository/ShowRecorderWeb/Page_Debora Syone/a_Logout'))
+WebUI.click(findTestObject('Object Repository/Estudo/ShowRecorderWeb/Page_Debora Syone/a_Logout'))
 
 WebUI.closeBrowser()
 

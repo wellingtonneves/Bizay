@@ -21,13 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://alpha.360imprimir.es/')
 
-WebUI.click(findTestObject('LoginNewUser - Variable/Page_360imprimir  Servicios de impresin, pr_956dfa/a_Iniciar Sesin  Registrar'))
+WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_360imprimir  Servicios de impresin, pr_956dfa/a_Iniciar Sesin  Registrar'))
 
-WebUI.setText(findTestObject('LoginNewUser - Variable/Page_Iniciar Sesin/input__UserName'), 'd1syone@gmail.com')
+WebUI.setText(findTestObject('Estudo/LoginNewUser - Variable/Page_Iniciar Sesin/input__UserName'), 'd1syone@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('LoginNewUser - Variable/Page_Iniciar Sesin/input__Password'), 'aeHFOx8jV/A=')
+WebUI.setEncryptedText(findTestObject('Estudo/LoginNewUser - Variable/Page_Iniciar Sesin/input__Password'), 'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('LoginNewUser - Variable/Page_Iniciar Sesin/button_Iniciar Sesin'))
+WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_Iniciar Sesin/button_Iniciar Sesin'))
 
 WebUI.click(findTestObject('Purchase- Variable/Page_Debora Syone/span_Ms productos'))
 

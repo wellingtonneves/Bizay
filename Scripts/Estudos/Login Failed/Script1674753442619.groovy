@@ -20,15 +20,15 @@ import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
 
 WebUI.openBrowser('https://alpha.360imprimir.pt/')
 
-WebUI.click(findTestObject('LoginNewUser - Variable/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
+WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
 
-WebUI.click(findTestObject('LoginNewUser - Variable/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
+WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
 
 WebUI.callTestCase(findTestCase('Regressão/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('LoginNewUser - Variable/Page_Iniciar sesso/button_Iniciar sesso'))
+WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_Iniciar sesso/button_Iniciar sesso'))
 
-WebUI.click(findTestObject('LoginNewUser - Variable/Page_Fazer Login/div_xDados de login invlidos'))
+WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_Fazer Login/div_xDados de login invlidos'))
 
 WebUI.closeBrowser()
 

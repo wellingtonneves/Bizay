@@ -25,40 +25,40 @@ RunConfiguration.setWebDriverPreferencesProperty('prefs', prefs)
 
 if (locale == 'pt') {
     WebUI.openBrowser('https://alpha.360imprimir.pt/')
-	WebUI.click(findTestObject('Purchase_Card - Variable/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
+	WebUI.click(findTestObject('Estudo/Purchase_Card - Variable/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
 } else if (locale == 'uk') {
     WebUI.openBrowser('https://alpha.bizay.co.uk/')
 }
 
-WebUI.click(findTestObject('Purchase_Card - Variable/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
+WebUI.click(findTestObject('Estudo/Purchase_Card - Variable/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
 
 WebUI.callTestCase(findTestCase('Regressão/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Purchase_Card - Variable/Page_Iniciar sesso/button_Iniciar sesso'))
+WebUI.click(findTestObject('Estudo/Purchase_Card - Variable/Page_Iniciar sesso/button_Iniciar sesso'))
 
-WebUI.click(findTestObject('Purchase_Card - Variable/Page_Debora Syone/span_Mais produtos'))
+WebUI.click(findTestObject('Estudo/Purchase_Card - Variable/Page_Debora Syone/span_Mais produtos'))
 
-WebUI.click(findTestObject('Purchase_Card - Variable/Page_Debora Syone/p_Os Mais Vendidos'))
+WebUI.click(findTestObject('Estudo/Purchase_Card - Variable/Page_Debora Syone/p_Os Mais Vendidos'))
 
-WebUI.click(findTestObject('Purchase_Card - Variable/Page_Debora Syone/p_Cartes de Visita - ps'))
+WebUI.click(findTestObject('Estudo/Purchase_Card - Variable/Page_Debora Syone/p_Cartes de Visita - ps'))
 
-WebUI.click(findTestObject('Purchase_Card - Variable/Page_PromoPrice 5,13 , PromoDiscount 70,59/div_INICIAR COMPRA'))
+WebUI.click(findTestObject('Estudo/Purchase_Card - Variable/Page_PromoPrice 5,13 , PromoDiscount 70,59/div_INICIAR COMPRA'))
 
-WebUI.click(findTestObject('Purchase_Card - Variable/Page_Promoes e Descontos  Grfica Online  36_832fe9/span_Ver Design'))
+WebUI.click(findTestObject('Estudo/Purchase_Card - Variable/Page_Promoes e Descontos  Grfica Online  36_832fe9/span_Ver Design'))
 
-WebUI.click(findTestObject('Purchase_Card - Variable/Page_Promoes e Descontos  Grfica Online  36_832fe9/button_Escolher este design'))
+WebUI.click(findTestObject('Estudo/Purchase_Card - Variable/Page_Promoes e Descontos  Grfica Online  36_832fe9/button_Escolher este design'))
 
 if (locale == 'pt') {
-    WebUI.click(findTestObject('Purchase_Card - Variable/Page_Crie o(s) seu(s) Cartes de Visita - ps_adac70/a_Fechar'))
+    WebUI.click(findTestObject('Estudo/Purchase_Card - Variable/Page_Crie o(s) seu(s) Cartes de Visita - ps_adac70/a_Fechar'))
 
-    WebUI.click(findTestObject('Purchase_Card - Variable/Page_Crie o(s) seu(s) Cartes de Visita - ps_adac70/div_Finalizar'))
+    WebUI.click(findTestObject('Estudo/Purchase_Card - Variable/Page_Crie o(s) seu(s) Cartes de Visita - ps_adac70/div_Finalizar'))
 } else if (locale == 'uk') {
-    WebUI.click(findTestObject('Purchase_Card - Variable/Page_Create your Business Cards 55 x 85 mm _df4bce/a_Close'))
+    WebUI.click(findTestObject('Estudo/Purchase_Card - Variable/Page_Create your Business Cards 55 x 85 mm _df4bce/a_Close'))
 
-    WebUI.click(findTestObject('Purchase_Card - Variable/Page_Create your Business Cards 55 x 85 mm _df4bce/div_Finalize'))
+    WebUI.click(findTestObject('Estudo/Purchase_Card - Variable/Page_Create your Business Cards 55 x 85 mm _df4bce/div_Finalize'))
 }
 
-WebUI.click(findTestObject('Purchase_Card - Variable/Page_Carrinho de Compras/div_Seguinte'))
+WebUI.click(findTestObject('Estudo/Purchase_Card - Variable/Page_Carrinho de Compras/div_Seguinte'))
 
 WebUI.closeBrowser()
 

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginNewUser - Variable - Same Market - False</name>
+   <tag>Serviços DAM LAM Réplicas</tag>
+   <comment></comment>
+   <testCaseGuid>8c7141fa-1d1b-435e-b463-5c9fc90b839d</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>68fd3115-ce42-4ce5-8738-6ede25687668</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/ObjectsOtherMarket</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>68fd3115-ce42-4ce5-8738-6ede25687668</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>openbrowser</value>
+      <variableId>59646cad-a0ba-444f-985d-632a728a48f7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>68fd3115-ce42-4ce5-8738-6ede25687668</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>entry</value>
+      <variableId>39d45f8d-31f1-420d-8291-259a97bd605f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>68fd3115-ce42-4ce5-8738-6ede25687668</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>start</value>
+      <variableId>ba952d79-4561-4089-800a-dced081610d6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>68fd3115-ce42-4ce5-8738-6ede25687668</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>myaccount</value>
+      <variableId>227c6bfe-2771-401c-9ee4-5235161be692</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>68fd3115-ce42-4ce5-8738-6ede25687668</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>exit</value>
+      <variableId>773986f8-30cf-4d8c-b2e7-63429c398de1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>' '</defaultValue>
+      <description></description>
+      <id>59646cad-a0ba-444f-985d-632a728a48f7</id>
+      <masked>false</masked>
+      <name>openbrowser</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>39d45f8d-31f1-420d-8291-259a97bd605f</id>
+      <masked>false</masked>
+      <name>entry</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ba952d79-4561-4089-800a-dced081610d6</id>
+      <masked>false</masked>
+      <name>start</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>227c6bfe-2771-401c-9ee4-5235161be692</id>
+      <masked>false</masked>
+      <name>myaccount</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>773986f8-30cf-4d8c-b2e7-63429c398de1</id>
+      <masked>false</masked>
+      <name>exit</name>
+   </variable>
+</TestCaseEntity>

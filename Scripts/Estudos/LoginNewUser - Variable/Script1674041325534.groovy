@@ -24,7 +24,7 @@ RunConfiguration.setWebDriverPreferencesProperty('prefs', prefs)
 
 if (locale == 'pt') {
     WebUI.openBrowser('https://alpha.360imprimir.pt/')
-	WebUI.click(findTestObject('LoginNewUser - Variable/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
+	WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
 } else if (locale == 'uk') {
     WebUI.openBrowser('https://alpha.bizay.co.uk/')
 } else if (locale == 'br') {
@@ -35,29 +35,29 @@ if (locale == 'pt') {
     WebUI.openBrowser('https://alpha.360imprimir.com.mx/')
 }
 
-WebUI.click(findTestObject('LoginNewUser - Variable/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
+WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
 
 WebUI.callTestCase(findTestCase('Regressão/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
 
 if (locale == 'pt') {
-	WebUI.click(findTestObject('LoginNewUser - Variable/Page_Iniciar sesso/button_Iniciar sesso'))
-	WebUI.click(findTestObject('LoginNewUser - Variable/Page_Debora Syone/a_A minha conta'))
-	WebUI.click(findTestObject('LoginNewUser - Variable/Page_Debora Syone/a_Sair'))
+	WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_Iniciar sesso/button_Iniciar sesso'))
+	WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_Debora Syone/a_A minha conta'))
+	WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_Debora Syone/a_Sair'))
 	
 } else if (locale == 'uk') {
-	WebUI.click(findTestObject('LoginNewUser - Variable/Page_Iniciar sesso/button_Iniciar sesso'))
-	WebUI.click(findTestObject('LoginNewUser - Variable/Page_Debora Syone/a_A minha conta'))
-	WebUI.click(findTestObject('LoginNewUser - Variable/Page_Debora Syone/a_Sair'))
+	WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_Iniciar sesso/button_Iniciar sesso'))
+	WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_Debora Syone/a_A minha conta'))
+	WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_Debora Syone/a_Sair'))
 } else if (locale == 'br') {
-	WebUI.click(findTestObject('LoginNewUser - Variable/Page_Iniciar sesso/button_Iniciar sesso'))
-	WebUI.click(findTestObject('LoginNewUser - Variable/Page_Fazer Login/div_xDados de login invlidos'))	
+	WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_Iniciar sesso/button_Iniciar sesso'))
+	WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_Fazer Login/div_xDados de login invlidos'))	
 } else if (locale == 'es') {
-	WebUI.click(findTestObject('LoginNewUser - Variable/Page_Iniciar sesso/button_Iniciar sesso'))
-	WebUI.click(findTestObject('LoginNewUser - Variable/Page_Debora Syone/a_A minha conta'))
-	WebUI.click(findTestObject('LoginNewUser - Variable/Page_Debora Syone/a_Sair'))
+	WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_Iniciar sesso/button_Iniciar sesso'))
+	WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_Debora Syone/a_A minha conta'))
+	WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_Debora Syone/a_Sair'))
 }else if (locale == 'mx') {
-	WebUI.click(findTestObject('LoginNewUser - Variable/Page_Iniciar sesso/button_Iniciar sesso'))
-	WebUI.click(findTestObject('LoginNewUser - Variable/Page_Fazer Login/div_xDados de login invlidos'))	
+	WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_Iniciar sesso/button_Iniciar sesso'))
+	WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_Fazer Login/div_xDados de login invlidos'))	
 }
 
 WebUI.closeBrowser()

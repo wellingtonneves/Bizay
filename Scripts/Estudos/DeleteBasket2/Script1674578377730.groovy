@@ -21,41 +21,41 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://alpha.360imprimir.pt/')
 
-WebUI.click(findTestObject('Object Repository/DeleteBasket2/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
+WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
 
-WebUI.click(findTestObject('Object Repository/DeleteBasket2/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
-
-WebUI.callTestCase(findTestCase('Regressão/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/DeleteBasket2/Page_Iniciar sesso/button_Iniciar sesso'))
-
-WebUI.click(findTestObject('Object Repository/DeleteBasket2/Page_Debora Syone/span_Carrinho            (2)'))
-
-WebUI.click(findTestObject('Object Repository/DeleteBasket2/Page_Carrinho de Compras/i_Grtis_icon-trash'))
-
-WebUI.click(findTestObject('Object Repository/DeleteBasket2/Page_Carrinho de Compras/i_Grtis_icon-trash'))
-
-WebUI.click(findTestObject('Object Repository/DeleteBasket2/Page_Carrinho de Compras/a_A minha conta'))
-
-WebUI.click(findTestObject('Object Repository/DeleteBasket2/Page_Carrinho de Compras/a_Sair'))
-
-WebUI.click(findTestObject('Object Repository/DeleteBasket2/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Gr-Bretanha'))
-
-WebUI.click(findTestObject('Object Repository/DeleteBasket2/Page_BIZAY  Online Printing Services, Promo_761a6c/a_Login  Register'))
+WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
 
 WebUI.callTestCase(findTestCase('Regressão/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/DeleteBasket2/Page_Login/button_Login'))
+WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_Iniciar sesso/button_Iniciar sesso'))
 
-WebUI.click(findTestObject('Object Repository/DeleteBasket2/Page_Debora Syone/span_Basket            (2)'))
+WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_Debora Syone/span_Carrinho            (2)'))
 
-WebUI.click(findTestObject('Object Repository/DeleteBasket2/Page_Basket/i_Free_icon-trash'))
+WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_Carrinho de Compras/i_Grtis_icon-trash'))
 
-WebUI.click(findTestObject('Object Repository/DeleteBasket2/Page_Basket/i_Free_icon-trash'))
+WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_Carrinho de Compras/i_Grtis_icon-trash'))
 
-WebUI.click(findTestObject('Object Repository/DeleteBasket2/Page_Basket/a_My account'))
+WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_Carrinho de Compras/a_A minha conta'))
 
-WebUI.click(findTestObject('Object Repository/DeleteBasket2/Page_Basket/a_Logout'))
+WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_Carrinho de Compras/a_Sair'))
+
+WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Gr-Bretanha'))
+
+WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_BIZAY  Online Printing Services, Promo_761a6c/a_Login  Register'))
+
+WebUI.callTestCase(findTestCase('Regressão/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_Login/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_Debora Syone/span_Basket            (2)'))
+
+WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_Basket/i_Free_icon-trash'))
+
+WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_Basket/i_Free_icon-trash'))
+
+WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_Basket/a_My account'))
+
+WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_Basket/a_Logout'))
 
 WebUI.closeBrowser()
 

@@ -27,8 +27,8 @@ RunConfiguration.setWebDriverPreferencesProperty('prefsa', prefs)
 
 if (locale == 'pt') {
     WebUI.openBrowser('https://alpha.360imprimir.pt/')
-	WebUI.click(findTestObject('LoginNewUser - Variable/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
-	WebUI.click(findTestObject('LoginNewUser - Variable/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
+	WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
+	WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
 	WebUI.callTestCase(findTestCase('Regressão/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
 	WebUI.click(findTestObject('Purchase- Variable/Page_Iniciar sesso/button_Iniciar sesso'))
 	WebUI.click(findTestObject('Purchase- Variable/Page_Debora Syone/span_Mais produtos'))
@@ -51,7 +51,7 @@ if (locale == 'pt') {
 		
 } else if (locale == 'uk') {
     WebUI.openBrowser('https://alpha.bizay.co.uk/')
-	WebUI.click(findTestObject('LoginNewUser - Variable/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
+	WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
 	WebUI.callTestCase(findTestCase('Regressão/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
 	WebUI.click(findTestObject('Purchase- Variable/Page_Iniciar sesso/button_Iniciar sesso'))
 	WebUI.click(findTestObject('Purchase- Variable/Page_Debora Syone/span_Mais produtos'))

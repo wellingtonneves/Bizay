@@ -21,19 +21,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://alpha.360imprimir.es/')
 
-WebUI.click(findTestObject('Object Repository/FlyerES/Page_360imprimir  Servicios de impresin, pr_956dfa/a_Iniciar Sesin  Registrar'))
+WebUI.click(findTestObject('Object Repository/Estudo/FlyerES/Page_360imprimir  Servicios de impresin, pr_956dfa/a_Iniciar Sesin  Registrar'))
 
-WebUI.click(findTestObject('Object Repository/FlyerES/Page_Iniciar Sesin/div_Ya es cliente de 360imprimir        Int_b631a5'))
+WebUI.click(findTestObject('Object Repository/Estudo/FlyerES/Page_Iniciar Sesin/div_Ya es cliente de 360imprimir        Int_b631a5'))
 
-WebUI.setText(findTestObject('Object Repository/FlyerES/Page_Iniciar Sesin/input__UserName'), 'd1syone@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Estudo/FlyerES/Page_Iniciar Sesin/input__UserName'), 'd1syone@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/FlyerES/Page_Iniciar Sesin/input__Password'), 'aeHFOx8jV/A=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Estudo/FlyerES/Page_Iniciar Sesin/input__Password'), 'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('Object Repository/FlyerES/Page_Iniciar Sesin/button_Iniciar Sesin'))
+WebUI.click(findTestObject('Object Repository/Estudo/FlyerES/Page_Iniciar Sesin/button_Iniciar Sesin'))
 
-WebUI.click(findTestObject('Object Repository/FlyerES/Page_Debora Syone/span_Ms productos'))
+WebUI.click(findTestObject('Object Repository/Estudo/FlyerES/Page_Debora Syone/span_Ms productos'))
 
-WebUI.click(findTestObject('Object Repository/FlyerES/Page_Debora Syone/p_Los ms vendidos'))
+WebUI.click(findTestObject('Object Repository/Estudo/FlyerES/Page_Debora Syone/p_Los ms vendidos'))
 
 WebUI.click(findTestObject('Purchase- Variable/Page_Debora Syone/p_Flyers - NM'))
 
