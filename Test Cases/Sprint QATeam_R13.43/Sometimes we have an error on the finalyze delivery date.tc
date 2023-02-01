@@ -1,81 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
-   <name>LoginNewUser - Variable - Same Market</name>
-   <tag> </tag>
+   <description>IOR-7749</description>
+   <name>Sometimes we have an error on the finalyze delivery date</name>
+   <tag>13.43;IOR</tag>
    <comment></comment>
-   <testCaseGuid>0386af09-fa0a-47e8-8429-c166a3cb3884</testCaseGuid>
+   <testCaseGuid>64ba96cf-cc2c-4b41-aaab-765cebab84e6</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
-      <id>8e046c01-e3a1-4c02-8509-41ea2dfe040e</id>
+      <id>010f1b08-a3fb-4c10-99f7-9ec2742a9ba0</id>
       <iterationEntity>
          <iterationType>ALL</iterationType>
          <value></value>
       </iterationEntity>
-      <testDataId>Data Files/ObjectsSameMarket</testDataId>
+      <testDataId>Data Files/ObjectSameMarket-False</testDataId>
    </testDataLinks>
    <variableLinks>
-      <testDataLinkId>8e046c01-e3a1-4c02-8509-41ea2dfe040e</testDataLinkId>
+      <testDataLinkId>010f1b08-a3fb-4c10-99f7-9ec2742a9ba0</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>openbrowser</value>
-      <variableId>12d7375d-ec8a-40d6-8cc3-5b5c49a8d7d6</variableId>
+      <variableId>2632c625-3962-4875-867c-4573d5309848</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>8e046c01-e3a1-4c02-8509-41ea2dfe040e</testDataLinkId>
+      <testDataLinkId>010f1b08-a3fb-4c10-99f7-9ec2742a9ba0</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>entry</value>
-      <variableId>3b4a96f4-6c09-4c5c-aa9a-af7e34dcb056</variableId>
+      <variableId>eec61062-c447-4276-b7cc-c029e445448a</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>8e046c01-e3a1-4c02-8509-41ea2dfe040e</testDataLinkId>
+      <testDataLinkId>010f1b08-a3fb-4c10-99f7-9ec2742a9ba0</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>start</value>
-      <variableId>6f0d5b05-f4ac-4b04-9c3b-79823d85314b</variableId>
+      <variableId>49265466-96cd-4f3b-a5a0-7b6d6fac4ff0</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>8e046c01-e3a1-4c02-8509-41ea2dfe040e</testDataLinkId>
+      <testDataLinkId>010f1b08-a3fb-4c10-99f7-9ec2742a9ba0</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>myaccount</value>
-      <variableId>18c8ffb5-f5e0-4eb2-84d1-a0a0d8d66a52</variableId>
+      <variableId>d9f09d83-834e-4673-ad31-b7bf79d0e1d2</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>8e046c01-e3a1-4c02-8509-41ea2dfe040e</testDataLinkId>
+      <testDataLinkId>010f1b08-a3fb-4c10-99f7-9ec2742a9ba0</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>exit</value>
-      <variableId>3b41572c-063e-4431-afa2-923a135bf7d7</variableId>
+      <variableId>5217e3ca-2585-4712-9d6d-229f6a880dc3</variableId>
    </variableLinks>
    <variable>
       <defaultValue>' '</defaultValue>
       <description></description>
-      <id>12d7375d-ec8a-40d6-8cc3-5b5c49a8d7d6</id>
+      <id>2632c625-3962-4875-867c-4573d5309848</id>
       <masked>false</masked>
       <name>openbrowser</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>3b4a96f4-6c09-4c5c-aa9a-af7e34dcb056</id>
+      <id>eec61062-c447-4276-b7cc-c029e445448a</id>
       <masked>false</masked>
       <name>entry</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>6f0d5b05-f4ac-4b04-9c3b-79823d85314b</id>
+      <id>49265466-96cd-4f3b-a5a0-7b6d6fac4ff0</id>
       <masked>false</masked>
       <name>start</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>18c8ffb5-f5e0-4eb2-84d1-a0a0d8d66a52</id>
+      <id>d9f09d83-834e-4673-ad31-b7bf79d0e1d2</id>
       <masked>false</masked>
       <name>myaccount</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>3b41572c-063e-4431-afa2-923a135bf7d7</id>
+      <id>5217e3ca-2585-4712-9d6d-229f6a880dc3</id>
       <masked>false</masked>
       <name>exit</name>
    </variable>
