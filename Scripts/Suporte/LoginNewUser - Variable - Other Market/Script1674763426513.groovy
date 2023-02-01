@@ -22,7 +22,7 @@ WebUI.openBrowser(openbrowser)
 
 WebUI.click(findTestObject(entry))
 
-WebUI.callTestCase(findTestCase('Regressão/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Suporte/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject(start))
 

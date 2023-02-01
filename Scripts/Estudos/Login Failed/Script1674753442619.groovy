@@ -24,7 +24,7 @@ WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_360imprimir  Grf
 
 WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
 
-WebUI.callTestCase(findTestCase('Regressão/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Suporte/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Estudo/LoginNewUser - Variable/Page_Iniciar sesso/button_Iniciar sesso'))
 

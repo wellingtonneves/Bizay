@@ -20,7 +20,7 @@ import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
 
 WebUI.openBrowser(openbrowser)
 WebUI.click(findTestObject(entry))
-WebUI.callTestCase(findTestCase('Regressão/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Suporte/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
 WebUI.click(findTestObject(start))
 WebUI.click(findTestObject(moreproducts))
 WebUI.click(findTestObject(moresales))

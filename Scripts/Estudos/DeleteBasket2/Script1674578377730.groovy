@@ -25,7 +25,7 @@ WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_360impri
 
 WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
 
-WebUI.callTestCase(findTestCase('Regressão/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Suporte/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_Iniciar sesso/button_Iniciar sesso'))
 
@@ -43,7 +43,7 @@ WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_360impri
 
 WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_BIZAY  Online Printing Services, Promo_761a6c/a_Login  Register'))
 
-WebUI.callTestCase(findTestCase('Regressão/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Suporte/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Estudo/DeleteBasket2/Page_Login/button_Login'))
 

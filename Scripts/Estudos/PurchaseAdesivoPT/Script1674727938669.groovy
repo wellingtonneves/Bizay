@@ -25,7 +25,7 @@ WebUI.click(findTestObject('Object Repository/Estudo/PurchaseAdesivoPT/Page_360i
 
 WebUI.click(findTestObject('Object Repository/Estudo/PurchaseAdesivoPT/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
 
-WebUI.callTestCase(findTestCase('Regressão/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Suporte/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Estudo/PurchaseAdesivoPT/Page_Iniciar sesso/button_Iniciar sesso'))
 
