@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>2.37.1 - Regressão Configuração de Stock</name>
-   <tag>Stock</tag>
+   <tag>Stock:Regressao</tag>
    <comment></comment>
    <testCaseGuid>0794a75f-07e9-4d0f-8d46-706ac48cafab</testCaseGuid>
    <variableLinks>

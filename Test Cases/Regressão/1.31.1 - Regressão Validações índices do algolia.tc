@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>1.31.1 - Regressão Validações índices do algolia</name>
-   <tag>Algolia</tag>
+   <tag>Algolia:Regressao</tag>
    <comment></comment>
    <testCaseGuid>88f3d600-6d91-47ce-8601-7b00d12965da</testCaseGuid>
    <variableLinks>

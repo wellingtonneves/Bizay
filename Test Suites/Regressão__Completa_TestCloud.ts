@@ -15,7 +15,7 @@
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Registro de Cliente</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuites_Regresao/Algolia</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -25,7 +25,7 @@
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Picagem</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuites_Regresao/Alterar Design</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -35,7 +35,7 @@
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Impressão de Etiquetas</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuites_Regresao/Compras Customizável</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -45,7 +45,7 @@
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Faturas de Exportação_Transitário</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuites_Regresao/Culturas</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -55,7 +55,7 @@
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Stock</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuites_Regresao/Faturas de Exportação_Transitário</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -65,7 +65,7 @@
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Serviços (DAM_LAM_Replicas)</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuites_Regresao/Fluxo de BO</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -75,7 +75,7 @@
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Voucher_Descontos</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuites_Regresao/Impressão de Etiquetas</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -85,7 +85,7 @@
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Culturas</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuites_Regresao/Master</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -95,7 +95,7 @@
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Alterar Design</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuites_Regresao/Parceiros Equivalentes</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -105,7 +105,7 @@
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Compras Customizável</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuites_Regresao/Picagem</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -115,7 +115,7 @@
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Algolia</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuites_Regresao/Registro de Cliente</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -125,7 +125,7 @@
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Fluxo de BO</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuites_Regresao/SalesForce</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -135,7 +135,7 @@
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Parceiros Equivalentes</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuites_Regresao/Serviços (DAM_LAM_Replicas)</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -145,7 +145,7 @@
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Studio</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuites_Regresao/Stock</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -155,7 +155,7 @@
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/SalesForce</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuites_Regresao/Studio</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -165,7 +165,7 @@
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Master</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuites_Regresao/Voucher_Descontos</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

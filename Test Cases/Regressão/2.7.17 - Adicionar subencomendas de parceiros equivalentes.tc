@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>2.7.17 - Adicionar subencomendas de parceiros equivalentes</name>
-   <tag>Parceiros Equivalentes</tag>
+   <tag>Parceiros Equivalentes:Regressao</tag>
    <comment></comment>
    <testCaseGuid>24c9ac7f-a692-4be0-9f13-37e5cd61c5cd</testCaseGuid>
    <variableLinks>

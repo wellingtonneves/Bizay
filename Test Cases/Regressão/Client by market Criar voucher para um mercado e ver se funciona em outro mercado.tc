@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>Client by market Criar voucher para um mercado e ver se funciona em outro mercado</name>
-   <tag>Voucher/descontos</tag>
+   <tag>Voucher/descontos:Regressao</tag>
    <comment></comment>
    <testCaseGuid>8026de59-dd92-44b2-a073-099125ee4f15</testCaseGuid>
    <variableLinks>

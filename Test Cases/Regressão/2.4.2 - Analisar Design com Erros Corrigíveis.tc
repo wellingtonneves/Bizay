@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>2.4.2 - Analisar Design com Erros Corrigíveis</name>
-   <tag>Picagem </tag>
+   <tag>Picagem:Regressao</tag>
    <comment></comment>
    <testCaseGuid>5160bedb-5d5a-4f2f-a4dc-7ce948c2818d</testCaseGuid>
    <variableLinks>

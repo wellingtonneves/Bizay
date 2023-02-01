@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Teste1</description>
+   <description>Limit production date is not according with productionlimitdays</description>
    <name>IOR-7710</name>
    <tag>13.43</tag>
    <comment></comment>

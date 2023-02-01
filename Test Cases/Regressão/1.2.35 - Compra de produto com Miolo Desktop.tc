@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>1.2.35 - Compra de produto com Miolo Desktop</name>
-   <tag>Compras customizável</tag>
+   <tag>Compras customizável:Regressao</tag>
    <comment></comment>
    <testCaseGuid>87c20400-0ed5-4f97-8765-3d885697515d</testCaseGuid>
    <variableLinks>

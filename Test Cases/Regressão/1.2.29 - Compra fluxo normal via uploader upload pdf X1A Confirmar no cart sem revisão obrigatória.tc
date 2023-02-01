@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>1.2.29 - Compra fluxo normal via uploader upload pdf X1A Confirmar no cart sem revisão obrigatória</name>
-   <tag>Alterar Design</tag>
+   <tag>Alterar Design:Regressao</tag>
    <comment></comment>
    <testCaseGuid>3c4cc780-ea8c-4e16-80dd-b0bc93d6a6da</testCaseGuid>
    <variableLinks>
