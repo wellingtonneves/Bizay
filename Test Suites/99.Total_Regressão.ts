@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FilteringTestSuiteEntity>
    <description></description>
-   <name>Regressão</name>
+   <name>99.Total_Regressão</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
