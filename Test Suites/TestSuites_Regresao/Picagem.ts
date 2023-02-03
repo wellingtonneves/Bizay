@@ -14,5 +14,5 @@
    <filteringBuiltIn>com.kms.katalon.execution.platform.DynamicBuiltInSearch</filteringBuiltIn>
    <filteringExtension></filteringExtension>
    <filteringPlugin></filteringPlugin>
-   <filteringText>tag=(Picagem ) </filteringText>
+   <filteringText>tag=(Picagem) </filteringText>
 </FilteringTestSuiteEntity>

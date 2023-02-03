@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FilteringTestSuiteEntity>
    <description></description>
-   <name>SprintQATeam_R13.43</name>
+   <name>02.SprintQATeam_R13.43_Day2</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,7 +10,7 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>89fdd852-2087-4988-a563-12a53e5a72da</testSuiteGuid>
+   <testSuiteGuid>3cf0e74e-6d56-47db-b36c-860e73250a43</testSuiteGuid>
    <filteringBuiltIn>com.kms.katalon.execution.platform.DynamicBuiltInSearch</filteringBuiltIn>
    <filteringExtension></filteringExtension>
    <filteringPlugin></filteringPlugin>

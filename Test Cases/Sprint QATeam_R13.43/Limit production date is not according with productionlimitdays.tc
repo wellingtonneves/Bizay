@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description>IOR-7710</description>
    <name>Limit production date is not according with productionlimitdays</name>
-   <tag>13.43;IOR</tag>
+   <tag>13.43;IOR;SPRINT</tag>
    <comment></comment>
    <testCaseGuid>abddd1c0-6831-4ea1-92d9-d09bbcb606ef</testCaseGuid>
    <testDataLinks>

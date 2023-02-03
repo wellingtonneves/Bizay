@@ -19,17 +19,30 @@ import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
 
 WebUI.openBrowser(openbrowser)
+
 WebUI.click(findTestObject(entry))
-WebUI.callTestCase(findTestCase('Suporte/UserPdw'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('Suporte/UserPdw - 15'), [:], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.click(findTestObject(start))
+
 WebUI.click(findTestObject(moreproducts))
+
 WebUI.click(findTestObject(moresales))
+
 WebUI.click(findTestObject(product_type))
+
 WebUI.click(findTestObject(div_start_purchase))
+
 WebUI.click(findTestObject(see_design))
+
 WebUI.click(findTestObject(choose_design))
+
 WebUI.click(findTestObject(product_close))
+
 WebUI.click(findTestObject(product_finalize))
+
 WebUI.click(findTestObject(basket_next))
+
 WebUI.closeBrowser()
 

@@ -89,7 +89,7 @@
    <variableLinks>
       <testDataLinkId>fc91108a-cdf7-4b29-8e93-78b381a09ff1</testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>product_type</value>
+      <value>product_close</value>
       <variableId>017907a8-e67d-4d06-ae4a-a919806ae75a</variableId>
    </variableLinks>
    <variableLinks>

@@ -11,5 +11,8 @@
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>d589209e-b703-4df8-b77c-6857d5286a53</testSuiteGuid>
-   <filteringText></filteringText>
+   <filteringBuiltIn>com.kms.katalon.execution.platform.DynamicBuiltInSearch</filteringBuiltIn>
+   <filteringExtension></filteringExtension>
+   <filteringPlugin></filteringPlugin>
+   <filteringText>tag=(Fluxo de BO) </filteringText>
 </FilteringTestSuiteEntity>
