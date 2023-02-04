@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FilteringTestSuiteEntity>
    <description></description>
-   <name>Master</name>
+   <name>03.3.Regressão Day 3</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,9 +10,9 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>62515813-bab8-4e72-ae42-1ab7b75155c8</testSuiteGuid>
+   <testSuiteGuid>ba9df82e-ab8a-4424-9690-3450536723a8</testSuiteGuid>
    <filteringBuiltIn>com.kms.katalon.execution.platform.DynamicBuiltInSearch</filteringBuiltIn>
    <filteringExtension></filteringExtension>
    <filteringPlugin></filteringPlugin>
-   <filteringText>tag=(Master) </filteringText>
+   <filteringText>tag=(Regressaoday3) </filteringText>
 </FilteringTestSuiteEntity>

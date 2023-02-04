@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>1.33.3 Verificar se os clientes são redireccionados para a página inicial quando o domínio escolhido se encontra numa loja diferente</name>
-   <tag>Culturas:Regressao</tag>
+   <tag>Culturas:Regressaoday1</tag>
    <comment></comment>
    <testCaseGuid>96aa73a0-30d2-4167-9a72-dfbee1912c3f</testCaseGuid>
    <testDataLinks>

@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>1.4.15 - Registo de cliente</name>
-   <tag>Registo de Cliente:Regressao;Smoke Test PS1</tag>
+   <tag>Registo de Cliente:Regressaoday3;Smoke Test PS1</tag>
    <comment></comment>
    <testCaseGuid>6367d80c-ffe8-4610-b5e4-e4b6dfba6ab0</testCaseGuid>
    <testDataLinks>

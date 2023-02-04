@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>3.5.1 - Criar novo grupo de produto</name>
-   <tag>Master:Regressao</tag>
+   <tag>Master:Regressaoday2</tag>
    <comment></comment>
    <testCaseGuid>f2ddf14c-f143-4978-9604-7441603c5f0f</testCaseGuid>
    <testDataLinks>

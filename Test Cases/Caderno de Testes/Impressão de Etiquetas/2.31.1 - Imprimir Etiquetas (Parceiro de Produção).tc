@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>2.31.1 - Imprimir Etiquetas (Parceiro de Produção)</name>
-   <tag>Impressão de Etiquetas:Regressao:Smoke Test IOR</tag>
+   <tag>Impressão de Etiquetas:Regressaoday2:Smoke Test IOR</tag>
    <comment></comment>
    <testCaseGuid>98afd787-2171-4db5-8374-7785bc8ae837</testCaseGuid>
    <testDataLinks>

@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>5.3.1.1 - Criar um novo LayoutGroup</name>
-   <tag>Studio:Regressao</tag>
+   <tag>Studio:Regressaoday3</tag>
    <comment></comment>
    <testCaseGuid>a9b84b81-fdcf-46af-b5db-416b1a5781f0</testCaseGuid>
    <testDataLinks>

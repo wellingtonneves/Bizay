@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FilteringTestSuiteEntity>
    <description></description>
-   <name>Compras Customizável</name>
+   <name>03.1.Regressão Day 1</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,9 +10,9 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>348546ba-df32-462b-b84e-b6bf48634162</testSuiteGuid>
+   <testSuiteGuid>5e0b7257-f3d6-44c0-8642-93736cb767ea</testSuiteGuid>
    <filteringBuiltIn>com.kms.katalon.execution.platform.DynamicBuiltInSearch</filteringBuiltIn>
    <filteringExtension></filteringExtension>
    <filteringPlugin></filteringPlugin>
-   <filteringText>tag=(Compras customizável) </filteringText>
+   <filteringText>tag=(Regressaoday1) </filteringText>
 </FilteringTestSuiteEntity>

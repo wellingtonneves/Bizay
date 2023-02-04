@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>1.18.7 - Validação de encomendas com cód. postal com números e letras</name>
-   <tag>Faturas de exportação Transitário;Regressao</tag>
+   <tag>Faturas de exportação Transitário;Regressaoday2</tag>
    <comment></comment>
    <testCaseGuid>459b5861-d4fa-4d60-9c19-0beda13113ef</testCaseGuid>
    <testDataLinks>

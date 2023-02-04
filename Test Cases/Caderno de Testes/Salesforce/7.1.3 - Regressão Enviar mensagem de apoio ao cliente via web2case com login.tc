@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>7.1.3 - Regressão Enviar mensagem de apoio ao cliente via web2case com login</name>
-   <tag>Salesforce:Regressao</tag>
+   <tag>Salesforce:Regressaoday3</tag>
    <comment></comment>
    <testCaseGuid>ce0b8568-8916-43e4-b798-a0eb75f8f7a8</testCaseGuid>
    <testDataLinks>

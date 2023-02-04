@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>2.12.5 - Regressão Correr Jobs Kibana aberto</name>
-   <tag>Fluxo de BO:Regressao</tag>
+   <tag>Fluxo de BO:Regressaoday2</tag>
    <comment></comment>
    <testCaseGuid>03af45af-7df6-48bb-a330-9661c8c50f15</testCaseGuid>
    <testDataLinks>
