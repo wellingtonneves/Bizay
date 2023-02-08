@@ -16,35 +16,44 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Suporte/LoginNewUser - Variable - Same Market</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8b524e09-7fe2-46b8-88d8-e6d06ed62b16</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ObjectsSameMarket</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>8b524e09-7fe2-46b8-88d8-e6d06ed62b16</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>openbrowser</value>
          <variableId>12d7375d-ec8a-40d6-8cc3-5b5c49a8d7d6</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>8b524e09-7fe2-46b8-88d8-e6d06ed62b16</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>entry</value>
          <variableId>3b4a96f4-6c09-4c5c-aa9a-af7e34dcb056</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>8b524e09-7fe2-46b8-88d8-e6d06ed62b16</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>start</value>
          <variableId>6f0d5b05-f4ac-4b04-9c3b-79823d85314b</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>8b524e09-7fe2-46b8-88d8-e6d06ed62b16</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>myaccount</value>
          <variableId>18c8ffb5-f5e0-4eb2-84d1-a0a0d8d66a52</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>8b524e09-7fe2-46b8-88d8-e6d06ed62b16</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>exit</value>
          <variableId>3b41572c-063e-4431-afa2-923a135bf7d7</variableId>
       </variableLink>
    </testCaseLink>
