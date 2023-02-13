@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://alpha.360imprimir.pt/')
+WebUI.navigateToUrl('https://www.360imprimir.pt/')
 
 WebUI.click(findTestObject('Object Repository/DeleteBaket_01/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
 
