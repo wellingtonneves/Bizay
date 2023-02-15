@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteCollectionEntity>
    <description></description>
-   <name>Login PT - Environments</name>
+   <name>CreateLogin PT - Environments</name>
    <tag></tag>
    <delayBetweenInstances>10</delayBetweenInstances>
    <executionMode>PARALLEL</executionMode>
@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Z.Estudo/Login PT - Alpha</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Z.Estudo/Create Login PT - Alpha</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -25,7 +25,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Z.Estudo/Login PT - Beta</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Z.Estudo/Create Login PT - Beta</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
