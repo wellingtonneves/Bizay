@@ -12,7 +12,7 @@
          <iterationType>ALL</iterationType>
          <value></value>
       </iterationEntity>
-      <testDataId>Data Files/ObjectsSameMarket</testDataId>
+      <testDataId>Data Files/ObjectsSameMarket-Alpha</testDataId>
    </testDataLinks>
    <variableLinks>
       <testDataLinkId>8e046c01-e3a1-4c02-8509-41ea2dfe040e</testDataLinkId>
