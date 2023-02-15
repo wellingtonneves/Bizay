@@ -5,43 +5,34 @@
    <tag>13.43;IOR;SPRINT</tag>
    <comment></comment>
    <testCaseGuid>abddd1c0-6831-4ea1-92d9-d09bbcb606ef</testCaseGuid>
-   <testDataLinks>
-      <combinationType>ONE</combinationType>
-      <id>8e046c01-e3a1-4c02-8509-41ea2dfe040e</id>
-      <iterationEntity>
-         <iterationType>ALL</iterationType>
-         <value></value>
-      </iterationEntity>
-      <testDataId>Data Files/ObjectsSameMarket-Beta</testDataId>
-   </testDataLinks>
    <variableLinks>
-      <testDataLinkId>8e046c01-e3a1-4c02-8509-41ea2dfe040e</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>openbrowser</value>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
       <variableId>40e6f577-1820-4794-90a8-864b5097a097</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>8e046c01-e3a1-4c02-8509-41ea2dfe040e</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>entry</value>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
       <variableId>d158bd8b-6a3b-45ba-a394-86f0644ff45d</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>8e046c01-e3a1-4c02-8509-41ea2dfe040e</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>start</value>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
       <variableId>57e8989b-5068-4351-89c2-ef8ca158986a</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>8e046c01-e3a1-4c02-8509-41ea2dfe040e</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>myaccount</value>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
       <variableId>e6363609-16c1-4d4a-bc03-ddb33b62ee96</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>8e046c01-e3a1-4c02-8509-41ea2dfe040e</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>exit</value>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
       <variableId>925b0b5c-a25f-454c-a696-8a7106c6dcb7</variableId>
    </variableLinks>
    <variable>

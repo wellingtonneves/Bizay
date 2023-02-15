@@ -18,40 +18,40 @@
       <testCaseId>Test Cases/Suporte/Login - Variable - Same Market - Alpha</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>244ef6c9-aedc-4e0f-8de8-8a1a9292c90f</id>
+         <id>28803367-816b-4482-b577-4c291415b46c</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/ObjectsSameMarket-Beta</testDataId>
+         <testDataId>Data Files/ObjectsSameMarket-Alpha</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>244ef6c9-aedc-4e0f-8de8-8a1a9292c90f</testDataLinkId>
+         <testDataLinkId>28803367-816b-4482-b577-4c291415b46c</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>openbrowser</value>
          <variableId>12d7375d-ec8a-40d6-8cc3-5b5c49a8d7d6</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>244ef6c9-aedc-4e0f-8de8-8a1a9292c90f</testDataLinkId>
+         <testDataLinkId>28803367-816b-4482-b577-4c291415b46c</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>entry</value>
          <variableId>3b4a96f4-6c09-4c5c-aa9a-af7e34dcb056</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>244ef6c9-aedc-4e0f-8de8-8a1a9292c90f</testDataLinkId>
+         <testDataLinkId>28803367-816b-4482-b577-4c291415b46c</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>start</value>
          <variableId>6f0d5b05-f4ac-4b04-9c3b-79823d85314b</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>244ef6c9-aedc-4e0f-8de8-8a1a9292c90f</testDataLinkId>
+         <testDataLinkId>28803367-816b-4482-b577-4c291415b46c</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>myaccount</value>
          <variableId>18c8ffb5-f5e0-4eb2-84d1-a0a0d8d66a52</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>244ef6c9-aedc-4e0f-8de8-8a1a9292c90f</testDataLinkId>
+         <testDataLinkId>28803367-816b-4482-b577-4c291415b46c</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>exit</value>
          <variableId>3b41572c-063e-4431-afa2-923a135bf7d7</variableId>
