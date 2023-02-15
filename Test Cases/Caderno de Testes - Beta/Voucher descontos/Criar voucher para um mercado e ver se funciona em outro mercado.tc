@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Client by market Criar voucher para um mercado e ver se funciona em outro mercado</name>
+   <name>Criar voucher para um mercado e ver se funciona em outro mercado</name>
    <tag>Voucher/descontos:Regressaoday1</tag>
    <comment></comment>
-   <testCaseGuid>8026de59-dd92-44b2-a073-099125ee4f15</testCaseGuid>
+   <testCaseGuid>1ef58789-f06c-4e47-99c9-71dd3b92b63d</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
       <id>e5497527-f582-427f-821a-2b672913f6ef</id>
@@ -18,194 +18,194 @@
       <testDataLinkId>e5497527-f582-427f-821a-2b672913f6ef</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>locale</value>
-      <variableId>c35966d1-6842-4371-88df-68411595211d</variableId>
+      <variableId>88a506f4-1147-4718-939a-9a21062e78be</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId>e5497527-f582-427f-821a-2b672913f6ef</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>openbrowser</value>
-      <variableId>9144ad72-c2e2-4793-bc87-fbe647a097b4</variableId>
+      <variableId>14c92a40-0723-478a-954b-f15500b4b3f7</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId>e5497527-f582-427f-821a-2b672913f6ef</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>entry</value>
-      <variableId>76cf2085-5f3e-4796-974b-14f5f2743fa5</variableId>
+      <variableId>ee7c239d-ce0f-448b-84ca-8a7b64f16d5c</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId>e5497527-f582-427f-821a-2b672913f6ef</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>start</value>
-      <variableId>a464563c-757f-4655-bb34-859a0b2d2e27</variableId>
+      <variableId>2cfe0e0e-3c4b-47de-9bb7-4e317f17bc05</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId>e5497527-f582-427f-821a-2b672913f6ef</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>myaccount</value>
-      <variableId>9946ac87-22ce-4c7e-bbfb-cbadead75ca9</variableId>
+      <variableId>1d93e3e5-d20b-497f-ba5f-49f46912de34</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId>e5497527-f582-427f-821a-2b672913f6ef</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>exit</value>
-      <variableId>485c9f97-d2e2-4cfb-9d28-ea7863f79ca7</variableId>
+      <variableId>9257ef20-0039-499f-94c0-8be00a29bf15</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId>e5497527-f582-427f-821a-2b672913f6ef</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>moreproducts</value>
-      <variableId>b78936da-9128-40ff-99ab-da34e9f54047</variableId>
+      <variableId>a77d0dc9-31a6-4587-8741-6d0beb0ce8f6</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId>e5497527-f582-427f-821a-2b672913f6ef</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>moresales</value>
-      <variableId>5676a7c3-8b11-420b-9572-0c940547cdb4</variableId>
+      <variableId>a5eae678-4bd9-42f9-9274-af951915ccd6</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId>e5497527-f582-427f-821a-2b672913f6ef</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>product_type</value>
-      <variableId>e76b7946-b6f5-456f-9f5d-8633be59203e</variableId>
+      <variableId>2309d1e8-bfa2-465f-b98e-1f008cf79fc0</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId>e5497527-f582-427f-821a-2b672913f6ef</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>div_start_purchase</value>
-      <variableId>24cd44c7-ad78-4256-9342-df8fcbd4fc2a</variableId>
+      <variableId>6566f88a-2808-4add-8d20-eaf8baf370c5</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId>e5497527-f582-427f-821a-2b672913f6ef</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>see_design</value>
-      <variableId>929939ef-b472-4929-9822-6f80942100a5</variableId>
+      <variableId>a3afc861-cde5-40fc-8ca5-8bb9aa1d50d3</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId>e5497527-f582-427f-821a-2b672913f6ef</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>choose_design</value>
-      <variableId>36fc29e8-dcde-42e7-a374-f5eeb413afda</variableId>
+      <variableId>326c8183-e27c-44be-9f9a-0d9ed5f03545</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId>e5497527-f582-427f-821a-2b672913f6ef</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>product_close</value>
-      <variableId>6c29e9bc-b3f7-4387-bc1e-f0dc9a2325a7</variableId>
+      <variableId>258e123a-6e56-44e7-bbab-a28382238a48</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId>e5497527-f582-427f-821a-2b672913f6ef</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>product_finalize</value>
-      <variableId>9cb85bad-2659-4de1-8e52-72ea5d16bf3e</variableId>
+      <variableId>7087e725-6b1a-4004-a9c8-37dc18d34041</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId>e5497527-f582-427f-821a-2b672913f6ef</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>basket_next</value>
-      <variableId>2d2c9699-2789-485c-ac3c-147f49bd6afb</variableId>
+      <variableId>3ecc4966-55dd-4975-88b8-7554cc1e1a70</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>c35966d1-6842-4371-88df-68411595211d</id>
+      <id>88a506f4-1147-4718-939a-9a21062e78be</id>
       <masked>false</masked>
       <name>locale</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>9144ad72-c2e2-4793-bc87-fbe647a097b4</id>
+      <id>14c92a40-0723-478a-954b-f15500b4b3f7</id>
       <masked>false</masked>
       <name>openbrowser</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>76cf2085-5f3e-4796-974b-14f5f2743fa5</id>
+      <id>ee7c239d-ce0f-448b-84ca-8a7b64f16d5c</id>
       <masked>false</masked>
       <name>entry</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>a464563c-757f-4655-bb34-859a0b2d2e27</id>
+      <id>2cfe0e0e-3c4b-47de-9bb7-4e317f17bc05</id>
       <masked>false</masked>
       <name>start</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>9946ac87-22ce-4c7e-bbfb-cbadead75ca9</id>
+      <id>1d93e3e5-d20b-497f-ba5f-49f46912de34</id>
       <masked>false</masked>
       <name>myaccount</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>485c9f97-d2e2-4cfb-9d28-ea7863f79ca7</id>
+      <id>9257ef20-0039-499f-94c0-8be00a29bf15</id>
       <masked>false</masked>
       <name>exit</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>b78936da-9128-40ff-99ab-da34e9f54047</id>
+      <id>a77d0dc9-31a6-4587-8741-6d0beb0ce8f6</id>
       <masked>false</masked>
       <name>moreproducts</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>5676a7c3-8b11-420b-9572-0c940547cdb4</id>
+      <id>a5eae678-4bd9-42f9-9274-af951915ccd6</id>
       <masked>false</masked>
       <name>moresales</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>e76b7946-b6f5-456f-9f5d-8633be59203e</id>
+      <id>2309d1e8-bfa2-465f-b98e-1f008cf79fc0</id>
       <masked>false</masked>
       <name>product_type</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>24cd44c7-ad78-4256-9342-df8fcbd4fc2a</id>
+      <id>6566f88a-2808-4add-8d20-eaf8baf370c5</id>
       <masked>false</masked>
       <name>div_start_purchase</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>929939ef-b472-4929-9822-6f80942100a5</id>
+      <id>a3afc861-cde5-40fc-8ca5-8bb9aa1d50d3</id>
       <masked>false</masked>
       <name>see_design</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>36fc29e8-dcde-42e7-a374-f5eeb413afda</id>
+      <id>326c8183-e27c-44be-9f9a-0d9ed5f03545</id>
       <masked>false</masked>
       <name>choose_design</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>6c29e9bc-b3f7-4387-bc1e-f0dc9a2325a7</id>
+      <id>258e123a-6e56-44e7-bbab-a28382238a48</id>
       <masked>false</masked>
       <name>product_close</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>9cb85bad-2659-4de1-8e52-72ea5d16bf3e</id>
+      <id>7087e725-6b1a-4004-a9c8-37dc18d34041</id>
       <masked>false</masked>
       <name>product_finalize</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>2d2c9699-2789-485c-ac3c-147f49bd6afb</id>
+      <id>3ecc4966-55dd-4975-88b8-7554cc1e1a70</id>
       <masked>false</masked>
       <name>basket_next</name>
    </variable>
