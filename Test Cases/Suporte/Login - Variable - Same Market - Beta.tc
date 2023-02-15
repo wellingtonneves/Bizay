@@ -7,7 +7,7 @@
    <testCaseGuid>802d0bd4-7eee-4598-9e4c-7db4d56296a1</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
-      <id>8e046c01-e3a1-4c02-8509-41ea2dfe040e</id>
+      <id>bef3bb99-f08c-4a70-99f7-d2494295988f</id>
       <iterationEntity>
          <iterationType>ALL</iterationType>
          <value></value>
@@ -15,31 +15,31 @@
       <testDataId>Data Files/ObjectsSameMarket-Alpha</testDataId>
    </testDataLinks>
    <variableLinks>
-      <testDataLinkId>8e046c01-e3a1-4c02-8509-41ea2dfe040e</testDataLinkId>
+      <testDataLinkId>bef3bb99-f08c-4a70-99f7-d2494295988f</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>openbrowser</value>
       <variableId>eafb5129-904c-4492-ad35-49d2ee7bf42f</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>8e046c01-e3a1-4c02-8509-41ea2dfe040e</testDataLinkId>
+      <testDataLinkId>bef3bb99-f08c-4a70-99f7-d2494295988f</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>entry</value>
       <variableId>a1361f76-667b-4d20-a845-2862bbd1f0e9</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>8e046c01-e3a1-4c02-8509-41ea2dfe040e</testDataLinkId>
+      <testDataLinkId>bef3bb99-f08c-4a70-99f7-d2494295988f</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>start</value>
       <variableId>9ad43f0e-9b0e-4402-9b69-8fb2d531d42a</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>8e046c01-e3a1-4c02-8509-41ea2dfe040e</testDataLinkId>
+      <testDataLinkId>bef3bb99-f08c-4a70-99f7-d2494295988f</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>myaccount</value>
       <variableId>4282ac51-c881-4c8b-b117-e07431ca4da2</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>8e046c01-e3a1-4c02-8509-41ea2dfe040e</testDataLinkId>
+      <testDataLinkId>bef3bb99-f08c-4a70-99f7-d2494295988f</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>exit</value>
       <variableId>629dd1ad-9e46-4bc2-9514-f4de0e5664fc</variableId>

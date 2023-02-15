@@ -5,12 +5,50 @@
    <tag></tag>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>225fe247-d6c8-4c13-be2c-bb8120ba51d0</dataFileGUID>
-   <dataSourceUrl>C:\Katalon\Objetos - SameMarket.xlsx</dataSourceUrl>
-   <driver>ExcelFile</driver>
+   <dataFileGUID>d218cedb-0e2b-4155-a9ad-5094a0266adf</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>pt https%3A%2F%2Falpha.360imprimir.pt%2F LoginNewUser+-+Variable%2FPage_360imprimir++Grfica+Online%2C+Produtos+P_a22487%2Fa_Entrar++Registar LoginNewUser+-+Variable%2FPage_Iniciar+sesso%2Fbutton_Iniciar+sesso LoginNewUser+-+Variable%2FPage_Debora+Syone%2Fa_A+minha+conta LoginNewUser+-+Variable%2FPage_Debora+Syone%2Fa_Sair LoginNewUser+-+Variable%2FPage_Fazer+Login%2Fdiv_xDados+de+login+invlidos</data>
+   <data>uk https%3A%2F%2Falpha.bizay.co.uk%2F LoginNewUser+-+Variable%2FPage_360imprimir++Grfica+Online%2C+Produtos+P_a22487%2Fa_Entrar++Registar LoginNewUser+-+Variable%2FPage_Iniciar+sesso%2Fbutton_Iniciar+sesso oginNewUser+-+Variable%2FPage_Debora+Syone%2Fa_A+minha+conta LoginNewUser+-+Variable%2FPage_Debora+Syone%2Fa_Sair LoginNewUser+-+Variable%2FPage_Fazer+Login%2Fdiv_xDados+de+login+invlidos</data>
+   <data>es https%3A%2F%2Falpha.360imprimir.es%2F LoginNewUser+-+Variable%2FPage_360imprimir++Grfica+Online%2C+Produtos+P_a22487%2Fa_Entrar++Registar LoginNewUser+-+Variable%2FPage_Iniciar+sesso%2Fbutton_Iniciar+sesso LoginNewUser+-+Variable%2FPage_Debora+Syone%2Fa_A+minha+conta LoginNewUser+-+Variable%2FPage_Debora+Syone%2Fa_Sair LoginNewUser+-+Variable%2FPage_Fazer+Login%2Fdiv_xDados+de+login+invlidos</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>locale</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>openbrowser</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>entry</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>start</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>myaccount</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>5</columnIndex>
+      <name>exit</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>6</columnIndex>
+      <name>logininvalid</name>
+      <size>3</size>
+   </internalDataColumns>
    <isInternalPath>false</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
-   <sheetName>Sheet1</sheetName>
+   <sheetName></sheetName>
    <usingGlobalDBSetting>false</usingGlobalDBSetting>
 </DataFileEntity>
