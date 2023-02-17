@@ -17,13 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startExistingApplication('com.android.chrome')
+//Mobile.startExistingApplication('com.android.chrome')
 
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://alpha.360imprimir.pt/')
 
-Mobile.tap(findTestObject('Mobile Objects Alpha/Abrir Menu Suspenso/android.view.View'), 30)
+Mobile.tap(findTestObject('Mobile Objects Alpha/Carrinho/android.widget.TextView - 0'), 30)
 
 Mobile.closeApplication()
 
