@@ -23,9 +23,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://alpha.360imprimir.pt/')
 
-Mobile.verifyElementAttributeValue(findTestObject('Mobile Objects Alpha/Abrir Menu Suspenso/android.view.View'), '', '', 
-    0)
-
 Mobile.tap(findTestObject('Mobile Objects Alpha/Abrir Menu Suspenso/android.view.View'), 0)
 
 Mobile.closeApplication()
