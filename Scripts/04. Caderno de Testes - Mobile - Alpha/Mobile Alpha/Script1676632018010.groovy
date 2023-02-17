@@ -22,11 +22,11 @@ Mobile.startExistingApplication('com.android.chrome')
 WebUI.openBrowser('https://alpha.360imprimir.pt/')
 
 //WebUI.navigateToUrl('https://alpha.360imprimir.pt/')
-WebUI.waitForElementVisible(findTestObject('Mobile Objects Alpha/Abrir Menu Suspenso/android.view.View'), 30)
+WebUI.waitForElementVisible(findTestObject('Mobile Objects Alpha/Cartoes de visita/android.view.View (1)'), 30)
 
-WebUI.waitForElementClickable(findTestObject('Mobile Objects Alpha/Abrir Menu Suspenso/android.view.View'), 30)
+WebUI.waitForElementClickable(findTestObject('Mobile Objects Alpha/Cartoes de visita/android.view.View (2)'), 30)
 
-Mobile.tap(findTestObject('Mobile Objects Alpha/Abrir Menu Suspenso/android.view.View'), 0)
+Mobile.tap(findTestObject('Mobile Objects Alpha/Cartoes de visita/android.view.View (2)'), 0)
 
 Mobile.closeApplication()
 
