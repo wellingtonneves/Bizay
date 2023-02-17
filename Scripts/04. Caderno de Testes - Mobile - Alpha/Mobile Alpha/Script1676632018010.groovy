@@ -22,12 +22,11 @@ Mobile.startExistingApplication('com.android.chrome')
 WebUI.openBrowser('https://alpha.360imprimir.pt/')
 
 //WebUI.navigateToUrl('https://alpha.360imprimir.pt/')
+WebUI.waitForElementVisible(findTestObject('Mobile Objects Alpha/Abrir Menu Suspenso/android.view.View'), 30)
 
-WebUI.waitForElementVisible(findTestObject('Record Web Responsive Mobile/android.widget.Image - mobile menu'), 30)
+WebUI.waitForElementClickable(findTestObject('Mobile Objects Alpha/Abrir Menu Suspenso/android.view.View'), 30)
 
-WebUI.waitForElementClickable(findTestObject('Record Web Responsive Mobile/android.widget.Image - mobile menu'), 30)
-
-Mobile.tap(findTestObject('Mobile Objects Alpha/Abrir Menu Suspenso/android.widget.Image - mobile menu'), 0)
+Mobile.tap(findTestObject('Mobile Objects Alpha/Abrir Menu Suspenso/android.view.View'), 0)
 
 Mobile.closeApplication()
 
