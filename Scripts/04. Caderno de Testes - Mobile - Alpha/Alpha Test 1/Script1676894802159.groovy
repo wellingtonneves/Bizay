@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startExistingApplication('com.android.chrome')
 
-WebUI.openBrowser('https://alpha.360imprimir.pt')
+WebUI.openBrowser('')
 
 //WebUI.openBrowser('')
 WebUI.navigateToUrl('https://alpha.360imprimir.pt')
