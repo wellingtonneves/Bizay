@@ -19,14 +19,14 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startExistingApplication('com.android.chrome')
 
-Mobile.tap(findTestObject('Object Repository/Alpha Teste 1/android.widget.Image - Impresso de Cartes de Visita para a sua empresa. Qualidade de impresso ao melhor preo do mercado'), 
+Mobile.tap(findTestObject('Object Repository/Alpha Test 2/android.widget.Image - Impresso de Cartes de Visita para a sua empresa. Qualidade de impresso ao melhor preo do mercado'), 
     0)
 
-Mobile.scrollToText('Inicie')
+Mobile.tap(findTestObject('Object Repository/Alpha Test 2/android.widget.Image - 360imprimir_logo_mobile'), 0)
 
-Mobile.pressBack()
+Mobile.tap(findTestObject('Object Repository/Alpha Test 2/android.widget.Image - Teste'), 0)
 
-Mobile.tap(findTestObject('Alpha Teste 1/android.widget.Image - 360imprimir_logo_mobile'), 0)
+Mobile.tap(findTestObject('Object Repository/Alpha Test 2/android.widget.Image - 360imprimir_logo_mobile (1)'), 0)
 
 Mobile.closeApplication()
 
