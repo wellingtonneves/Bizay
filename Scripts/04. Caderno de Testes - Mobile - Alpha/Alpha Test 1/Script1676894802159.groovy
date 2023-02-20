@@ -19,14 +19,10 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startExistingApplication('com.android.chrome')
 
-WebUI.openBrowser('https://alpha.360imprimir.pt/')
+Mobile.tap(findTestObject('Object Repository/Alpha Teste 1/android.widget.Image - Impresso de Cartes de Visita para a sua empresa. Qualidade de impresso ao melhor preo do mercado'), 
+    0)
 
-//WebUI.navigateToUrl('https://alpha.360imprimir.pt/')
-WebUI.waitForElementVisible(findTestObject('Mobile Objects Alpha/Cartoes de visita/android.view.View (1)'), 30)
-
-WebUI.waitForElementClickable(findTestObject('Mobile Objects Alpha/Cartoes de visita/android.view.View (2)'), 30)
-
-Mobile.tap(findTestObject('Mobile Objects Alpha/Cartoes de visita/android.view.View (2)'), 0)
+Mobile.scrollToText('Inicie')
 
 Mobile.closeApplication()
 

@@ -12,10 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>c95dc1a3-4614-4f93-bd23-ce1bcbacc5cf</testSuiteGuid>
    <testCaseLink>
-      <guid>8a3265a5-3271-4330-81cb-ec5b786bed52</guid>
+      <guid>b8240057-0d88-4cca-b54d-d61528e368f9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/04. Caderno de Testes - Mobile - Alpha/Mobile Alpha</testCaseId>
+      <testCaseId>Test Cases/04. Caderno de Testes - Mobile - Alpha/Alpha Test 1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
