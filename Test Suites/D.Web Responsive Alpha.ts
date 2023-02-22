@@ -15,7 +15,7 @@
       <guid>b8240057-0d88-4cca-b54d-d61528e368f9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/04. Caderno de Testes - Mobile - Alpha/CreationNewUserPT - Alpha - Browse Mobile</testCaseId>
+      <testCaseId>Test Cases/04. Caderno de Testes - Mobile - Alpha/CreationNewUserPT - Alpha - Browse Mobile - II</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
