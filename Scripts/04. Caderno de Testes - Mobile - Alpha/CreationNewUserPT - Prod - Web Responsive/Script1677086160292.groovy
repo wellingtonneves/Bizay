@@ -82,6 +82,12 @@ WebUI.enhancedClick(findTestObject('Object Repository/CreationNewUserPT - Web Re
 WebUI.setText(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_Registar Cliente/input_Telemvel_Phone'), 
     '961148765')
 
+WebUI.waitForElementPresent(findTestObject('CreationNewUserPT - Web Responsive/Page_Registar Cliente/input_Telemvel_createClient'), 
+    5)
+
+WebUI.waitForElementClickable(findTestObject('CreationNewUserPT - Web Responsive/Page_Registar Cliente/input_Telemvel_createClient'), 
+    5)
+
 WebUI.enhancedClick(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_Registar Cliente/input_Telemvel_createClient'))
 
 WebUI.closeBrowser()
