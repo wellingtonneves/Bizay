@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://alpha.360imprimir.pt/')
+WebUI.openBrowser('https://www.360imprimir.pt/')
 
-WebUI.waitForPageLoad(60)
+WebUI.waitForPageLoad(30)
 
 WebUI.waitForElementVisible(findTestObject('CreatioNewUserPT/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'), 
     30)

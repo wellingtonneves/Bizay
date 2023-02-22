@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_QA  Testing Services</name>
+   <tag></tag>
+   <elementGuidId>d28591b9-ca26-4644-a96b-49336cfb556a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hs_menu_wrapper_module_15409957208211825_']/ul/li[2]/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>27406169-ffee-4f9a-ad5f-1311f28b91cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.syone.com/solutions/qa-quality-assurance-testing-services</value>
+      <webElementGuid>6d58439c-9920-463f-b94e-f2cb9c9c6d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>ce63e017-398f-4c29-a14e-ace4d1453739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>QA &amp; Testing Services</value>
+      <webElementGuid>369e37a6-7b4b-45fe-ab14-dadb70e10b8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hs_menu_wrapper_module_15409957208211825_&quot;)/ul[1]/li[@class=&quot;hs-menu-item hs-menu-depth-1 hs-item-has-children&quot;]/ul[@class=&quot;hs-menu-children-wrapper&quot;]/li[@class=&quot;hs-menu-item hs-menu-depth-2&quot;]/a[1]</value>
+      <webElementGuid>b2ad62e6-427b-4e7d-9b2c-8275d0f84aca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hs_menu_wrapper_module_15409957208211825_']/ul/li[2]/ul/li[6]/a</value>
+      <webElementGuid>1ae92ec3-22f0-43ab-ae48-0409e47ee34e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'QA &amp; Testing Services')]</value>
+      <webElementGuid>ba538bf0-c780-43a1-83ff-9a48bb77fa78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Machine Learning &amp; AI'])[1]/following::a[1]</value>
+      <webElementGuid>52452001-c909-409b-9534-dfa739e0a750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IT Infrastructure'])[1]/following::a[2]</value>
+      <webElementGuid>70c53bee-1e3a-4ca0-8f79-d038302a8666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Software Development'])[1]/preceding::a[1]</value>
+      <webElementGuid>1072366e-4a21-4604-a74c-48e83a444b5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UX / UI'])[1]/preceding::a[2]</value>
+      <webElementGuid>195de38a-a76b-420b-a8c0-425033aab8df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='QA &amp; Testing Services']/parent::*</value>
+      <webElementGuid>b5e92526-0384-490f-ae07-78d99f374713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.syone.com/solutions/qa-quality-assurance-testing-services')]</value>
+      <webElementGuid>f1fdad6e-bebb-43e9-bb27-98101aef9cf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[6]/a</value>
+      <webElementGuid>02c96649-45d8-4bdb-ab33-449a014a2e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.syone.com/solutions/qa-quality-assurance-testing-services' and (text() = 'QA &amp; Testing Services' or . = 'QA &amp; Testing Services')]</value>
+      <webElementGuid>dd075c8b-5e94-4e85-8d57-5e39c1d3a9bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
