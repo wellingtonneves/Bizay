@@ -19,45 +19,45 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.waitForPageLoad(5)
+WebUI.waitForPageLoad(120)
 
 WebUI.navigateToUrl('https://alpha.360imprimir.pt/')
 
 WebUI.waitForElementPresent(findTestObject('CreationNewUserPT - Web Responsive/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'), 
-    5)
+    30)
 
 WebUI.waitForElementClickable(findTestObject('CreationNewUserPT - Web Responsive/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'), 
-    5)
+    30)
 
 WebUI.enhancedClick(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'))
 
 WebUI.waitForElementPresent(findTestObject('CreationNewUserPT - Web Responsive/Page_360imprimir  Grfica Online, Produtos P_a22487/img'), 
-    5)
+    30)
 
 WebUI.waitForElementClickable(findTestObject('CreationNewUserPT - Web Responsive/Page_360imprimir  Grfica Online, Produtos P_a22487/img'), 
-    5)
+    30)
 
 WebUI.enhancedClick(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_360imprimir  Grfica Online, Produtos P_a22487/img'))
 
 WebUI.waitForElementPresent(findTestObject('CreationNewUserPT - Web Responsive/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'), 
-    5)
+    30)
 
 WebUI.waitForElementClickable(findTestObject('CreationNewUserPT - Web Responsive/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'), 
-    5)
+    30)
 
 WebUI.enhancedClick(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
 
-WebUI.waitForElementPresent(findTestObject('CreationNewUserPT - Web Responsive/Page_Iniciar sesso/div_Criar Conta'), 5)
+WebUI.waitForElementPresent(findTestObject('CreationNewUserPT - Web Responsive/Page_Iniciar sesso/div_Criar Conta'), 30)
 
-WebUI.waitForElementClickable(findTestObject('CreationNewUserPT - Web Responsive/Page_Iniciar sesso/div_Criar Conta'), 5)
+WebUI.waitForElementClickable(findTestObject('CreationNewUserPT - Web Responsive/Page_Iniciar sesso/div_Criar Conta'), 30)
 
 WebUI.enhancedClick(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_Iniciar sesso/div_Criar Conta'))
 
 WebUI.setText(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_Iniciar sesso/input_Email_UserName'), 
-    'sy9992@syone.com')
+    'sy9993@syone.com')
 
 WebUI.setText(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_Iniciar sesso/input_Confirmar Email_ConfirmUserName'), 
-    'sy9992@syone.com')
+    'sy9993@syone.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_Iniciar sesso/input_Senha_Password'), 
     'aeHFOx8jV/A=')
@@ -65,9 +65,25 @@ WebUI.setEncryptedText(findTestObject('Object Repository/CreationNewUserPT - Web
 WebUI.setEncryptedText(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_Iniciar sesso/input_Confirmar senha_ConfirmPassword'), 
     'aeHFOx8jV/A=')
 
+WebUI.waitForElementPresent(findTestObject('CreationNewUserPT - Web Responsive/Page_Iniciar sesso/input_Termos e Condies_gpdrCheckbox'), 
+    30)
+
+WebUI.waitForElementClickable(findTestObject('CreationNewUserPT - Web Responsive/Page_Iniciar sesso/input_Termos e Condies_gpdrCheckbox'), 
+    30)
+
 WebUI.enhancedClick(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_Iniciar sesso/input_Termos e Condies_gpdrCheckbox'))
 
+WebUI.waitForElementPresent(findTestObject('CreationNewUserPT - Web Responsive/Page_Iniciar sesso/div_Criar Conta'), 30)
+
+WebUI.waitForElementClickable(findTestObject('CreationNewUserPT - Web Responsive/Page_Iniciar sesso/div_Criar Conta'), 30)
+
 WebUI.enhancedClick(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_Iniciar sesso/div_Criar Conta'))
+
+WebUI.waitForElementPresent(findTestObject('CreationNewUserPT - Web Responsive/Page_Registar Cliente/i_Particular_icon-ok-sign icon-3x'), 
+    30)
+
+WebUI.waitForElementClickable(findTestObject('CreationNewUserPT - Web Responsive/Page_Registar Cliente/i_Particular_icon-ok-sign icon-3x'), 
+    30)
 
 WebUI.enhancedClick(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_Registar Cliente/i_Particular_icon-ok-sign icon-3x'))
 
@@ -77,10 +93,22 @@ WebUI.setText(findTestObject('Object Repository/CreationNewUserPT - Web Responsi
 WebUI.setText(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_Registar Cliente/input_Apelido_Surname'), 
     'Syone')
 
+WebUI.waitForElementPresent(findTestObject('CreationNewUserPT - Web Responsive/Page_Registar Cliente/i_Feminino_icon-ok-sign icon-2x'), 
+    30)
+
+WebUI.waitForElementClickable(findTestObject('CreationNewUserPT - Web Responsive/Page_Registar Cliente/i_Feminino_icon-ok-sign icon-2x'), 
+    30)
+
 WebUI.enhancedClick(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_Registar Cliente/i_Feminino_icon-ok-sign icon-2x'))
 
 WebUI.setText(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_Registar Cliente/input_Telemvel_Phone'), 
     '961148765')
+
+WebUI.waitForElementPresent(findTestObject('CreationNewUserPT - Web Responsive/Page_Registar Cliente/input_Telemvel_createClient'), 
+    30)
+
+WebUI.waitForElementClickable(findTestObject('CreationNewUserPT - Web Responsive/Page_Registar Cliente/input_Telemvel_createClient'), 
+    30)
 
 WebUI.enhancedClick(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_Registar Cliente/input_Telemvel_createClient'))
 
