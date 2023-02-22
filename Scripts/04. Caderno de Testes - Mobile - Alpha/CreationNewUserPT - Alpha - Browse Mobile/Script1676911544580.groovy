@@ -19,12 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://www.360imprimir.pt/')
 
-WebUI.waitForPageLoad(30)
-
-WebUI.waitForElementVisible(findTestObject('CreatioNewUserPT/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'), 
-    30)
-
-WebUI.verifyElementClickable(findTestObject('CreatioNewUserPT/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
+WebUI.waitForElementClickable(findTestObject('CreatioNewUserPT/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'), 
+    5)
 
 WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
 
