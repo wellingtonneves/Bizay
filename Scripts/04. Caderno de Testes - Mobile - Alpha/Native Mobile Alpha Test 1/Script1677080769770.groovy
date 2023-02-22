@@ -17,12 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://www.360imprimir.pt/')
+Mobile.startExistingApplication('com.android.chrome')
 
-WebUI.waitForElementClickable(findTestObject('CreatioNewUserPT/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'), 
-    5)
+//WebUI.openBrowser('')
 
-WebUI.click(findTestObject('Object Repository/CreatioNewUserPT/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
+//WebUI.openBrowser('')
+//WebUI.navigateToUrl('https://alpha.360imprimir.pt')
 
-WebUI.closeBrowser()
+Mobile.tap(findTestObject('Object Repository/Native Mobile Alpha Teste 1/android.widget.Image - Impresso de Cartes de Visita para a sua empresa. Qualidade de impresso ao melhor preo do mercado'), 
+    0)
+
+Mobile.scrollToText('Inicie')
+
+Mobile.pressBack()
+
+Mobile.tap(findTestObject('Native Mobile Alpha Teste 1/android.widget.Image - 360imprimir_logo_mobile'), 0)
+
+Mobile.closeApplication()
 

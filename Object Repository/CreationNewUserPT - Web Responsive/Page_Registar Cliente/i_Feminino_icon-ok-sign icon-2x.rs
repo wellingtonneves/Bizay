@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Feminino_icon-ok-sign icon-2x</name>
+   <tag></tag>
+   <elementGuidId>daf21852-5efa-4fcc-bb16-62b102b49096</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='createOrEditv2']/div[5]/div/label[3]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>36d80277-023f-47e4-a5a4-c5d81d202396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-ok-sign icon-2x</value>
+      <webElementGuid>b1686e4a-1899-4efa-9d4a-5a16d91bf9d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createOrEditv2&quot;)/div[5]/div[@class=&quot;form-group&quot;]/label[@class=&quot;circle-check-radio col-xs-6&quot;]/i[@class=&quot;icon-ok-sign icon-2x&quot;]</value>
+      <webElementGuid>942ba09b-74d8-462f-be80-6201dfe5e618</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='createOrEditv2']/div[5]/div/label[3]/i</value>
+      <webElementGuid>ad96226b-cd6d-4f70-bdde-381763ce3fe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[3]/i</value>
+      <webElementGuid>b4e3afe5-3a17-40b5-b5ee-8bf28889df6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
