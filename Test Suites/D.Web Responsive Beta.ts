@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>D.Web Responsive Prod</name>
+   <name>D.Web Responsive Beta</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -15,7 +15,7 @@
       <guid>74672056-4f7b-4873-bd2d-34c796f8abfb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/04. Caderno de Testes - Mobile - Alpha/CreationNewUserPT - Prod - Web Responsive</testCaseId>
+      <testCaseId>Test Cases/04. Caderno de Testes - Mobile - Alpha/CreationNewUserPT - Beta - Web Responsive</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

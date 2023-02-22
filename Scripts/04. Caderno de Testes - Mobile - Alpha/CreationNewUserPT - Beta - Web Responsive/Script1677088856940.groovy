@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.waitForPageLoad(5)
 
-WebUI.navigateToUrl('https://www.360imprimir.pt/')
+WebUI.navigateToUrl('https://beta.360imprimir.pt/')
 
 WebUI.waitForElementPresent(findTestObject('CreationNewUserPT - Web Responsive/Page_360imprimir  Grfica Online, Produtos P_a22487/button_Aceito'), 
     5)
