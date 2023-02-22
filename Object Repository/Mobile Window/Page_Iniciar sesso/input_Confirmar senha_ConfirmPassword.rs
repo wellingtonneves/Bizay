@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__UserName</name>
+   <name>input_Confirmar senha_ConfirmPassword</name>
    <tag></tag>
-   <elementGuidId>132dbc23-ba5f-43d4-805d-08f302b95f79</elementGuidId>
+   <elementGuidId>758b0c3a-6fb4-4367-b881-d1805c1ab1cc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#UserName</value>
+         <value>#ConfirmPasswordMobile</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='UserName']</value>
+         <value>//input[@id='ConfirmPasswordMobile']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c0bc6b4a-7082-4dba-9b22-9c0417d845b9</webElementGuid>
+      <webElementGuid>efee5c30-c042-40c6-91a0-e87eb783b172</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>e4258e9d-639e-4ed0-9c3c-84731d80babb</webElementGuid>
+      <webElementGuid>eab85438-9efc-47af-858c-718a5b1e4acc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,110 +38,110 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>bbe72b47-7250-439a-b615-bc9b8ce95749</webElementGuid>
+      <webElementGuid>b77f4af9-6668-41d1-96f2-cce60ff4e858</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-val-length</name>
+      <name>data-val-equalto</name>
       <type>Main</type>
-      <value>O campo e-mail não pode exceder os 56 caracteres.</value>
-      <webElementGuid>04a8f556-f2f6-484c-a820-16cf50c14f62</webElementGuid>
+      <value>As passwords são diferentes.</value>
+      <webElementGuid>b7c998b1-e1f4-4905-a6a3-95c2c3c84f3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-val-length-max</name>
+      <name>data-val-equalto-other</name>
       <type>Main</type>
-      <value>56</value>
-      <webElementGuid>f39fa726-c3b0-414c-a822-1d727d60dfce</webElementGuid>
+      <value>*.Password</value>
+      <webElementGuid>6dc26e11-8be7-42de-bff3-ebb92c8f0643</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-val-required</name>
       <type>Main</type>
-      <value>O campo 'Email' é obrigatório.</value>
-      <webElementGuid>d1c8820a-610d-439b-ab46-c69d9864d96d</webElementGuid>
+      <value>O campo 'Confirmar senha' é obrigatório.</value>
+      <webElementGuid>f5710504-8002-49e3-bf3d-fea8f90d00a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>UserName</value>
-      <webElementGuid>fb2ecb2e-198b-47ae-bebf-52eb837e549e</webElementGuid>
+      <value>ConfirmPasswordMobile</value>
+      <webElementGuid>0de2520f-e653-4e76-b6cb-8f987d1f3c89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>UserName</value>
-      <webElementGuid>251f8c70-9d85-4775-ab75-3eb473f829c4</webElementGuid>
+      <value>ConfirmPassword</value>
+      <webElementGuid>cda88911-73cd-4a78-b495-b0123d0209d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ng-click</name>
       <type>Main</type>
-      <value>callDataLayer('Click','Account_Login','Registo','UserName')</value>
-      <webElementGuid>aa3c2634-68c9-4cc5-be06-006e69c097b4</webElementGuid>
+      <value>callDataLayer('Click','Account_Login','Registo','ConfirmPassword')</value>
+      <webElementGuid>67dfc749-0b50-4657-8521-d0cf9d9173c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Email</value>
-      <webElementGuid>c0920f7c-9678-4169-84d8-1ef7af2a6f32</webElementGuid>
+      <value>Confirmar senha</value>
+      <webElementGuid>af8e6d7e-abfb-45af-bd04-b1e156991a23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>e6242f60-2035-43e6-b39d-7beaf21ad548</webElementGuid>
+      <value>password</value>
+      <webElementGuid>0339278c-85d7-417f-9e23-049e1d400016</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;UserName&quot;)</value>
-      <webElementGuid>0ca2bd97-1aad-4995-be81-b617d319b927</webElementGuid>
+      <value>id(&quot;ConfirmPasswordMobile&quot;)</value>
+      <webElementGuid>b1bcc961-4f0d-4a34-8c82-bdb8af864fcd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='UserName']</value>
-      <webElementGuid>6421f44f-5950-49c6-9b31-13ce201d6222</webElementGuid>
+      <value>//input[@id='ConfirmPasswordMobile']</value>
+      <webElementGuid>233a710f-b1d9-43bd-b9b9-8f456ad5df29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='colapseRegisterForm']/form/div[2]/div[2]/input</value>
-      <webElementGuid>d680b207-f8d5-4b29-95d3-4b1b7ea5f3ca</webElementGuid>
+      <value>//div[@id='accordionRegister']/form/div/div[5]/input</value>
+      <webElementGuid>6880075d-991b-498c-8e78-034004781d84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>9e5594a8-a84f-4ecd-865a-2a57edfdceec</webElementGuid>
+      <value>//div[2]/div/div/div/div[2]/form/div/div[5]/input</value>
+      <webElementGuid>cfa8086a-a643-4ac7-8fd0-f6620364920c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'UserName' and @name = 'UserName' and @placeholder = 'Email' and @type = 'email']</value>
-      <webElementGuid>74236860-6868-4406-ac17-9be8808b7c6b</webElementGuid>
+      <value>//input[@id = 'ConfirmPasswordMobile' and @name = 'ConfirmPassword' and @placeholder = 'Confirmar senha' and @type = 'password']</value>
+      <webElementGuid>56825cb0-7b54-43ab-9124-996384112e68</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

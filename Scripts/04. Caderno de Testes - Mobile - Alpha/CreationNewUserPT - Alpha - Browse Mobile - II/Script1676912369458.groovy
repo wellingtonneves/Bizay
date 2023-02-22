@@ -17,6 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys*/ import com.kms.katalon.core.model.FailureHandling as FailureHandling
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('https://alpha.360imprimir.pt/')
 
@@ -34,31 +43,23 @@ WebUI.waitForElementVisible(findTestObject('CreatioNewUserPT/Page_360imprimir  G
 
 WebUI.enhancedClick(findTestObject('Object Repository/CreatioNewUserPT/Page_360imprimir  Grfica Online, Produtos P_a22487/a_Entrar  Registar'))
 
-WebUI.setText(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/input__UserName'), 'sy892syone@gmail.com')
+WebUI.waitForElementVisible(findTestObject('Page_Iniciar sesso/div_Criar Conta_Mobile'), 30)
 
-WebUI.setText(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/input__ConfirmUserName'), 'sy892syone@gmail.com')
+WebUI.verifyElementClickable(findTestObject('Page_Iniciar sesso/div_Criar Conta_Mobile'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/input__Password'), 'aeHFOx8jV/A=')
+WebUI.enhancedClick(findTestObject('Page_Iniciar sesso/div_Criar Conta_Mobile'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/input__ConfirmPassword'), 'aeHFOx8jV/A=')
+WebUI.setText(findTestObject('Mobile Window/Page_Iniciar sesso/input_Email_UserName'), 'sy892syone@gmail.com')
 
-WebUI.enhancedClick(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/input_Termos e Condies_gpdrCheckbox'))
+WebUI.setText(findTestObject('Mobile Window/Page_Iniciar sesso/input_Confirmar Email_ConfirmUserName'), 'sy892syone@gmail.com')
 
-WebUI.enhancedClick(findTestObject('Object Repository/CreatioNewUserPT/Page_Iniciar sesso/div_Criar Conta'))
+WebUI.setEncryptedText(findTestObject('Mobile Window/Page_Iniciar sesso/input_Senha_Password'), 'aeHFOx8jV/A=')
 
-WebUI.enhancedClick(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/i_Particular_icon-ok-sign icon-3x'))
+WebUI.setEncryptedText(findTestObject('Mobile Window/Page_Iniciar sesso/input_Confirmar senha_ConfirmPassword'), 'aeHFOx8jV/A=')
 
-WebUI.setText(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/input_Apelido_Name'), 'Debora')
+WebUI.enhancedClick(findTestObject('Mobile Window/Page_Iniciar sesso/input_Termos e Condies_gpdrCheckbox'))
 
-WebUI.setText(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/input_Apelido_Surname'), 'Syone')
-
-WebUI.enhancedClick(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/i_Feminino_icon-ok-sign icon-2x'))
-
-WebUI.setText(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/input_Telemvel_Phone'), '961138965')
-
-WebUI.enhancedClick(findTestObject('Object Repository/CreatioNewUserPT/Page_Registar Cliente/input_Telemvel_createClient'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/CreatioNewUserPT/Page_Debora Syone/button_'))
+WebUI.enhancedClick(findTestObject('Mobile Window/Page_Iniciar sesso/div_Criar Conta'))
 
 WebUI.closeBrowser()
 
