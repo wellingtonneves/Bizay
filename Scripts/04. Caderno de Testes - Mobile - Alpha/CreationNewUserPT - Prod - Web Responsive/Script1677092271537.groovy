@@ -54,10 +54,10 @@ WebUI.waitForElementClickable(findTestObject('CreationNewUserPT - Web Responsive
 WebUI.enhancedClick(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_Iniciar sesso/div_Criar Conta'))
 
 WebUI.setText(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_Iniciar sesso/input_Email_UserName'), 
-    'sy9994@syone.com')
+    'sy9995@syone.com')
 
 WebUI.setText(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_Iniciar sesso/input_Confirmar Email_ConfirmUserName'), 
-    'sy9994@syone.com')
+    'sy9995@syone.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/CreationNewUserPT - Web Responsive/Page_Iniciar sesso/input_Senha_Password'), 
     'aeHFOx8jV/A=')
