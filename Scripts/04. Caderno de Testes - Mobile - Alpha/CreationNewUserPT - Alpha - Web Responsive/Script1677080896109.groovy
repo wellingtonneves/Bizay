@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.waitForPageLoad(120)
+WebUI.waitForPageLoad(30)
 
 WebUI.navigateToUrl('https://alpha.360imprimir.pt/')
 
